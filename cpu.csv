@@ -1,0 +1,11 @@
+Commodity,Component,Supplier,Cost,SPR,CPR
+Intel i3,10001,Intel,17500,7,8
+Intel i5,10002,Intel,25000,6,8
+Intel i7,10003,Intel,35000,7,8
+Intel i9,10004,Intel,45000,8,9
+Intel Atom,10005,Intel,12000,5,7
+Ryzen 3,10006,AMD,12000,6,7
+Ryzen 5,10007,AMD,22000,6,7
+Ryzen 7,10008,AMD,31000,6,7
+Ryzen 9,10009,AMD,43000,7,8
+A6,10010,AMD,10000,5,6
