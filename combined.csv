@@ -1,0 +1,3725 @@
+﻿Commodity,Component,Supplier,Cost,SupplierPerformanceRating,ComponentPerformanceRating
+Screen,60001,Samsung ,1007,4,8
+Screen,60002,Intel,636,1,7
+Screen,60003,Western Digital ,122,4,8
+Screen,60004,"3 Round Stones, Inc.",37,5,4
+Screen,60005,48 Factoring Inc.,627,2,3
+Screen,60006,5PSolutions,1076,7,1
+Screen,60007,Abt Associates,446,6,6
+Screen,60008,Accela,720,2,3
+Screen,60009,Accenture,593,8,2
+Screen,60010,AccuWeather,1039,8,6
+Screen,60011,Acxiom,790,3,1
+Screen,60012,Adaptive,76,7,4
+Screen,60013,Adobe Digital Government,553,9,2
+Screen,60014,Aidin,362,4,9
+Screen,60015,Alarm.com,869,8,2
+Screen,60016,Allianz,68,3,4
+Screen,60017,Allied Van Lines,897,7,7
+Screen,60018,AllState Insurance Group,493,5,9
+Screen,60019,Alltuition,126,4,2
+Screen,60020,Altova,1064,1,7
+Screen,60021,Amazon Web Services,1032,9,4
+Screen,60022,American Red Ball Movers,644,1,9
+Screen,60023,Amida Technology Solutions,369,8,9
+Screen,60024,Analytica,895,1,8
+Screen,60025,Apextech LLC,910,1,5
+Screen,60026,Appallicious,314,2,9
+Screen,60027,Aquicore,1053,3,9
+Screen,60028,Archimedes Inc.,986,1,5
+Screen,60029,AreaVibes Inc.,994,1,9
+Screen,60030,Arpin Van Lines,138,8,3
+Screen,60031,Arrive Labs,308,7,8
+Screen,60032,ASC Partners,931,6,2
+Screen,60033,Asset4,194,7,8
+Screen,60034,Atlas Van Lines,387,9,9
+Screen,60035,AtSite,266,7,2
+Screen,60036,"Aunt Bertha, Inc.",103,9,7
+Screen,60037,Aureus Sciences (*Now part of Elsevier),780,8,3
+Screen,60038,AutoGrid Systems,122,1,5
+Screen,60039,Avalara,896,1,8
+Screen,60040,Avvo,761,9,4
+Screen,60041,Ayasdi,578,5,3
+Screen,60042,Azavea,267,8,4
+Screen,60043,BaleFire Global,697,1,6
+Screen,60044,Barchart,955,9,6
+Screen,60045,Be Informed,1025,7,8
+Screen,60046,Bekins,576,4,9
+Screen,60047,Berkery Noyes MandASoft,229,8,6
+Screen,60048,Berkshire Hathaway,55,8,3
+Screen,60049,BetterLesson,361,8,1
+Screen,60050,BillGuard,736,4,1
+Screen,60051,Bing,699,9,5
+Screen,60052,Biovia,677,5,5
+Screen,60053,BizVizz,29,8,4
+Screen,60054,BlackRock,270,6,7
+Screen,60055,Bloomberg,622,4,1
+Screen,60056,Booz Allen Hamilton,280,5,9
+Screen,60057,Boston Consulting Group,73,4,6
+Screen,60058,Boundless,146,8,4
+Screen,60059,Bridgewater,453,6,7
+Screen,60060,Brightscope,526,3,5
+Screen,60061,BuildFax,290,4,2
+Screen,60062,Buildingeye,531,5,3
+Screen,60063,BuildZoom,523,9,2
+Screen,60064,Business and Legal Resources,504,7,2
+Screen,60065,Business Monitor International,759,6,1
+Screen,60066,"Calcbench, Inc.",909,2,5
+Screen,60067,Cambridge Information Group,25,4,8
+Screen,60068,Cambridge Semantics,846,8,4
+Screen,60069,CAN Capital,979,3,1
+Screen,60070,Canon,204,5,8
+Screen,60071,Capital Cube,144,3,4
+Screen,60072,Cappex,187,1,5
+Screen,60073,Captricity,1042,6,3
+Screen,60074,CareSet Systems,230,8,2
+Screen,60075,Careset.com,310,7,4
+Screen,60076,CARFAX,618,9,1
+Screen,60077,Caspio,281,6,3
+Screen,60078,Castle Biosciences,983,9,9
+Screen,60079,CB Insights,175,4,4
+Screen,60080,Ceiba Solutions,657,6,9
+Screen,60081,Center for Responsive Politics,1046,3,6
+Screen,60082,Cerner,796,9,6
+Screen,60083,Certara,896,3,8
+Screen,60084,CGI,123,7,6
+Screen,60085,Charles River Associates,885,1,3
+Screen,60086,Charles Schwab Corp.,304,5,5
+Screen,60087,Chemical Abstracts Service,184,6,7
+Screen,60088,Child Care Desk,666,1,5
+Screen,60089,Chubb,822,8,6
+Screen,60090,Citigroup,333,3,8
+Screen,60091,CityScan,642,8,6
+Screen,60092,CitySourced,692,3,8
+Screen,60093,Civic Impulse LLC,1020,8,3
+Screen,60094,Civic Insight,820,4,9
+Screen,60095,Civinomics,804,6,1
+Screen,60096,Civis Analytics,792,7,1
+Screen,60097,Clean Power Finance,752,6,6
+Screen,60098,ClearHealthCosts,120,4,7
+Screen,60099,ClearStory Data,625,6,7
+Screen,60100,Climate Corporation,1064,8,5
+Screen,60101,CliniCast,294,1,5
+Screen,60102,Cloudmade,685,6,6
+Screen,60103,Cloudspyre,388,1,8
+Screen,60104,Code for America,910,1,2
+Screen,60105,Code-N,467,1,8
+Screen,60106,Collective IP,403,4,5
+Screen,60107,"College Abacus, an ECMC initiative",953,5,2
+Screen,60108,College Board,374,4,9
+Screen,60109,Compared Care,432,9,3
+Screen,60110,Compendia Bioscience Life Technologies,200,2,6
+Screen,60111,Compliance and Risks,178,5,7
+Screen,60112,Computer Packages Inc,86,4,2
+Screen,60113,CONNECT-DOT LLC.,45,6,8
+Screen,60114,ConnectEDU,853,8,7
+Screen,60115,Connotate,508,8,6
+Screen,60116,Construction Monitor LLC,489,1,2
+Screen,60117,Consumer Reports,560,9,7
+Screen,60118,CoolClimate,49,2,6
+Screen,60119,Copyright Clearance Center,705,5,6
+Screen,60120,CoreLogic,470,5,5
+Screen,60121,CostQuest,517,6,3
+Screen,60122,Credit Karma,231,3,5
+Screen,60123,Credit Sesame,912,2,2
+Screen,60124,CrowdANALYTIX,910,3,7
+Screen,60125,Dabo Health,1062,4,2
+Screen,60126,DataLogix,567,8,1
+Screen,60127,DataMade,1033,2,7
+Screen,60128,DataMarket,293,4,3
+Screen,60129,Datamyne,143,5,3
+Screen,60130,DataWeave,207,9,4
+Screen,60131,Deloitte,779,2,6
+Screen,60132,DemystData,427,6,1
+Screen,60133,Department of Better Technology,431,8,6
+Screen,60134,Development Seed,1065,7,1
+Screen,60135,"Docket Alarm, Inc.",466,2,1
+Screen,60136,Dow Jones & Co.,563,7,1
+Screen,60137,Dun & Bradstreet,257,6,9
+Screen,60138,Earth Networks,420,9,8
+Screen,60139,EarthObserver App,147,1,1
+Screen,60140,Earthquake Alert!,91,3,2
+Screen,60141,Eat Shop Sleep,921,7,9
+Screen,60142,Ecodesk,403,2,9
+Screen,60143,eInstitutional,189,1,8
+Screen,60144,Embark,970,9,1
+Screen,60145,EMC,199,7,6
+Screen,60146,"Energy Points, Inc.",425,7,3
+Screen,60147,Energy Solutions Forum,155,4,1
+Screen,60148,Enervee Corporation,163,3,8
+Screen,60149,Enigma.io,797,5,2
+Screen,60150,Ensco,823,8,4
+Screen,60151,Environmental Data Resources,807,6,3
+Screen,60152,Epsilon,348,4,9
+Screen,60153,Equal Pay for Women,467,1,5
+Screen,60154,Equifax,1011,8,3
+Screen,60155,Equilar,467,1,6
+Screen,60156,Ernst & Young LLP,171,5,2
+Screen,60157,eScholar LLC.,918,7,4
+Screen,60158,Esri,326,4,2
+Screen,60159,Estately,815,7,3
+Screen,60160,Everyday Health,130,4,7
+Screen,60161,Evidera,1076,1,3
+Screen,60162,Experian,62,3,2
+Screen,60163,"Expert Health Data Programming, Inc.",705,7,3
+Screen,60164,Exversion,1095,8,2
+Screen,60165,Ez-XBRL,396,7,2
+Screen,60166,Factset,62,6,4
+Screen,60167,Factual,94,7,2
+Screen,60168,Farmers,930,8,7
+Screen,60169,FarmLogs,910,7,3
+Screen,60170,Fastcase,687,3,2
+Screen,60171,Fidelity Investments,942,4,8
+Screen,60172,FindTheBest.com,541,3,8
+Screen,60173,First Fuel Software,1040,3,6
+Screen,60174,"FirstPoint, Inc.",330,4,5
+Screen,60175,Fitch,365,6,6
+Screen,60176,FlightAware,726,2,2
+Screen,60177,FlightStats,448,5,7
+Screen,60178,FlightView,435,2,6
+Screen,60179,Food+Tech Connect,815,9,9
+Screen,60180,Forrester Research,265,1,7
+Screen,60181,Foursquare,546,7,3
+Screen,60182,Fujitsu,764,1,4
+Screen,60183,Funding Circle,638,7,3
+Screen,60184,FutureAdvisor,513,2,9
+Screen,60185,"Fuzion Apps, Inc.",353,1,1
+Screen,60186,Gallup,499,3,2
+Screen,60187,Galorath Incorporated,1043,9,9
+Screen,60188,Garmin,1063,9,7
+Screen,60189,Genability,781,7,8
+Screen,60190,GenoSpace,490,6,6
+Screen,60191,Geofeedia,87,6,2
+Screen,60192,Geolytics,105,9,4
+Screen,60193,Geoscape,382,6,4
+Screen,60194,GetRaised,436,8,2
+Screen,60195,GitHub,289,6,6
+Screen,60196,Glassy Media,858,3,9
+Screen,60197,Golden Helix,711,3,8
+Screen,60198,GoodGuide,1016,3,8
+Screen,60199,Google Maps,991,8,6
+Screen,60200,Google Public Data Explorer,16,5,2
+Screen,60201,Government Transaction Services,403,6,4
+Screen,60202,Govini,406,8,5
+Screen,60203,GovTribe,324,8,7
+Screen,60204,"Govzilla, Inc.",78,9,7
+Screen,60205,gRadiant Research LLC,581,2,9
+Screen,60206,Graebel Van Lines,712,1,2
+Screen,60207,"Graematter, Inc.",1051,6,7
+Screen,60208,Granicus,664,6,6
+Screen,60209,GreatSchools,307,6,5
+Screen,60210,GuideStar,882,8,9
+Screen,60211,H3 Biomedicine,995,9,6
+Screen,60212,Harris Corporation,919,3,1
+Screen,60213,"HDScores, Inc",636,1,5
+Screen,60214,Headlight,322,4,5
+Screen,60215,Healthgrades,386,2,9
+Screen,60216,Healthline,364,6,8
+Screen,60217,HealthMap,1037,3,9
+Screen,60218,"HealthPocket, Inc.",210,9,4
+Screen,60219,HelloWallet,824,5,1
+Screen,60220,HERE,595,4,6
+Screen,60221,Honest Buildings,603,5,5
+Screen,60222,HopStop,181,1,3
+Screen,60223,Housefax,128,4,6
+Screen,60224,How's My Offer?,584,1,8
+Screen,60225,IBM,759,4,7
+Screen,60226,ideas42,953,6,6
+Screen,60227,iFactor Consulting,563,3,1
+Screen,60228,IFI CLAIMS Patent Services,387,3,5
+Screen,60229,iMedicare,171,7,5
+Screen,60230,Impact Forecasting (Aon),1085,1,8
+Screen,60231,Impaq International,852,9,5
+Screen,60232,Import.io,558,7,7
+Screen,60233,IMS Health,96,6,8
+Screen,60234,InCadence,193,3,7
+Screen,60235,indoo.rs,741,8,5
+Screen,60236,InfoCommerce Group,864,4,5
+Screen,60237,Informatica,526,2,4
+Screen,60238,InnoCentive,214,2,2
+Screen,60239,Innography,775,7,3
+Screen,60240,Innovest Systems,29,5,5
+Screen,60241,Inovalon,534,5,4
+Screen,60242,Inrix Traffic,168,3,8
+Screen,60243,Intelius,784,2,7
+Screen,60244,Intermap Technologies,1027,5,2
+Screen,60245,Investormill,39,2,4
+Screen,60246,Iodine,268,4,4
+Screen,60247,IPHIX,922,9,4
+Screen,60248,iRecycle,737,5,5
+Screen,60249,iTriage,514,4,2
+Screen,60250,IVES Group Inc,690,4,4
+Screen,60251,IW Financial,399,5,2
+Screen,60252,JJ Keller,222,7,7
+Screen,60253,J.P. Morgan Chase,898,7,4
+Screen,60254,"Junar, Inc.",83,8,6
+Screen,60255,Junyo,330,4,4
+Screen,60256,Jurispect,821,1,3
+Screen,60257,Kaiser Permanante,1084,5,7
+Screen,60258,karmadata,376,7,5
+Screen,60259,Keychain Logistics Corp.,664,3,4
+Screen,60260,"KidAdmit, Inc.",1054,5,2
+Screen,60261,Kimono Labs,729,3,4
+Screen,60262,KLD Research,557,3,9
+Screen,60263,Knoema,1018,3,7
+Screen,60264,Knowledge Agency,728,8,5
+Screen,60265,KPMG,33,1,1
+Screen,60266,Kroll Bond Ratings Agency,913,1,8
+Screen,60267,Kyruus,402,9,5
+Screen,60268,Lawdragon,922,2,3
+Screen,60269,Legal Science Partners,196,6,5
+Screen,60270,(Leg)Cyte,519,1,1
+Screen,60271,"LegiNation, Inc.",983,8,7
+Screen,60272,LegiStorm,63,4,7
+Screen,60273,Lenddo,570,1,5
+Screen,60274,Lending Club,280,5,3
+Screen,60275,Level One Technologies,669,2,4
+Screen,60276,LexisNexis,250,7,1
+Screen,60277,Liberty Mutual Insurance Cos.,253,5,9
+Screen,60278,Lilly Open Innovation Drug Discovery,402,9,1
+Screen,60279,Liquid Robotics,1076,6,3
+Screen,60280,Locavore,503,4,4
+Screen,60281,"LOGIXDATA, LLC",42,7,9
+Screen,60282,LoopNet,313,5,7
+Screen,60283,"Loqate, Inc.",1067,7,3
+Screen,60284,LoseIt.com,379,9,3
+Screen,60285,LOVELAND Technologies,624,2,3
+Screen,60286,Lucid,254,8,7
+Screen,60287,"Lumesis, Inc.",612,9,6
+Screen,60288,Mango Transit,929,7,8
+Screen,60289,Mapbox,632,9,1
+Screen,60290,Maponics,249,7,7
+Screen,60291,MapQuest,1061,2,2
+Screen,60292,"Marinexplore, Inc.",586,2,7
+Screen,60293,MarketSense,130,3,6
+Screen,60294,Marlin & Associates,688,8,8
+Screen,60295,Marlin Alter and Associates,50,1,7
+Screen,60296,McGraw Hill Financial,682,3,9
+Screen,60297,McKinsey,240,9,8
+Screen,60298,MedWatcher,446,7,9
+Screen,60299,Mercaris,460,9,6
+Screen,60300,Merrill Corp.,485,7,3
+Screen,60301,Merrill Lynch,758,4,4
+Screen,60302,MetLife,955,7,5
+Screen,60303,mHealthCoach,932,4,5
+Screen,60304,MicroBilt Corporation,62,5,2
+Screen,60305,Microsoft Windows Azure Marketplace,726,2,8
+Screen,60306,Mint,314,2,3
+Screen,60307,Moody's,666,5,3
+Screen,60308,Morgan Stanley,857,6,4
+Screen,60309,"Morningstar, Inc.",964,4,7
+Screen,60310,Mozio,42,3,9
+Screen,60311,MuckRock.com,31,9,8
+Screen,60312,Munetrix,1000,9,2
+Screen,60313,Municode,653,7,3
+Screen,60314,National Van Lines,334,8,9
+Screen,60315,Nationwide Mutual Insurance Company,605,1,7
+Screen,60316,Nautilytics,359,9,1
+Screen,60317,Navico,97,1,9
+Screen,60318,NERA Economic Consulting,790,2,6
+Screen,60319,NerdWallet,40,5,5
+Screen,60320,New Media Parents,1096,6,6
+Screen,60321,Next Step Living,69,4,3
+Screen,60322,NextBus,983,8,4
+Screen,60323,nGAP Incorporated,18,3,1
+Screen,60324,Nielsen,689,3,3
+Screen,60325,Noesis,782,4,4
+Screen,60326,NonprofitMetrics,179,2,6
+Screen,60327,North American Van Lines,292,4,6
+Screen,60328,Noveda Technologies,577,3,8
+Screen,60329,NuCivic,1061,3,4
+Screen,60330,Numedii,1035,7,5
+Screen,60331,Oliver Wyman,590,3,8
+Screen,60332,OnDeck,858,9,3
+Screen,60333,OnStar,234,7,8
+Screen,60334,"Ontodia, Inc",570,8,9
+Screen,60335,Onvia,586,6,2
+Screen,60336,Open Data Nation,87,6,5
+Screen,60337,OpenCounter,1078,1,3
+Screen,60338,OpenGov,632,1,3
+Screen,60339,OpenPlans,61,8,5
+Screen,60340,"OpportunitySpace, Inc.",1009,1,9
+Screen,60341,Optensity,374,6,9
+Screen,60342,optiGov,539,1,6
+Screen,60343,OptumInsight,266,9,7
+Screen,60344,Orlin Research,1006,4,9
+Screen,60345,OSIsoft,1040,8,6
+Screen,60346,OTC Markets,832,9,5
+Screen,60347,Outline,810,8,8
+Screen,60348,Oversight Systems,419,2,7
+Screen,60349,Overture Technologies,200,9,6
+Screen,60350,Owler,276,3,8
+Screen,60351,Palantir Technologies,686,8,3
+Screen,60352,Panjiva,827,3,2
+Screen,60353,Parsons Brinckerhoff,181,7,4
+Screen,60354,Patently-O,590,4,1
+Screen,60355,PatientsLikeMe,40,7,8
+Screen,60356,Pave,929,6,9
+Screen,60357,Paxata,250,4,8
+Screen,60358,"PayScale, Inc.",965,9,5
+Screen,60359,PeerJ,635,1,6
+Screen,60360,People Power,863,8,1
+Screen,60361,Persint,308,9,3
+Screen,60362,Personal Democracy Media,545,1,3
+Screen,60363,"Personal, Inc.",89,9,2
+Screen,60364,Personalis,195,3,7
+Screen,60365,Peterson's,768,3,3
+Screen,60366,PEV4me.com,339,6,2
+Screen,60367,PIXIA Corp,728,2,5
+Screen,60368,PlaceILive.com,899,8,1
+Screen,60369,PlanetEcosystems,308,8,4
+Screen,60370,PlotWatt,941,1,3
+Screen,60371,Plus-U,1063,6,5
+Screen,60372,PolicyMap,1039,7,5
+Screen,60373,Politify,209,7,4
+Screen,60374,Poncho App,83,5,2
+Screen,60375,POPVOX,744,8,9
+Screen,60376,Porch,379,1,1
+Screen,60377,PossibilityU,865,6,1
+Screen,60378,PowerAdvocate,199,6,4
+Screen,60379,Practice Fusion,527,2,8
+Screen,60380,Predilytics,914,2,3
+Screen,60381,PricewaterhouseCoopers (PWC),862,7,3
+Screen,60382,ProgrammableWeb,805,8,2
+Screen,60383,Progressive Insurance Group,899,6,4
+Screen,60384,Propeller Health,352,8,8
+Screen,60385,ProPublica,624,3,1
+Screen,60386,PublicEngines,150,9,5
+Screen,60387,PYA Analytics,608,2,9
+Screen,60388,"Qado Energy, Inc.",939,9,8
+Screen,60389,Quandl,247,5,9
+Screen,60390,Quertle,16,3,8
+Screen,60391,Quid,914,3,7
+Screen,60392,R R Donnelley,793,7,4
+Screen,60393,RAND Corporation,79,6,6
+Screen,60394,Rand McNally,856,7,1
+Screen,60395,Rank and Filed,1011,4,9
+Screen,60396,Ranku,147,3,4
+Screen,60397,Rapid Cycle Solutions,52,7,6
+Screen,60398,realtor.com,708,6,8
+Screen,60399,Recargo,66,8,7
+Screen,60400,ReciPal,383,1,5
+Screen,60401,Redfin,421,3,2
+Screen,60402,RedLaser,21,3,4
+Screen,60403,Reed Elsevier,790,9,1
+Screen,60404,REI Systems,288,1,4
+Screen,60405,Relationship Science,720,6,8
+Screen,60406,Remi,498,1,7
+Screen,60407,Retroficiency,806,1,6
+Screen,60408,Revaluate,215,9,5
+Screen,60409,Revelstone,1044,8,6
+Screen,60410,Rezolve Group,792,5,9
+Screen,60411,Rivet Software,958,1,7
+Screen,60412,Roadify Transit,332,9,8
+Screen,60413,Robinson + Yu,435,2,7
+Screen,60414,Russell Investments,83,4,9
+Screen,60415,Sage Bionetworks,37,2,4
+Screen,60416,SAP,239,4,6
+Screen,60417,SAS,439,1,7
+Screen,60418,Scale Unlimited,812,8,1
+Screen,60419,Science Exchange,1078,4,5
+Screen,60420,Seabourne,388,2,7
+Screen,60421,SeeClickFix,823,7,5
+Screen,60422,SigFig,410,7,7
+Screen,60423,Simple Energy,89,5,4
+Screen,60424,SimpleTuition,483,1,1
+Screen,60425,SlashDB,584,7,2
+Screen,60426,Smart Utility Systems,843,9,1
+Screen,60427,SmartAsset,1095,9,5
+Screen,60428,SmartProcure,61,5,8
+Screen,60429,Smartronix,264,1,2
+Screen,60430,SnapSense,246,8,4
+Screen,60431,Social Explorer,803,9,2
+Screen,60432,Social Health Insights,140,9,2
+Screen,60433,SocialEffort Inc,952,9,7
+Screen,60434,Socrata,1091,7,4
+Screen,60435,Solar Census,197,4,8
+Screen,60436,SolarList,994,9,9
+Screen,60437,Sophic Systems Alliance,636,4,1
+Screen,60438,S&P Capital IQ,598,7,8
+Screen,60439,SpaceCurve,475,4,3
+Screen,60440,SpeSo Health,590,6,5
+Screen,60441,Spikes Cavell Analytic Inc,266,7,3
+Screen,60442,Splunk,1079,8,4
+Screen,60443,Spokeo,64,6,5
+Screen,60444,SpotCrime,772,2,2
+Screen,60445,SpotHero.com,777,8,7
+Screen,60446,Stamen Design,1043,6,6
+Screen,60447,Standard and Poor's,105,3,1
+Screen,60448,State Farm Insurance,609,9,1
+Screen,60449,Sterling Infosystems,417,4,4
+Screen,60450,Stevens Worldwide Van Lines,1008,1,7
+Screen,60451,STILLWATER SUPERCOMPUTING INC,520,7,6
+Screen,60452,StockSmart,441,6,6
+Screen,60453,Stormpulse,831,8,9
+Screen,60454,StreamLink Software,221,3,4
+Screen,60455,"StreetCred Software, Inc",534,3,7
+Screen,60456,StreetEasy,517,9,9
+Screen,60457,Suddath,279,3,6
+Screen,60458,Symcat,1000,5,6
+Screen,60459,Synthicity,294,6,6
+Screen,60460,T. Rowe Price,928,2,3
+Screen,60461,Tableau Software,683,2,9
+Screen,60462,TagniFi,973,3,1
+Screen,60463,Telenav,708,1,2
+Screen,60464,Tendril,597,3,6
+Screen,60465,Teradata,828,6,1
+Screen,60466,The Advisory Board Company,229,8,8
+Screen,60467,The Bridgespan Group,131,1,6
+Screen,60468,The DocGraph Journal,556,7,3
+Screen,60469,The Govtech Fund,1049,3,6
+Screen,60470,The Schork Report,917,6,8
+Screen,60471,The Vanguard Group,51,9,8
+Screen,60472,Think Computer Corporation,684,6,8
+Screen,60473,Thinknum,934,9,7
+Screen,60474,Thomson Reuters,200,3,8
+Screen,60475,TopCoder,704,6,1
+Screen,60476,TowerData,1039,1,5
+Screen,60477,TransparaGov,719,9,9
+Screen,60478,TransUnion,309,9,5
+Screen,60479,TrialTrove,884,7,2
+Screen,60480,TrialX,113,6,6
+Screen,60481,Trintech,501,9,8
+Screen,60482,TrueCar,279,1,9
+Screen,60483,Trulia,612,6,3
+Screen,60484,TrustedID,1044,1,1
+Screen,60485,TuvaLabs,631,6,8
+Screen,60486,Uber,16,8,7
+Screen,60487,Unigo LLC,845,4,8
+Screen,60488,United Mayflower,259,7,6
+Screen,60489,Urban Airship,121,3,5
+Screen,60490,"Urban Mapping, Inc",780,2,2
+Screen,60491,US Green Data,821,9,5
+Screen,60492,U.S. News Schools,958,8,2
+Screen,60493,USAA Group,209,5,9
+Screen,60494,USSearch,296,4,2
+Screen,60495,Verdafero,1015,9,6
+Screen,60496,Vimo,302,4,5
+Screen,60497,"VisualDoD, LLC",557,1,1
+Screen,60498,Vital Axiom | Niinja,834,7,7
+Screen,60499,VitalChek,553,5,1
+Screen,60500,Vitals,419,9,4
+Screen,60501,Vizzuality,290,6,2
+Screen,60502,Votizen,757,8,9
+Screen,60503,Walk Score,705,7,3
+Screen,60504,WaterSmart Software,732,4,7
+Screen,60505,WattzOn,832,3,7
+Screen,60506,Way Better Patents,510,2,5
+Screen,60507,Weather Channel,435,3,9
+Screen,60508,Weather Decision Technologies,615,8,4
+Screen,60509,Weather Underground,538,8,5
+Screen,60510,WebFilings,390,2,3
+Screen,60511,Webitects,128,6,1
+Screen,60512,WebMD,532,7,5
+Screen,60513,Weight Watchers,250,6,1
+Screen,60514,WeMakeItSafer,907,6,5
+Screen,60515,Wheaton World Wide Moving,928,9,3
+Screen,60516,Whitby Group,380,8,6
+Screen,60517,Wolfram Research,829,6,3
+Screen,60518,Wolters Kluwer,755,4,7
+Screen,60519,Workhands,130,1,3
+Screen,60520,Xatori,1000,4,2
+Screen,60521,Xcential,1084,8,8
+Screen,60522,xDayta,717,1,3
+Screen,60523,Xignite,217,2,5
+Screen,60524,Yahoo,1001,3,9
+Screen,60525,Zebu Compliance Solutions,910,1,2
+Screen,60526,Yelp,362,9,5
+Screen,60527,YourMapper,49,9,6
+Screen,60528,Zillow,866,7,7
+Screen,60529,ZocDoc,942,1,9
+Screen,60530,Zonability,54,4,7
+Screen,60531,Zoner,776,4,3
+Screen,60532,Zurich Insurance (Risk Room),311,1,1
+CPU,10001,Samsung ,989,9,2
+CPU,10002,Intel,850,7,1
+CPU,10003,Western Digital ,475,3,2
+CPU,10004,"3 Round Stones, Inc.",988,6,3
+CPU,10005,48 Factoring Inc.,507,8,2
+CPU,10006,5PSolutions,998,7,1
+CPU,10007,Abt Associates,812,5,7
+CPU,10008,Accela,349,2,8
+CPU,10009,Accenture,16,5,7
+CPU,10010,AccuWeather,984,2,7
+CPU,10011,Acxiom,831,8,3
+CPU,10012,Adaptive,796,1,6
+CPU,10013,Adobe Digital Government,765,7,2
+CPU,10014,Aidin,50,2,6
+CPU,10015,Alarm.com,436,6,5
+CPU,10016,Allianz,676,9,2
+CPU,10017,Allied Van Lines,432,4,7
+CPU,10018,AllState Insurance Group,951,4,6
+CPU,10019,Alltuition,384,4,3
+CPU,10020,Altova,952,9,7
+CPU,10021,Amazon Web Services,190,1,8
+CPU,10022,American Red Ball Movers,175,8,4
+CPU,10023,Amida Technology Solutions,149,7,7
+CPU,10024,Analytica,655,3,5
+CPU,10025,Apextech LLC,448,9,8
+CPU,10026,Appallicious,707,9,9
+CPU,10027,Aquicore,601,7,8
+CPU,10028,Archimedes Inc.,496,3,1
+CPU,10029,AreaVibes Inc.,586,5,3
+CPU,10030,Arpin Van Lines,155,3,9
+CPU,10031,Arrive Labs,471,3,4
+CPU,10032,ASC Partners,613,9,2
+CPU,10033,Asset4,989,5,9
+CPU,10034,Atlas Van Lines,132,2,3
+CPU,10035,AtSite,714,1,1
+CPU,10036,"Aunt Bertha, Inc.",159,1,8
+CPU,10037,Aureus Sciences (*Now part of Elsevier),919,1,4
+CPU,10038,AutoGrid Systems,312,9,7
+CPU,10039,Avalara,178,3,7
+CPU,10040,Avvo,71,1,9
+CPU,10041,Ayasdi,617,7,2
+CPU,10042,Azavea,501,5,8
+CPU,10043,BaleFire Global,703,1,8
+CPU,10044,Barchart,537,4,7
+CPU,10045,Be Informed,82,1,1
+CPU,10046,Bekins,907,9,9
+CPU,10047,Berkery Noyes MandASoft,34,4,5
+CPU,10048,Berkshire Hathaway,931,7,7
+CPU,10049,BetterLesson,21,1,7
+CPU,10050,BillGuard,530,9,9
+CPU,10051,Bing,122,1,8
+CPU,10052,Biovia,420,1,9
+CPU,10053,BizVizz,893,3,2
+CPU,10054,BlackRock,953,5,1
+CPU,10055,Bloomberg,63,1,2
+CPU,10056,Booz Allen Hamilton,841,3,4
+CPU,10057,Boston Consulting Group,656,3,8
+CPU,10058,Boundless,849,1,3
+CPU,10059,Bridgewater,133,7,6
+CPU,10060,Brightscope,360,8,1
+CPU,10061,BuildFax,627,8,5
+CPU,10062,Buildingeye,112,9,4
+CPU,10063,BuildZoom,752,2,1
+CPU,10064,Business and Legal Resources,256,9,3
+CPU,10065,Business Monitor International,194,2,6
+CPU,10066,"Calcbench, Inc.",819,5,3
+CPU,10067,Cambridge Information Group,975,4,1
+CPU,10068,Cambridge Semantics,306,8,4
+CPU,10069,CAN Capital,396,7,1
+CPU,10070,Canon,785,9,8
+CPU,10071,Capital Cube,20,5,7
+CPU,10072,Cappex,242,4,3
+CPU,10073,Captricity,956,7,6
+CPU,10074,CareSet Systems,740,3,5
+CPU,10075,Careset.com,452,6,4
+CPU,10076,CARFAX,260,8,2
+CPU,10077,Caspio,355,1,1
+CPU,10078,Castle Biosciences,115,4,5
+CPU,10079,CB Insights,428,6,7
+CPU,10080,Ceiba Solutions,594,4,3
+CPU,10081,Center for Responsive Politics,521,3,4
+CPU,10082,Cerner,944,6,4
+CPU,10083,Certara,800,5,2
+CPU,10084,CGI,157,9,4
+CPU,10085,Charles River Associates,287,6,4
+CPU,10086,Charles Schwab Corp.,865,4,4
+CPU,10087,Chemical Abstracts Service,998,9,6
+CPU,10088,Child Care Desk,406,6,5
+CPU,10089,Chubb,23,9,5
+CPU,10090,Citigroup,802,1,9
+CPU,10091,CityScan,364,3,4
+CPU,10092,CitySourced,741,4,9
+CPU,10093,Civic Impulse LLC,69,6,1
+CPU,10094,Civic Insight,684,7,6
+CPU,10095,Civinomics,774,7,5
+CPU,10096,Civis Analytics,701,9,5
+CPU,10097,Clean Power Finance,521,6,5
+CPU,10098,ClearHealthCosts,659,9,1
+CPU,10099,ClearStory Data,379,4,4
+CPU,10100,Climate Corporation,395,6,1
+CPU,10101,CliniCast,637,9,2
+CPU,10102,Cloudmade,253,8,4
+CPU,10103,Cloudspyre,633,9,1
+CPU,10104,Code for America,695,3,2
+CPU,10105,Code-N,108,8,3
+CPU,10106,Collective IP,602,6,9
+CPU,10107,"College Abacus, an ECMC initiative",643,7,3
+CPU,10108,College Board,772,5,6
+CPU,10109,Compared Care,22,7,5
+CPU,10110,Compendia Bioscience Life Technologies,406,8,4
+CPU,10111,Compliance and Risks,416,5,5
+CPU,10112,Computer Packages Inc,897,8,3
+CPU,10113,CONNECT-DOT LLC.,120,3,5
+CPU,10114,ConnectEDU,579,7,6
+CPU,10115,Connotate,439,6,4
+CPU,10116,Construction Monitor LLC,984,9,6
+CPU,10117,Consumer Reports,270,7,2
+CPU,10118,CoolClimate,990,9,8
+CPU,10119,Copyright Clearance Center,446,7,7
+CPU,10120,CoreLogic,746,6,9
+CPU,10121,CostQuest,984,8,6
+CPU,10122,Credit Karma,245,1,3
+CPU,10123,Credit Sesame,511,3,7
+CPU,10124,CrowdANALYTIX,921,2,5
+CPU,10125,Dabo Health,365,6,1
+CPU,10126,DataLogix,478,9,2
+CPU,10127,DataMade,205,2,3
+CPU,10128,DataMarket,406,2,8
+CPU,10129,Datamyne,752,6,8
+CPU,10130,DataWeave,212,5,4
+CPU,10131,Deloitte,907,4,9
+CPU,10132,DemystData,135,3,6
+CPU,10133,Department of Better Technology,498,9,4
+CPU,10134,Development Seed,286,4,9
+CPU,10135,"Docket Alarm, Inc.",584,7,6
+CPU,10136,Dow Jones & Co.,962,2,3
+CPU,10137,Dun & Bradstreet,979,7,7
+CPU,10138,Earth Networks,723,8,9
+CPU,10139,EarthObserver App,873,3,2
+CPU,10140,Earthquake Alert!,651,4,1
+CPU,10141,Eat Shop Sleep,127,1,4
+CPU,10142,Ecodesk,407,8,9
+CPU,10143,eInstitutional,840,4,8
+CPU,10144,Embark,369,7,8
+CPU,10145,EMC,479,9,4
+CPU,10146,"Energy Points, Inc.",326,7,3
+CPU,10147,Energy Solutions Forum,619,7,1
+CPU,10148,Enervee Corporation,491,2,5
+CPU,10149,Enigma.io,574,9,7
+CPU,10150,Ensco,982,5,7
+CPU,10151,Environmental Data Resources,874,8,3
+CPU,10152,Epsilon,448,4,6
+CPU,10153,Equal Pay for Women,623,3,3
+CPU,10154,Equifax,876,4,4
+CPU,10155,Equilar,773,5,7
+CPU,10156,Ernst & Young LLP,720,6,4
+CPU,10157,eScholar LLC.,702,3,5
+CPU,10158,Esri,594,8,8
+CPU,10159,Estately,819,2,9
+CPU,10160,Everyday Health,664,3,6
+CPU,10161,Evidera,408,3,2
+CPU,10162,Experian,423,2,4
+CPU,10163,"Expert Health Data Programming, Inc.",711,1,9
+CPU,10164,Exversion,525,1,1
+CPU,10165,Ez-XBRL,880,7,3
+CPU,10166,Factset,315,7,1
+CPU,10167,Factual,533,5,9
+CPU,10168,Farmers,313,2,1
+CPU,10169,FarmLogs,261,3,7
+CPU,10170,Fastcase,411,9,1
+CPU,10171,Fidelity Investments,527,4,7
+CPU,10172,FindTheBest.com,497,4,1
+CPU,10173,First Fuel Software,51,2,7
+CPU,10174,"FirstPoint, Inc.",488,5,3
+CPU,10175,Fitch,968,3,8
+CPU,10176,FlightAware,851,4,9
+CPU,10177,FlightStats,831,6,7
+CPU,10178,FlightView,697,4,9
+CPU,10179,Food+Tech Connect,890,6,4
+CPU,10180,Forrester Research,523,1,9
+CPU,10181,Foursquare,491,8,7
+CPU,10182,Fujitsu,980,9,5
+CPU,10183,Funding Circle,451,5,2
+CPU,10184,FutureAdvisor,178,1,8
+CPU,10185,"Fuzion Apps, Inc.",708,1,9
+CPU,10186,Gallup,757,5,6
+CPU,10187,Galorath Incorporated,141,7,7
+CPU,10188,Garmin,112,1,7
+CPU,10189,Genability,531,3,6
+CPU,10190,GenoSpace,296,8,7
+CPU,10191,Geofeedia,728,1,5
+CPU,10192,Geolytics,471,1,3
+CPU,10193,Geoscape,381,2,4
+CPU,10194,GetRaised,69,7,1
+CPU,10195,GitHub,943,1,3
+CPU,10196,Glassy Media,743,1,8
+CPU,10197,Golden Helix,758,2,5
+CPU,10198,GoodGuide,935,8,9
+CPU,10199,Google Maps,113,1,7
+CPU,10200,Google Public Data Explorer,987,3,9
+CPU,10201,Government Transaction Services,542,6,2
+CPU,10202,Govini,495,5,6
+CPU,10203,GovTribe,811,8,3
+CPU,10204,"Govzilla, Inc.",210,6,7
+CPU,10205,gRadiant Research LLC,817,1,5
+CPU,10206,Graebel Van Lines,462,4,2
+CPU,10207,"Graematter, Inc.",983,2,3
+CPU,10208,Granicus,680,4,1
+CPU,10209,GreatSchools,731,7,1
+CPU,10210,GuideStar,367,4,2
+CPU,10211,H3 Biomedicine,907,8,9
+CPU,10212,Harris Corporation,603,8,2
+CPU,10213,"HDScores, Inc",505,8,6
+CPU,10214,Headlight,373,7,2
+CPU,10215,Healthgrades,782,8,8
+CPU,10216,Healthline,105,9,1
+CPU,10217,HealthMap,535,4,6
+CPU,10218,"HealthPocket, Inc.",912,9,2
+CPU,10219,HelloWallet,28,8,7
+CPU,10220,HERE,743,1,3
+CPU,10221,Honest Buildings,642,6,2
+CPU,10222,HopStop,496,6,5
+CPU,10223,Housefax,61,5,4
+CPU,10224,How's My Offer?,505,3,5
+CPU,10225,IBM,256,3,9
+CPU,10226,ideas42,830,3,8
+CPU,10227,iFactor Consulting,235,6,5
+CPU,10228,IFI CLAIMS Patent Services,127,2,9
+CPU,10229,iMedicare,745,5,7
+CPU,10230,Impact Forecasting (Aon),247,9,1
+CPU,10231,Impaq International,716,9,4
+CPU,10232,Import.io,839,2,8
+CPU,10233,IMS Health,443,2,4
+CPU,10234,InCadence,747,1,9
+CPU,10235,indoo.rs,786,7,5
+CPU,10236,InfoCommerce Group,790,2,8
+CPU,10237,Informatica,212,4,3
+CPU,10238,InnoCentive,857,5,3
+CPU,10239,Innography,44,5,4
+CPU,10240,Innovest Systems,532,8,8
+CPU,10241,Inovalon,919,6,9
+CPU,10242,Inrix Traffic,991,8,5
+CPU,10243,Intelius,347,1,3
+CPU,10244,Intermap Technologies,236,7,5
+CPU,10245,Investormill,40,3,2
+CPU,10246,Iodine,631,6,7
+CPU,10247,IPHIX,60,1,4
+CPU,10248,iRecycle,933,9,3
+CPU,10249,iTriage,974,9,8
+CPU,10250,IVES Group Inc,18,5,9
+CPU,10251,IW Financial,80,2,7
+CPU,10252,JJ Keller,461,1,4
+CPU,10253,J.P. Morgan Chase,194,7,2
+CPU,10254,"Junar, Inc.",640,8,3
+CPU,10255,Junyo,62,1,8
+CPU,10256,Jurispect,935,5,4
+CPU,10257,Kaiser Permanante,48,5,1
+CPU,10258,karmadata,85,5,8
+CPU,10259,Keychain Logistics Corp.,948,3,8
+CPU,10260,"KidAdmit, Inc.",510,5,1
+CPU,10261,Kimono Labs,443,2,7
+CPU,10262,KLD Research,708,7,7
+CPU,10263,Knoema,783,1,7
+CPU,10264,Knowledge Agency,643,9,8
+CPU,10265,KPMG,417,2,3
+CPU,10266,Kroll Bond Ratings Agency,420,2,4
+CPU,10267,Kyruus,763,1,7
+CPU,10268,Lawdragon,815,7,6
+CPU,10269,Legal Science Partners,611,3,6
+CPU,10270,(Leg)Cyte,492,7,8
+CPU,10271,"LegiNation, Inc.",197,7,8
+CPU,10272,LegiStorm,816,5,3
+CPU,10273,Lenddo,114,5,9
+CPU,10274,Lending Club,247,6,7
+CPU,10275,Level One Technologies,76,5,7
+CPU,10276,LexisNexis,977,7,5
+CPU,10277,Liberty Mutual Insurance Cos.,211,8,3
+CPU,10278,Lilly Open Innovation Drug Discovery,116,4,8
+CPU,10279,Liquid Robotics,718,7,4
+CPU,10280,Locavore,88,2,3
+CPU,10281,"LOGIXDATA, LLC",514,6,6
+CPU,10282,LoopNet,768,5,4
+CPU,10283,"Loqate, Inc.",971,1,1
+CPU,10284,LoseIt.com,349,9,5
+CPU,10285,LOVELAND Technologies,233,1,6
+CPU,10286,Lucid,943,8,5
+CPU,10287,"Lumesis, Inc.",162,3,8
+CPU,10288,Mango Transit,825,2,4
+CPU,10289,Mapbox,117,3,5
+CPU,10290,Maponics,357,3,3
+CPU,10291,MapQuest,39,5,5
+CPU,10292,"Marinexplore, Inc.",322,2,2
+CPU,10293,MarketSense,40,9,5
+CPU,10294,Marlin & Associates,467,7,9
+CPU,10295,Marlin Alter and Associates,730,9,4
+CPU,10296,McGraw Hill Financial,796,5,9
+CPU,10297,McKinsey,330,5,6
+CPU,10298,MedWatcher,536,3,3
+CPU,10299,Mercaris,282,3,9
+CPU,10300,Merrill Corp.,470,1,5
+CPU,10301,Merrill Lynch,952,5,3
+CPU,10302,MetLife,148,6,4
+CPU,10303,mHealthCoach,247,3,1
+CPU,10304,MicroBilt Corporation,136,9,9
+CPU,10305,Microsoft Windows Azure Marketplace,23,6,4
+CPU,10306,Mint,301,1,1
+CPU,10307,Moody's,824,4,3
+CPU,10308,Morgan Stanley,696,3,1
+CPU,10309,"Morningstar, Inc.",321,4,9
+CPU,10310,Mozio,466,9,6
+CPU,10311,MuckRock.com,65,7,3
+CPU,10312,Munetrix,508,9,1
+CPU,10313,Municode,996,8,7
+CPU,10314,National Van Lines,648,9,6
+CPU,10315,Nationwide Mutual Insurance Company,280,1,4
+CPU,10316,Nautilytics,524,1,3
+CPU,10317,Navico,408,3,1
+CPU,10318,NERA Economic Consulting,958,5,9
+CPU,10319,NerdWallet,163,7,9
+CPU,10320,New Media Parents,770,1,9
+CPU,10321,Next Step Living,776,6,6
+CPU,10322,NextBus,53,7,9
+CPU,10323,nGAP Incorporated,654,6,9
+CPU,10324,Nielsen,758,1,3
+CPU,10325,Noesis,996,2,2
+CPU,10326,NonprofitMetrics,520,6,5
+CPU,10327,North American Van Lines,138,1,5
+CPU,10328,Noveda Technologies,918,1,5
+CPU,10329,NuCivic,155,8,9
+CPU,10330,Numedii,34,2,8
+CPU,10331,Oliver Wyman,204,5,1
+CPU,10332,OnDeck,367,4,4
+CPU,10333,OnStar,104,8,8
+CPU,10334,"Ontodia, Inc",927,9,2
+CPU,10335,Onvia,278,9,1
+CPU,10336,Open Data Nation,918,9,8
+CPU,10337,OpenCounter,282,6,9
+CPU,10338,OpenGov,251,6,3
+CPU,10339,OpenPlans,964,7,2
+CPU,10340,"OpportunitySpace, Inc.",765,1,3
+CPU,10341,Optensity,94,3,6
+CPU,10342,optiGov,242,6,2
+CPU,10343,OptumInsight,749,9,9
+CPU,10344,Orlin Research,282,5,2
+CPU,10345,OSIsoft,265,9,4
+CPU,10346,OTC Markets,898,7,7
+CPU,10347,Outline,407,3,3
+CPU,10348,Oversight Systems,14,8,5
+CPU,10349,Overture Technologies,617,8,7
+CPU,10350,Owler,923,7,6
+CPU,10351,Palantir Technologies,149,5,9
+CPU,10352,Panjiva,590,1,8
+CPU,10353,Parsons Brinckerhoff,423,6,6
+CPU,10354,Patently-O,625,6,7
+CPU,10355,PatientsLikeMe,831,2,2
+CPU,10356,Pave,788,3,8
+CPU,10357,Paxata,264,2,1
+CPU,10358,"PayScale, Inc.",533,3,7
+CPU,10359,PeerJ,791,7,9
+CPU,10360,People Power,489,3,2
+CPU,10361,Persint,648,7,2
+CPU,10362,Personal Democracy Media,474,5,7
+CPU,10363,"Personal, Inc.",75,8,3
+CPU,10364,Personalis,234,6,8
+CPU,10365,Peterson's,435,9,7
+CPU,10366,PEV4me.com,967,1,1
+CPU,10367,PIXIA Corp,553,7,7
+CPU,10368,PlaceILive.com,820,3,9
+CPU,10369,PlanetEcosystems,309,9,4
+CPU,10370,PlotWatt,799,6,7
+CPU,10371,Plus-U,823,8,2
+CPU,10372,PolicyMap,553,9,2
+CPU,10373,Politify,653,2,7
+CPU,10374,Poncho App,50,5,2
+CPU,10375,POPVOX,217,7,6
+CPU,10376,Porch,647,7,5
+CPU,10377,PossibilityU,834,8,7
+CPU,10378,PowerAdvocate,40,8,7
+CPU,10379,Practice Fusion,246,9,1
+CPU,10380,Predilytics,293,6,6
+CPU,10381,PricewaterhouseCoopers (PWC),316,7,9
+CPU,10382,ProgrammableWeb,960,5,5
+CPU,10383,Progressive Insurance Group,690,2,5
+CPU,10384,Propeller Health,697,9,9
+CPU,10385,ProPublica,171,9,5
+CPU,10386,PublicEngines,890,9,3
+CPU,10387,PYA Analytics,790,9,1
+CPU,10388,"Qado Energy, Inc.",287,6,9
+CPU,10389,Quandl,454,4,3
+CPU,10390,Quertle,545,6,8
+CPU,10391,Quid,979,9,6
+CPU,10392,R R Donnelley,253,5,1
+CPU,10393,RAND Corporation,835,9,4
+CPU,10394,Rand McNally,232,9,5
+CPU,10395,Rank and Filed,798,5,7
+CPU,10396,Ranku,132,8,7
+CPU,10397,Rapid Cycle Solutions,745,6,6
+CPU,10398,realtor.com,98,4,5
+CPU,10399,Recargo,59,2,5
+CPU,10400,ReciPal,324,2,5
+CPU,10401,Redfin,578,9,4
+CPU,10402,RedLaser,690,4,9
+CPU,10403,Reed Elsevier,794,1,8
+CPU,10404,REI Systems,258,3,4
+CPU,10405,Relationship Science,137,3,7
+CPU,10406,Remi,962,3,7
+CPU,10407,Retroficiency,769,9,1
+CPU,10408,Revaluate,987,6,8
+CPU,10409,Revelstone,778,2,3
+CPU,10410,Rezolve Group,503,6,5
+CPU,10411,Rivet Software,684,1,6
+CPU,10412,Roadify Transit,81,6,9
+CPU,10413,Robinson + Yu,890,2,1
+CPU,10414,Russell Investments,585,3,3
+CPU,10415,Sage Bionetworks,662,8,8
+CPU,10416,SAP,874,3,7
+CPU,10417,SAS,22,7,1
+CPU,10418,Scale Unlimited,173,2,5
+CPU,10419,Science Exchange,504,5,3
+CPU,10420,Seabourne,744,7,6
+CPU,10421,SeeClickFix,714,1,1
+CPU,10422,SigFig,468,9,2
+CPU,10423,Simple Energy,81,7,9
+CPU,10424,SimpleTuition,286,9,6
+CPU,10425,SlashDB,623,6,7
+CPU,10426,Smart Utility Systems,163,9,5
+CPU,10427,SmartAsset,892,7,5
+CPU,10428,SmartProcure,241,8,8
+CPU,10429,Smartronix,802,2,3
+CPU,10430,SnapSense,403,6,3
+CPU,10431,Social Explorer,974,6,2
+CPU,10432,Social Health Insights,324,5,5
+CPU,10433,SocialEffort Inc,888,3,9
+CPU,10434,Socrata,958,5,2
+CPU,10435,Solar Census,128,4,9
+CPU,10436,SolarList,447,4,5
+CPU,10437,Sophic Systems Alliance,969,7,5
+CPU,10438,S&P Capital IQ,162,2,1
+CPU,10439,SpaceCurve,175,5,6
+CPU,10440,SpeSo Health,388,3,2
+CPU,10441,Spikes Cavell Analytic Inc,346,5,7
+CPU,10442,Splunk,655,7,7
+CPU,10443,Spokeo,790,9,2
+CPU,10444,SpotCrime,280,8,2
+CPU,10445,SpotHero.com,46,3,1
+CPU,10446,Stamen Design,438,2,5
+CPU,10447,Standard and Poor's,201,9,5
+CPU,10448,State Farm Insurance,881,8,9
+CPU,10449,Sterling Infosystems,434,2,4
+CPU,10450,Stevens Worldwide Van Lines,692,3,8
+CPU,10451,STILLWATER SUPERCOMPUTING INC,604,7,5
+CPU,10452,StockSmart,776,4,9
+CPU,10453,Stormpulse,218,3,4
+CPU,10454,StreamLink Software,271,7,9
+CPU,10455,"StreetCred Software, Inc",664,8,5
+CPU,10456,StreetEasy,948,2,6
+CPU,10457,Suddath,972,7,6
+CPU,10458,Symcat,444,6,3
+CPU,10459,Synthicity,220,1,6
+CPU,10460,T. Rowe Price,340,6,6
+CPU,10461,Tableau Software,614,8,9
+CPU,10462,TagniFi,185,8,3
+CPU,10463,Telenav,379,3,7
+CPU,10464,Tendril,269,7,9
+CPU,10465,Teradata,263,2,4
+CPU,10466,The Advisory Board Company,248,5,4
+CPU,10467,The Bridgespan Group,453,8,8
+CPU,10468,The DocGraph Journal,882,2,8
+CPU,10469,The Govtech Fund,1000,2,1
+CPU,10470,The Schork Report,137,4,4
+CPU,10471,The Vanguard Group,600,5,4
+CPU,10472,Think Computer Corporation,337,2,9
+CPU,10473,Thinknum,976,2,3
+CPU,10474,Thomson Reuters,966,7,7
+CPU,10475,TopCoder,665,2,7
+CPU,10476,TowerData,728,3,7
+CPU,10477,TransparaGov,140,3,5
+CPU,10478,TransUnion,259,6,2
+CPU,10479,TrialTrove,948,3,6
+CPU,10480,TrialX,444,8,3
+CPU,10481,Trintech,767,4,5
+CPU,10482,TrueCar,273,5,3
+CPU,10483,Trulia,117,7,5
+CPU,10484,TrustedID,609,5,8
+CPU,10485,TuvaLabs,820,9,2
+CPU,10486,Uber,43,7,5
+CPU,10487,Unigo LLC,322,9,4
+CPU,10488,United Mayflower,906,7,8
+CPU,10489,Urban Airship,111,3,8
+CPU,10490,"Urban Mapping, Inc",165,2,5
+CPU,10491,US Green Data,883,1,3
+CPU,10492,U.S. News Schools,639,7,7
+CPU,10493,USAA Group,854,9,8
+CPU,10494,USSearch,659,3,3
+CPU,10495,Verdafero,141,8,2
+CPU,10496,Vimo,390,2,2
+CPU,10497,"VisualDoD, LLC",252,8,1
+CPU,10498,Vital Axiom | Niinja,804,3,9
+CPU,10499,VitalChek,992,6,5
+CPU,10500,Vitals,509,7,4
+CPU,10501,Vizzuality,926,4,8
+CPU,10502,Votizen,522,5,7
+CPU,10503,Walk Score,608,1,3
+CPU,10504,WaterSmart Software,438,6,1
+CPU,10505,WattzOn,756,9,1
+CPU,10506,Way Better Patents,820,7,8
+CPU,10507,Weather Channel,722,7,9
+CPU,10508,Weather Decision Technologies,782,6,7
+CPU,10509,Weather Underground,144,5,4
+CPU,10510,WebFilings,354,1,8
+CPU,10511,Webitects,616,7,9
+CPU,10512,WebMD,849,8,4
+CPU,10513,Weight Watchers,460,1,3
+CPU,10514,WeMakeItSafer,678,5,3
+CPU,10515,Wheaton World Wide Moving,754,6,9
+CPU,10516,Whitby Group,522,9,4
+CPU,10517,Wolfram Research,312,3,5
+CPU,10518,Wolters Kluwer,311,6,7
+CPU,10519,Workhands,431,3,1
+CPU,10520,Xatori,741,8,3
+CPU,10521,Xcential,152,4,7
+CPU,10522,xDayta,866,9,1
+CPU,10523,Xignite,802,4,3
+CPU,10524,Yahoo,355,2,6
+CPU,10525,Zebu Compliance Solutions,782,4,3
+CPU,10526,Yelp,619,7,8
+CPU,10527,YourMapper,963,6,4
+CPU,10528,Zillow,240,2,3
+CPU,10529,ZocDoc,773,4,3
+CPU,10530,Zonability,804,2,1
+CPU,10531,Zoner,666,6,7
+CPU,10532,Zurich Insurance (Risk Room),520,1,8
+Keyboard,40001,Samsung ,288,2,3
+Keyboard,40002,Intel,288,9,5
+Keyboard,40003,Western Digital ,89,5,2
+Keyboard,40004,"3 Round Stones, Inc.",155,4,3
+Keyboard,40005,48 Factoring Inc.,324,6,5
+Keyboard,40006,5PSolutions,100,9,4
+Keyboard,40007,Abt Associates,314,9,2
+Keyboard,40008,Accela,213,4,5
+Keyboard,40009,Accenture,360,1,8
+Keyboard,40010,AccuWeather,355,8,8
+Keyboard,40011,Acxiom,391,8,7
+Keyboard,40012,Adaptive,111,1,7
+Keyboard,40013,Adobe Digital Government,115,9,5
+Keyboard,40014,Aidin,150,3,2
+Keyboard,40015,Alarm.com,238,7,3
+Keyboard,40016,Allianz,236,2,5
+Keyboard,40017,Allied Van Lines,285,2,1
+Keyboard,40018,AllState Insurance Group,219,8,8
+Keyboard,40019,Alltuition,186,8,7
+Keyboard,40020,Altova,201,6,7
+Keyboard,40021,Amazon Web Services,378,3,3
+Keyboard,40022,American Red Ball Movers,69,3,7
+Keyboard,40023,Amida Technology Solutions,302,9,1
+Keyboard,40024,Analytica,31,6,1
+Keyboard,40025,Apextech LLC,212,9,3
+Keyboard,40026,Appallicious,228,4,2
+Keyboard,40027,Aquicore,371,1,8
+Keyboard,40028,Archimedes Inc.,50,5,5
+Keyboard,40029,AreaVibes Inc.,66,4,5
+Keyboard,40030,Arpin Van Lines,294,8,1
+Keyboard,40031,Arrive Labs,194,8,8
+Keyboard,40032,ASC Partners,274,8,8
+Keyboard,40033,Asset4,72,3,6
+Keyboard,40034,Atlas Van Lines,299,5,3
+Keyboard,40035,AtSite,63,3,9
+Keyboard,40036,"Aunt Bertha, Inc.",164,7,9
+Keyboard,40037,Aureus Sciences (*Now part of Elsevier),180,1,2
+Keyboard,40038,AutoGrid Systems,244,7,3
+Keyboard,40039,Avalara,176,2,3
+Keyboard,40040,Avvo,299,7,9
+Keyboard,40041,Ayasdi,159,2,7
+Keyboard,40042,Azavea,264,8,9
+Keyboard,40043,BaleFire Global,262,1,1
+Keyboard,40044,Barchart,111,3,6
+Keyboard,40045,Be Informed,145,6,1
+Keyboard,40046,Bekins,225,3,3
+Keyboard,40047,Berkery Noyes MandASoft,219,9,3
+Keyboard,40048,Berkshire Hathaway,188,9,4
+Keyboard,40049,BetterLesson,133,6,6
+Keyboard,40050,BillGuard,136,9,7
+Keyboard,40051,Bing,193,4,7
+Keyboard,40052,Biovia,55,7,5
+Keyboard,40053,BizVizz,154,8,1
+Keyboard,40054,BlackRock,158,9,9
+Keyboard,40055,Bloomberg,217,1,2
+Keyboard,40056,Booz Allen Hamilton,370,6,8
+Keyboard,40057,Boston Consulting Group,181,9,3
+Keyboard,40058,Boundless,89,5,8
+Keyboard,40059,Bridgewater,40,3,2
+Keyboard,40060,Brightscope,394,7,2
+Keyboard,40061,BuildFax,320,6,8
+Keyboard,40062,Buildingeye,393,4,6
+Keyboard,40063,BuildZoom,59,7,8
+Keyboard,40064,Business and Legal Resources,276,3,3
+Keyboard,40065,Business Monitor International,368,3,8
+Keyboard,40066,"Calcbench, Inc.",65,2,1
+Keyboard,40067,Cambridge Information Group,124,9,9
+Keyboard,40068,Cambridge Semantics,82,1,8
+Keyboard,40069,CAN Capital,176,4,7
+Keyboard,40070,Canon,183,6,4
+Keyboard,40071,Capital Cube,21,5,4
+Keyboard,40072,Cappex,267,9,1
+Keyboard,40073,Captricity,135,2,4
+Keyboard,40074,CareSet Systems,38,8,8
+Keyboard,40075,Careset.com,64,3,6
+Keyboard,40076,CARFAX,117,9,2
+Keyboard,40077,Caspio,79,2,4
+Keyboard,40078,Castle Biosciences,168,7,3
+Keyboard,40079,CB Insights,66,4,5
+Keyboard,40080,Ceiba Solutions,16,8,5
+Keyboard,40081,Center for Responsive Politics,28,2,7
+Keyboard,40082,Cerner,300,5,8
+Keyboard,40083,Certara,291,5,2
+Keyboard,40084,CGI,292,6,6
+Keyboard,40085,Charles River Associates,55,1,3
+Keyboard,40086,Charles Schwab Corp.,320,3,2
+Keyboard,40087,Chemical Abstracts Service,186,3,6
+Keyboard,40088,Child Care Desk,227,2,5
+Keyboard,40089,Chubb,178,9,3
+Keyboard,40090,Citigroup,79,4,4
+Keyboard,40091,CityScan,110,8,4
+Keyboard,40092,CitySourced,288,9,8
+Keyboard,40093,Civic Impulse LLC,319,6,5
+Keyboard,40094,Civic Insight,116,9,7
+Keyboard,40095,Civinomics,367,8,2
+Keyboard,40096,Civis Analytics,74,4,7
+Keyboard,40097,Clean Power Finance,47,1,1
+Keyboard,40098,ClearHealthCosts,371,9,5
+Keyboard,40099,ClearStory Data,47,4,1
+Keyboard,40100,Climate Corporation,200,8,6
+Keyboard,40101,CliniCast,273,4,6
+Keyboard,40102,Cloudmade,153,3,7
+Keyboard,40103,Cloudspyre,306,8,4
+Keyboard,40104,Code for America,295,9,9
+Keyboard,40105,Code-N,269,7,2
+Keyboard,40106,Collective IP,52,9,4
+Keyboard,40107,"College Abacus, an ECMC initiative",392,1,9
+Keyboard,40108,College Board,272,4,8
+Keyboard,40109,Compared Care,218,9,5
+Keyboard,40110,Compendia Bioscience Life Technologies,195,8,3
+Keyboard,40111,Compliance and Risks,106,6,2
+Keyboard,40112,Computer Packages Inc,111,8,1
+Keyboard,40113,CONNECT-DOT LLC.,95,2,1
+Keyboard,40114,ConnectEDU,117,1,9
+Keyboard,40115,Connotate,273,3,7
+Keyboard,40116,Construction Monitor LLC,285,4,8
+Keyboard,40117,Consumer Reports,20,7,7
+Keyboard,40118,CoolClimate,75,4,6
+Keyboard,40119,Copyright Clearance Center,172,7,7
+Keyboard,40120,CoreLogic,378,9,6
+Keyboard,40121,CostQuest,356,5,5
+Keyboard,40122,Credit Karma,183,2,2
+Keyboard,40123,Credit Sesame,77,8,3
+Keyboard,40124,CrowdANALYTIX,131,3,1
+Keyboard,40125,Dabo Health,309,2,3
+Keyboard,40126,DataLogix,97,4,2
+Keyboard,40127,DataMade,268,1,7
+Keyboard,40128,DataMarket,63,1,1
+Keyboard,40129,Datamyne,128,6,4
+Keyboard,40130,DataWeave,296,2,4
+Keyboard,40131,Deloitte,290,8,7
+Keyboard,40132,DemystData,369,1,2
+Keyboard,40133,Department of Better Technology,375,9,5
+Keyboard,40134,Development Seed,86,3,4
+Keyboard,40135,"Docket Alarm, Inc.",148,4,8
+Keyboard,40136,Dow Jones & Co.,319,3,3
+Keyboard,40137,Dun & Bradstreet,380,6,7
+Keyboard,40138,Earth Networks,138,1,3
+Keyboard,40139,EarthObserver App,227,8,3
+Keyboard,40140,Earthquake Alert!,224,7,6
+Keyboard,40141,Eat Shop Sleep,304,3,3
+Keyboard,40142,Ecodesk,306,2,2
+Keyboard,40143,eInstitutional,386,8,7
+Keyboard,40144,Embark,364,6,1
+Keyboard,40145,EMC,329,3,4
+Keyboard,40146,"Energy Points, Inc.",280,4,8
+Keyboard,40147,Energy Solutions Forum,88,2,4
+Keyboard,40148,Enervee Corporation,33,3,5
+Keyboard,40149,Enigma.io,249,3,7
+Keyboard,40150,Ensco,316,4,9
+Keyboard,40151,Environmental Data Resources,212,8,2
+Keyboard,40152,Epsilon,357,4,7
+Keyboard,40153,Equal Pay for Women,102,6,6
+Keyboard,40154,Equifax,317,6,2
+Keyboard,40155,Equilar,61,5,3
+Keyboard,40156,Ernst & Young LLP,329,7,1
+Keyboard,40157,eScholar LLC.,386,5,7
+Keyboard,40158,Esri,79,3,4
+Keyboard,40159,Estately,10,6,6
+Keyboard,40160,Everyday Health,124,6,2
+Keyboard,40161,Evidera,12,9,5
+Keyboard,40162,Experian,242,2,8
+Keyboard,40163,"Expert Health Data Programming, Inc.",11,7,7
+Keyboard,40164,Exversion,116,7,3
+Keyboard,40165,Ez-XBRL,384,6,6
+Keyboard,40166,Factset,132,2,6
+Keyboard,40167,Factual,82,4,6
+Keyboard,40168,Farmers,212,5,5
+Keyboard,40169,FarmLogs,277,8,8
+Keyboard,40170,Fastcase,333,2,9
+Keyboard,40171,Fidelity Investments,398,3,9
+Keyboard,40172,FindTheBest.com,286,9,6
+Keyboard,40173,First Fuel Software,304,8,6
+Keyboard,40174,"FirstPoint, Inc.",304,3,9
+Keyboard,40175,Fitch,365,2,3
+Keyboard,40176,FlightAware,45,2,5
+Keyboard,40177,FlightStats,74,4,6
+Keyboard,40178,FlightView,191,5,1
+Keyboard,40179,Food+Tech Connect,167,8,3
+Keyboard,40180,Forrester Research,27,8,1
+Keyboard,40181,Foursquare,223,1,7
+Keyboard,40182,Fujitsu,220,1,5
+Keyboard,40183,Funding Circle,296,8,9
+Keyboard,40184,FutureAdvisor,310,7,7
+Keyboard,40185,"Fuzion Apps, Inc.",202,4,1
+Keyboard,40186,Gallup,96,7,7
+Keyboard,40187,Galorath Incorporated,213,2,4
+Keyboard,40188,Garmin,14,9,3
+Keyboard,40189,Genability,150,1,4
+Keyboard,40190,GenoSpace,104,1,4
+Keyboard,40191,Geofeedia,34,7,2
+Keyboard,40192,Geolytics,289,5,2
+Keyboard,40193,Geoscape,250,5,7
+Keyboard,40194,GetRaised,328,9,1
+Keyboard,40195,GitHub,51,7,8
+Keyboard,40196,Glassy Media,33,9,6
+Keyboard,40197,Golden Helix,68,7,1
+Keyboard,40198,GoodGuide,233,6,3
+Keyboard,40199,Google Maps,296,1,2
+Keyboard,40200,Google Public Data Explorer,248,6,1
+Keyboard,40201,Government Transaction Services,115,3,5
+Keyboard,40202,Govini,87,5,2
+Keyboard,40203,GovTribe,239,3,2
+Keyboard,40204,"Govzilla, Inc.",272,3,8
+Keyboard,40205,gRadiant Research LLC,298,2,9
+Keyboard,40206,Graebel Van Lines,220,7,1
+Keyboard,40207,"Graematter, Inc.",297,3,5
+Keyboard,40208,Granicus,73,1,7
+Keyboard,40209,GreatSchools,169,2,6
+Keyboard,40210,GuideStar,333,5,3
+Keyboard,40211,H3 Biomedicine,228,6,3
+Keyboard,40212,Harris Corporation,150,7,6
+Keyboard,40213,"HDScores, Inc",286,2,4
+Keyboard,40214,Headlight,127,8,1
+Keyboard,40215,Healthgrades,73,7,5
+Keyboard,40216,Healthline,171,1,1
+Keyboard,40217,HealthMap,177,4,2
+Keyboard,40218,"HealthPocket, Inc.",279,4,5
+Keyboard,40219,HelloWallet,171,2,9
+Keyboard,40220,HERE,332,7,3
+Keyboard,40221,Honest Buildings,348,5,8
+Keyboard,40222,HopStop,367,6,7
+Keyboard,40223,Housefax,399,2,1
+Keyboard,40224,How's My Offer?,174,9,1
+Keyboard,40225,IBM,288,9,5
+Keyboard,40226,ideas42,131,6,5
+Keyboard,40227,iFactor Consulting,51,5,6
+Keyboard,40228,IFI CLAIMS Patent Services,361,3,3
+Keyboard,40229,iMedicare,319,7,1
+Keyboard,40230,Impact Forecasting (Aon),33,2,3
+Keyboard,40231,Impaq International,164,5,1
+Keyboard,40232,Import.io,166,8,8
+Keyboard,40233,IMS Health,398,3,5
+Keyboard,40234,InCadence,36,5,8
+Keyboard,40235,indoo.rs,47,4,5
+Keyboard,40236,InfoCommerce Group,338,3,7
+Keyboard,40237,Informatica,305,7,3
+Keyboard,40238,InnoCentive,313,4,3
+Keyboard,40239,Innography,48,2,1
+Keyboard,40240,Innovest Systems,357,5,7
+Keyboard,40241,Inovalon,141,1,4
+Keyboard,40242,Inrix Traffic,162,5,7
+Keyboard,40243,Intelius,179,8,8
+Keyboard,40244,Intermap Technologies,262,6,9
+Keyboard,40245,Investormill,228,5,9
+Keyboard,40246,Iodine,371,7,4
+Keyboard,40247,IPHIX,37,8,1
+Keyboard,40248,iRecycle,65,8,4
+Keyboard,40249,iTriage,318,6,8
+Keyboard,40250,IVES Group Inc,286,7,1
+Keyboard,40251,IW Financial,95,3,8
+Keyboard,40252,JJ Keller,242,7,4
+Keyboard,40253,J.P. Morgan Chase,80,1,5
+Keyboard,40254,"Junar, Inc.",159,6,9
+Keyboard,40255,Junyo,243,1,5
+Keyboard,40256,Jurispect,86,3,3
+Keyboard,40257,Kaiser Permanante,11,5,7
+Keyboard,40258,karmadata,220,2,3
+Keyboard,40259,Keychain Logistics Corp.,67,3,9
+Keyboard,40260,"KidAdmit, Inc.",359,1,2
+Keyboard,40261,Kimono Labs,348,9,1
+Keyboard,40262,KLD Research,325,3,1
+Keyboard,40263,Knoema,332,7,4
+Keyboard,40264,Knowledge Agency,305,8,5
+Keyboard,40265,KPMG,282,5,3
+Keyboard,40266,Kroll Bond Ratings Agency,378,1,5
+Keyboard,40267,Kyruus,149,7,5
+Keyboard,40268,Lawdragon,281,4,3
+Keyboard,40269,Legal Science Partners,326,1,2
+Keyboard,40270,(Leg)Cyte,215,8,9
+Keyboard,40271,"LegiNation, Inc.",139,6,5
+Keyboard,40272,LegiStorm,175,8,6
+Keyboard,40273,Lenddo,99,9,6
+Keyboard,40274,Lending Club,242,5,8
+Keyboard,40275,Level One Technologies,20,4,1
+Keyboard,40276,LexisNexis,388,2,9
+Keyboard,40277,Liberty Mutual Insurance Cos.,164,4,3
+Keyboard,40278,Lilly Open Innovation Drug Discovery,41,2,5
+Keyboard,40279,Liquid Robotics,53,8,2
+Keyboard,40280,Locavore,284,9,1
+Keyboard,40281,"LOGIXDATA, LLC",351,6,4
+Keyboard,40282,LoopNet,163,4,1
+Keyboard,40283,"Loqate, Inc.",250,5,7
+Keyboard,40284,LoseIt.com,220,5,8
+Keyboard,40285,LOVELAND Technologies,177,7,1
+Keyboard,40286,Lucid,75,5,1
+Keyboard,40287,"Lumesis, Inc.",209,9,3
+Keyboard,40288,Mango Transit,388,7,4
+Keyboard,40289,Mapbox,207,4,4
+Keyboard,40290,Maponics,154,6,1
+Keyboard,40291,MapQuest,312,2,4
+Keyboard,40292,"Marinexplore, Inc.",314,8,8
+Keyboard,40293,MarketSense,359,5,6
+Keyboard,40294,Marlin & Associates,168,5,7
+Keyboard,40295,Marlin Alter and Associates,310,7,3
+Keyboard,40296,McGraw Hill Financial,266,6,2
+Keyboard,40297,McKinsey,366,6,5
+Keyboard,40298,MedWatcher,149,1,1
+Keyboard,40299,Mercaris,99,9,6
+Keyboard,40300,Merrill Corp.,383,7,3
+Keyboard,40301,Merrill Lynch,76,1,4
+Keyboard,40302,MetLife,12,5,3
+Keyboard,40303,mHealthCoach,145,6,1
+Keyboard,40304,MicroBilt Corporation,334,4,4
+Keyboard,40305,Microsoft Windows Azure Marketplace,217,8,3
+Keyboard,40306,Mint,60,3,4
+Keyboard,40307,Moody's,127,2,4
+Keyboard,40308,Morgan Stanley,322,3,7
+Keyboard,40309,"Morningstar, Inc.",295,3,6
+Keyboard,40310,Mozio,352,3,6
+Keyboard,40311,MuckRock.com,299,2,2
+Keyboard,40312,Munetrix,311,5,3
+Keyboard,40313,Municode,335,1,2
+Keyboard,40314,National Van Lines,138,2,6
+Keyboard,40315,Nationwide Mutual Insurance Company,266,2,9
+Keyboard,40316,Nautilytics,267,5,7
+Keyboard,40317,Navico,84,8,6
+Keyboard,40318,NERA Economic Consulting,379,5,2
+Keyboard,40319,NerdWallet,190,8,2
+Keyboard,40320,New Media Parents,141,9,9
+Keyboard,40321,Next Step Living,374,7,9
+Keyboard,40322,NextBus,197,9,2
+Keyboard,40323,nGAP Incorporated,13,1,3
+Keyboard,40324,Nielsen,21,4,6
+Keyboard,40325,Noesis,239,9,5
+Keyboard,40326,NonprofitMetrics,109,2,8
+Keyboard,40327,North American Van Lines,255,8,1
+Keyboard,40328,Noveda Technologies,162,9,3
+Keyboard,40329,NuCivic,19,4,9
+Keyboard,40330,Numedii,357,2,7
+Keyboard,40331,Oliver Wyman,218,7,5
+Keyboard,40332,OnDeck,143,3,6
+Keyboard,40333,OnStar,12,7,2
+Keyboard,40334,"Ontodia, Inc",228,9,8
+Keyboard,40335,Onvia,200,8,2
+Keyboard,40336,Open Data Nation,130,3,7
+Keyboard,40337,OpenCounter,226,4,1
+Keyboard,40338,OpenGov,380,3,4
+Keyboard,40339,OpenPlans,312,8,2
+Keyboard,40340,"OpportunitySpace, Inc.",253,5,4
+Keyboard,40341,Optensity,219,8,7
+Keyboard,40342,optiGov,89,8,3
+Keyboard,40343,OptumInsight,167,9,8
+Keyboard,40344,Orlin Research,80,5,8
+Keyboard,40345,OSIsoft,322,3,4
+Keyboard,40346,OTC Markets,296,3,3
+Keyboard,40347,Outline,373,7,2
+Keyboard,40348,Oversight Systems,234,3,9
+Keyboard,40349,Overture Technologies,379,4,3
+Keyboard,40350,Owler,243,7,8
+Keyboard,40351,Palantir Technologies,293,7,8
+Keyboard,40352,Panjiva,141,4,5
+Keyboard,40353,Parsons Brinckerhoff,190,4,3
+Keyboard,40354,Patently-O,264,2,2
+Keyboard,40355,PatientsLikeMe,334,3,9
+Keyboard,40356,Pave,293,1,7
+Keyboard,40357,Paxata,293,4,6
+Keyboard,40358,"PayScale, Inc.",365,4,4
+Keyboard,40359,PeerJ,16,4,4
+Keyboard,40360,People Power,238,1,4
+Keyboard,40361,Persint,264,7,8
+Keyboard,40362,Personal Democracy Media,28,7,7
+Keyboard,40363,"Personal, Inc.",377,9,2
+Keyboard,40364,Personalis,38,1,3
+Keyboard,40365,Peterson's,181,2,5
+Keyboard,40366,PEV4me.com,31,8,4
+Keyboard,40367,PIXIA Corp,13,6,3
+Keyboard,40368,PlaceILive.com,153,1,5
+Keyboard,40369,PlanetEcosystems,228,4,7
+Keyboard,40370,PlotWatt,225,4,2
+Keyboard,40371,Plus-U,244,3,7
+Keyboard,40372,PolicyMap,358,3,2
+Keyboard,40373,Politify,103,7,8
+Keyboard,40374,Poncho App,237,3,3
+Keyboard,40375,POPVOX,57,2,7
+Keyboard,40376,Porch,79,7,9
+Keyboard,40377,PossibilityU,125,8,1
+Keyboard,40378,PowerAdvocate,54,5,6
+Keyboard,40379,Practice Fusion,79,2,8
+Keyboard,40380,Predilytics,194,9,9
+Keyboard,40381,PricewaterhouseCoopers (PWC),232,2,3
+Keyboard,40382,ProgrammableWeb,88,7,6
+Keyboard,40383,Progressive Insurance Group,85,1,7
+Keyboard,40384,Propeller Health,316,3,1
+Keyboard,40385,ProPublica,223,8,7
+Keyboard,40386,PublicEngines,219,1,7
+Keyboard,40387,PYA Analytics,129,2,6
+Keyboard,40388,"Qado Energy, Inc.",255,3,3
+Keyboard,40389,Quandl,175,6,9
+Keyboard,40390,Quertle,341,6,7
+Keyboard,40391,Quid,284,2,5
+Keyboard,40392,R R Donnelley,396,7,4
+Keyboard,40393,RAND Corporation,289,5,6
+Keyboard,40394,Rand McNally,243,8,3
+Keyboard,40395,Rank and Filed,333,3,3
+Keyboard,40396,Ranku,381,5,4
+Keyboard,40397,Rapid Cycle Solutions,341,4,3
+Keyboard,40398,realtor.com,116,1,6
+Keyboard,40399,Recargo,133,3,6
+Keyboard,40400,ReciPal,346,4,3
+Keyboard,40401,Redfin,382,8,9
+Keyboard,40402,RedLaser,221,6,8
+Keyboard,40403,Reed Elsevier,215,9,9
+Keyboard,40404,REI Systems,140,5,2
+Keyboard,40405,Relationship Science,276,4,4
+Keyboard,40406,Remi,356,2,1
+Keyboard,40407,Retroficiency,356,3,4
+Keyboard,40408,Revaluate,231,8,7
+Keyboard,40409,Revelstone,269,6,1
+Keyboard,40410,Rezolve Group,125,5,7
+Keyboard,40411,Rivet Software,307,7,8
+Keyboard,40412,Roadify Transit,261,9,3
+Keyboard,40413,Robinson + Yu,182,6,2
+Keyboard,40414,Russell Investments,11,4,2
+Keyboard,40415,Sage Bionetworks,179,3,4
+Keyboard,40416,SAP,17,7,8
+Keyboard,40417,SAS,156,9,2
+Keyboard,40418,Scale Unlimited,298,4,4
+Keyboard,40419,Science Exchange,197,6,4
+Keyboard,40420,Seabourne,264,4,5
+Keyboard,40421,SeeClickFix,59,5,9
+Keyboard,40422,SigFig,369,9,8
+Keyboard,40423,Simple Energy,329,2,5
+Keyboard,40424,SimpleTuition,146,9,3
+Keyboard,40425,SlashDB,88,1,6
+Keyboard,40426,Smart Utility Systems,325,8,3
+Keyboard,40427,SmartAsset,381,3,7
+Keyboard,40428,SmartProcure,265,9,5
+Keyboard,40429,Smartronix,143,3,3
+Keyboard,40430,SnapSense,218,3,6
+Keyboard,40431,Social Explorer,63,1,8
+Keyboard,40432,Social Health Insights,19,2,4
+Keyboard,40433,SocialEffort Inc,290,3,6
+Keyboard,40434,Socrata,144,6,9
+Keyboard,40435,Solar Census,339,8,3
+Keyboard,40436,SolarList,268,9,1
+Keyboard,40437,Sophic Systems Alliance,67,8,1
+Keyboard,40438,S&P Capital IQ,98,4,8
+Keyboard,40439,SpaceCurve,128,7,6
+Keyboard,40440,SpeSo Health,205,8,2
+Keyboard,40441,Spikes Cavell Analytic Inc,56,8,1
+Keyboard,40442,Splunk,301,6,6
+Keyboard,40443,Spokeo,302,1,8
+Keyboard,40444,SpotCrime,41,9,2
+Keyboard,40445,SpotHero.com,380,9,8
+Keyboard,40446,Stamen Design,30,2,9
+Keyboard,40447,Standard and Poor's,188,3,7
+Keyboard,40448,State Farm Insurance,234,8,5
+Keyboard,40449,Sterling Infosystems,106,7,5
+Keyboard,40450,Stevens Worldwide Van Lines,90,9,9
+Keyboard,40451,STILLWATER SUPERCOMPUTING INC,54,6,9
+Keyboard,40452,StockSmart,85,6,5
+Keyboard,40453,Stormpulse,385,3,7
+Keyboard,40454,StreamLink Software,324,5,2
+Keyboard,40455,"StreetCred Software, Inc",166,7,2
+Keyboard,40456,StreetEasy,255,9,9
+Keyboard,40457,Suddath,51,6,3
+Keyboard,40458,Symcat,261,5,2
+Keyboard,40459,Synthicity,30,1,7
+Keyboard,40460,T. Rowe Price,124,5,3
+Keyboard,40461,Tableau Software,349,6,6
+Keyboard,40462,TagniFi,290,5,2
+Keyboard,40463,Telenav,246,8,5
+Keyboard,40464,Tendril,395,2,4
+Keyboard,40465,Teradata,307,7,7
+Keyboard,40466,The Advisory Board Company,111,4,3
+Keyboard,40467,The Bridgespan Group,295,6,1
+Keyboard,40468,The DocGraph Journal,306,3,6
+Keyboard,40469,The Govtech Fund,266,6,6
+Keyboard,40470,The Schork Report,121,4,2
+Keyboard,40471,The Vanguard Group,326,4,8
+Keyboard,40472,Think Computer Corporation,75,1,5
+Keyboard,40473,Thinknum,133,9,9
+Keyboard,40474,Thomson Reuters,22,9,4
+Keyboard,40475,TopCoder,80,2,1
+Keyboard,40476,TowerData,159,9,6
+Keyboard,40477,TransparaGov,110,9,2
+Keyboard,40478,TransUnion,250,1,1
+Keyboard,40479,TrialTrove,350,1,7
+Keyboard,40480,TrialX,101,4,2
+Keyboard,40481,Trintech,222,2,2
+Keyboard,40482,TrueCar,388,8,8
+Keyboard,40483,Trulia,29,5,4
+Keyboard,40484,TrustedID,186,5,7
+Keyboard,40485,TuvaLabs,182,9,1
+Keyboard,40486,Uber,322,9,9
+Keyboard,40487,Unigo LLC,199,4,1
+Keyboard,40488,United Mayflower,374,4,8
+Keyboard,40489,Urban Airship,15,7,6
+Keyboard,40490,"Urban Mapping, Inc",59,9,1
+Keyboard,40491,US Green Data,115,8,2
+Keyboard,40492,U.S. News Schools,143,2,5
+Keyboard,40493,USAA Group,314,4,8
+Keyboard,40494,USSearch,171,5,7
+Keyboard,40495,Verdafero,228,7,1
+Keyboard,40496,Vimo,138,6,6
+Keyboard,40497,"VisualDoD, LLC",85,8,5
+Keyboard,40498,Vital Axiom | Niinja,102,4,4
+Keyboard,40499,VitalChek,362,7,6
+Keyboard,40500,Vitals,242,8,8
+Keyboard,40501,Vizzuality,182,6,3
+Keyboard,40502,Votizen,255,4,3
+Keyboard,40503,Walk Score,105,1,9
+Keyboard,40504,WaterSmart Software,344,2,7
+Keyboard,40505,WattzOn,375,8,9
+Keyboard,40506,Way Better Patents,41,2,4
+Keyboard,40507,Weather Channel,344,6,6
+Keyboard,40508,Weather Decision Technologies,140,5,9
+Keyboard,40509,Weather Underground,92,1,6
+Keyboard,40510,WebFilings,189,1,1
+Keyboard,40511,Webitects,101,3,7
+Keyboard,40512,WebMD,357,7,1
+Keyboard,40513,Weight Watchers,35,4,1
+Keyboard,40514,WeMakeItSafer,157,5,1
+Keyboard,40515,Wheaton World Wide Moving,394,9,2
+Keyboard,40516,Whitby Group,109,4,8
+Keyboard,40517,Wolfram Research,231,7,2
+Keyboard,40518,Wolters Kluwer,326,2,3
+Keyboard,40519,Workhands,210,2,7
+Keyboard,40520,Xatori,350,4,4
+Keyboard,40521,Xcential,77,3,9
+Keyboard,40522,xDayta,165,1,9
+Keyboard,40523,Xignite,387,7,8
+Keyboard,40524,Yahoo,328,6,2
+Keyboard,40525,Zebu Compliance Solutions,108,6,7
+Keyboard,40526,Yelp,43,5,2
+Keyboard,40527,YourMapper,143,7,1
+Keyboard,40528,Zillow,48,7,3
+Keyboard,40529,ZocDoc,360,9,4
+Keyboard,40530,Zonability,163,7,9
+Keyboard,40531,Zoner,216,1,2
+Keyboard,40532,Zurich Insurance (Risk Room),32,8,2
+HDD 500 GB,30001,Samsung ,138,6,5
+HDD 500 GB,30002,Intel,190,6,1
+HDD 500 GB,30003,Western Digital ,129,5,5
+HDD 500 GB,30004,"3 Round Stones, Inc.",77,7,4
+HDD 500 GB,30005,48 Factoring Inc.,79,4,1
+HDD 500 GB,30006,5PSolutions,136,1,1
+HDD 500 GB,30007,Abt Associates,102,4,7
+HDD 500 GB,30008,Accela,58,2,6
+HDD 500 GB,30009,Accenture,136,9,2
+HDD 500 GB,30010,AccuWeather,69,3,2
+HDD 500 GB,30011,Acxiom,63,2,3
+HDD 500 GB,30012,Adaptive,103,2,8
+HDD 500 GB,30013,Adobe Digital Government,142,9,8
+HDD 500 GB,30014,Aidin,30,8,7
+HDD 500 GB,30015,Alarm.com,87,3,5
+HDD 500 GB,30016,Allianz,154,1,3
+HDD 500 GB,30017,Allied Van Lines,161,4,7
+HDD 500 GB,30018,AllState Insurance Group,64,3,5
+HDD 500 GB,30019,Alltuition,67,4,9
+HDD 500 GB,30020,Altova,135,9,7
+HDD 500 GB,30021,Amazon Web Services,20,9,1
+HDD 500 GB,30022,American Red Ball Movers,24,8,4
+HDD 500 GB,30023,Amida Technology Solutions,25,5,1
+HDD 500 GB,30024,Analytica,11,4,4
+HDD 500 GB,30025,Apextech LLC,185,3,5
+HDD 500 GB,30026,Appallicious,162,1,1
+HDD 500 GB,30027,Aquicore,13,2,8
+HDD 500 GB,30028,Archimedes Inc.,116,9,4
+HDD 500 GB,30029,AreaVibes Inc.,68,8,9
+HDD 500 GB,30030,Arpin Van Lines,85,9,4
+HDD 500 GB,30031,Arrive Labs,151,2,5
+HDD 500 GB,30032,ASC Partners,35,6,6
+HDD 500 GB,30033,Asset4,12,9,3
+HDD 500 GB,30034,Atlas Van Lines,33,5,5
+HDD 500 GB,30035,AtSite,127,4,1
+HDD 500 GB,30036,"Aunt Bertha, Inc.",171,9,8
+HDD 500 GB,30037,Aureus Sciences (*Now part of Elsevier),105,1,5
+HDD 500 GB,30038,AutoGrid Systems,109,7,7
+HDD 500 GB,30039,Avalara,135,3,7
+HDD 500 GB,30040,Avvo,66,5,6
+HDD 500 GB,30041,Ayasdi,119,5,1
+HDD 500 GB,30042,Azavea,157,6,6
+HDD 500 GB,30043,BaleFire Global,141,3,5
+HDD 500 GB,30044,Barchart,159,3,6
+HDD 500 GB,30045,Be Informed,51,2,1
+HDD 500 GB,30046,Bekins,153,6,1
+HDD 500 GB,30047,Berkery Noyes MandASoft,14,6,6
+HDD 500 GB,30048,Berkshire Hathaway,85,6,2
+HDD 500 GB,30049,BetterLesson,88,1,6
+HDD 500 GB,30050,BillGuard,46,4,5
+HDD 500 GB,30051,Bing,33,1,7
+HDD 500 GB,30052,Biovia,134,9,7
+HDD 500 GB,30053,BizVizz,98,9,8
+HDD 500 GB,30054,BlackRock,13,9,2
+HDD 500 GB,30055,Bloomberg,155,9,5
+HDD 500 GB,30056,Booz Allen Hamilton,173,3,6
+HDD 500 GB,30057,Boston Consulting Group,126,2,5
+HDD 500 GB,30058,Boundless,39,4,4
+HDD 500 GB,30059,Bridgewater,19,5,4
+HDD 500 GB,30060,Brightscope,87,5,9
+HDD 500 GB,30061,BuildFax,47,9,5
+HDD 500 GB,30062,Buildingeye,112,6,6
+HDD 500 GB,30063,BuildZoom,100,1,7
+HDD 500 GB,30064,Business and Legal Resources,190,1,6
+HDD 500 GB,30065,Business Monitor International,174,7,7
+HDD 500 GB,30066,"Calcbench, Inc.",113,3,9
+HDD 500 GB,30067,Cambridge Information Group,192,2,3
+HDD 500 GB,30068,Cambridge Semantics,46,3,5
+HDD 500 GB,30069,CAN Capital,136,2,1
+HDD 500 GB,30070,Canon,69,1,6
+HDD 500 GB,30071,Capital Cube,92,6,2
+HDD 500 GB,30072,Cappex,194,9,8
+HDD 500 GB,30073,Captricity,95,4,7
+HDD 500 GB,30074,CareSet Systems,75,6,4
+HDD 500 GB,30075,Careset.com,173,2,5
+HDD 500 GB,30076,CARFAX,115,1,4
+HDD 500 GB,30077,Caspio,155,7,7
+HDD 500 GB,30078,Castle Biosciences,59,3,4
+HDD 500 GB,30079,CB Insights,198,5,7
+HDD 500 GB,30080,Ceiba Solutions,45,3,3
+HDD 500 GB,30081,Center for Responsive Politics,103,4,2
+HDD 500 GB,30082,Cerner,17,6,4
+HDD 500 GB,30083,Certara,142,5,7
+HDD 500 GB,30084,CGI,166,5,7
+HDD 500 GB,30085,Charles River Associates,20,6,3
+HDD 500 GB,30086,Charles Schwab Corp.,151,7,8
+HDD 500 GB,30087,Chemical Abstracts Service,155,7,5
+HDD 500 GB,30088,Child Care Desk,39,6,8
+HDD 500 GB,30089,Chubb,197,9,3
+HDD 500 GB,30090,Citigroup,158,1,4
+HDD 500 GB,30091,CityScan,59,8,1
+HDD 500 GB,30092,CitySourced,191,2,6
+HDD 500 GB,30093,Civic Impulse LLC,73,5,1
+HDD 500 GB,30094,Civic Insight,135,3,9
+HDD 500 GB,30095,Civinomics,37,5,8
+HDD 500 GB,30096,Civis Analytics,176,4,9
+HDD 500 GB,30097,Clean Power Finance,29,5,2
+HDD 500 GB,30098,ClearHealthCosts,106,1,2
+HDD 500 GB,30099,ClearStory Data,51,1,5
+HDD 500 GB,30100,Climate Corporation,130,7,2
+HDD 500 GB,30101,CliniCast,25,2,6
+HDD 500 GB,30102,Cloudmade,107,7,9
+HDD 500 GB,30103,Cloudspyre,140,6,2
+HDD 500 GB,30104,Code for America,38,7,8
+HDD 500 GB,30105,Code-N,162,2,1
+HDD 500 GB,30106,Collective IP,117,7,4
+HDD 500 GB,30107,"College Abacus, an ECMC initiative",15,9,5
+HDD 500 GB,30108,College Board,163,9,4
+HDD 500 GB,30109,Compared Care,161,6,2
+HDD 500 GB,30110,Compendia Bioscience Life Technologies,83,2,7
+HDD 500 GB,30111,Compliance and Risks,89,4,3
+HDD 500 GB,30112,Computer Packages Inc,102,4,5
+HDD 500 GB,30113,CONNECT-DOT LLC.,174,3,5
+HDD 500 GB,30114,ConnectEDU,43,4,2
+HDD 500 GB,30115,Connotate,184,9,5
+HDD 500 GB,30116,Construction Monitor LLC,63,3,1
+HDD 500 GB,30117,Consumer Reports,27,7,2
+HDD 500 GB,30118,CoolClimate,149,7,5
+HDD 500 GB,30119,Copyright Clearance Center,86,7,6
+HDD 500 GB,30120,CoreLogic,193,6,1
+HDD 500 GB,30121,CostQuest,167,2,9
+HDD 500 GB,30122,Credit Karma,119,8,8
+HDD 500 GB,30123,Credit Sesame,74,5,4
+HDD 500 GB,30124,CrowdANALYTIX,138,9,6
+HDD 500 GB,30125,Dabo Health,72,7,8
+HDD 500 GB,30126,DataLogix,72,7,6
+HDD 500 GB,30127,DataMade,129,3,6
+HDD 500 GB,30128,DataMarket,101,8,9
+HDD 500 GB,30129,Datamyne,115,2,3
+HDD 500 GB,30130,DataWeave,129,6,7
+HDD 500 GB,30131,Deloitte,113,1,2
+HDD 500 GB,30132,DemystData,162,4,6
+HDD 500 GB,30133,Department of Better Technology,181,2,7
+HDD 500 GB,30134,Development Seed,180,9,4
+HDD 500 GB,30135,"Docket Alarm, Inc.",155,9,4
+HDD 500 GB,30136,Dow Jones & Co.,193,5,3
+HDD 500 GB,30137,Dun & Bradstreet,101,4,4
+HDD 500 GB,30138,Earth Networks,18,9,5
+HDD 500 GB,30139,EarthObserver App,132,6,7
+HDD 500 GB,30140,Earthquake Alert!,37,8,2
+HDD 500 GB,30141,Eat Shop Sleep,25,9,8
+HDD 500 GB,30142,Ecodesk,98,2,8
+HDD 500 GB,30143,eInstitutional,83,6,5
+HDD 500 GB,30144,Embark,186,2,8
+HDD 500 GB,30145,EMC,64,9,5
+HDD 500 GB,30146,"Energy Points, Inc.",103,9,3
+HDD 500 GB,30147,Energy Solutions Forum,127,8,8
+HDD 500 GB,30148,Enervee Corporation,193,8,9
+HDD 500 GB,30149,Enigma.io,112,1,8
+HDD 500 GB,30150,Ensco,54,1,8
+HDD 500 GB,30151,Environmental Data Resources,167,5,6
+HDD 500 GB,30152,Epsilon,117,5,8
+HDD 500 GB,30153,Equal Pay for Women,114,2,5
+HDD 500 GB,30154,Equifax,158,5,1
+HDD 500 GB,30155,Equilar,82,8,1
+HDD 500 GB,30156,Ernst & Young LLP,166,1,7
+HDD 500 GB,30157,eScholar LLC.,163,5,3
+HDD 500 GB,30158,Esri,33,7,2
+HDD 500 GB,30159,Estately,150,5,8
+HDD 500 GB,30160,Everyday Health,11,7,1
+HDD 500 GB,30161,Evidera,78,3,2
+HDD 500 GB,30162,Experian,32,6,9
+HDD 500 GB,30163,"Expert Health Data Programming, Inc.",50,5,3
+HDD 500 GB,30164,Exversion,118,1,4
+HDD 500 GB,30165,Ez-XBRL,191,6,1
+HDD 500 GB,30166,Factset,27,2,1
+HDD 500 GB,30167,Factual,119,7,2
+HDD 500 GB,30168,Farmers,122,7,4
+HDD 500 GB,30169,FarmLogs,135,8,5
+HDD 500 GB,30170,Fastcase,16,2,8
+HDD 500 GB,30171,Fidelity Investments,199,7,3
+HDD 500 GB,30172,FindTheBest.com,17,1,4
+HDD 500 GB,30173,First Fuel Software,163,6,9
+HDD 500 GB,30174,"FirstPoint, Inc.",127,3,6
+HDD 500 GB,30175,Fitch,74,4,6
+HDD 500 GB,30176,FlightAware,81,1,4
+HDD 500 GB,30177,FlightStats,78,3,4
+HDD 500 GB,30178,FlightView,109,5,7
+HDD 500 GB,30179,Food+Tech Connect,44,7,9
+HDD 500 GB,30180,Forrester Research,135,1,4
+HDD 500 GB,30181,Foursquare,163,5,1
+HDD 500 GB,30182,Fujitsu,171,6,7
+HDD 500 GB,30183,Funding Circle,17,6,3
+HDD 500 GB,30184,FutureAdvisor,106,2,7
+HDD 500 GB,30185,"Fuzion Apps, Inc.",125,6,2
+HDD 500 GB,30186,Gallup,183,5,5
+HDD 500 GB,30187,Galorath Incorporated,183,3,3
+HDD 500 GB,30188,Garmin,193,4,3
+HDD 500 GB,30189,Genability,173,4,9
+HDD 500 GB,30190,GenoSpace,145,3,9
+HDD 500 GB,30191,Geofeedia,187,2,8
+HDD 500 GB,30192,Geolytics,36,5,4
+HDD 500 GB,30193,Geoscape,158,1,7
+HDD 500 GB,30194,GetRaised,81,5,8
+HDD 500 GB,30195,GitHub,182,6,1
+HDD 500 GB,30196,Glassy Media,11,3,5
+HDD 500 GB,30197,Golden Helix,68,6,9
+HDD 500 GB,30198,GoodGuide,192,5,3
+HDD 500 GB,30199,Google Maps,33,4,9
+HDD 500 GB,30200,Google Public Data Explorer,112,6,7
+HDD 500 GB,30201,Government Transaction Services,91,7,4
+HDD 500 GB,30202,Govini,145,9,4
+HDD 500 GB,30203,GovTribe,50,1,2
+HDD 500 GB,30204,"Govzilla, Inc.",97,2,9
+HDD 500 GB,30205,gRadiant Research LLC,99,7,6
+HDD 500 GB,30206,Graebel Van Lines,148,1,4
+HDD 500 GB,30207,"Graematter, Inc.",39,8,2
+HDD 500 GB,30208,Granicus,184,3,5
+HDD 500 GB,30209,GreatSchools,22,3,8
+HDD 500 GB,30210,GuideStar,194,8,3
+HDD 500 GB,30211,H3 Biomedicine,57,1,7
+HDD 500 GB,30212,Harris Corporation,57,7,4
+HDD 500 GB,30213,"HDScores, Inc",79,2,5
+HDD 500 GB,30214,Headlight,159,4,5
+HDD 500 GB,30215,Healthgrades,42,2,2
+HDD 500 GB,30216,Healthline,166,6,3
+HDD 500 GB,30217,HealthMap,142,7,7
+HDD 500 GB,30218,"HealthPocket, Inc.",182,8,8
+HDD 500 GB,30219,HelloWallet,49,8,6
+HDD 500 GB,30220,HERE,34,6,7
+HDD 500 GB,30221,Honest Buildings,78,6,4
+HDD 500 GB,30222,HopStop,185,2,9
+HDD 500 GB,30223,Housefax,141,8,6
+HDD 500 GB,30224,How's My Offer?,98,3,3
+HDD 500 GB,30225,IBM,42,6,7
+HDD 500 GB,30226,ideas42,147,3,3
+HDD 500 GB,30227,iFactor Consulting,71,4,8
+HDD 500 GB,30228,IFI CLAIMS Patent Services,34,6,1
+HDD 500 GB,30229,iMedicare,73,1,4
+HDD 500 GB,30230,Impact Forecasting (Aon),177,4,9
+HDD 500 GB,30231,Impaq International,163,1,8
+HDD 500 GB,30232,Import.io,83,4,9
+HDD 500 GB,30233,IMS Health,178,9,8
+HDD 500 GB,30234,InCadence,76,5,6
+HDD 500 GB,30235,indoo.rs,85,4,9
+HDD 500 GB,30236,InfoCommerce Group,21,3,6
+HDD 500 GB,30237,Informatica,62,2,7
+HDD 500 GB,30238,InnoCentive,179,7,1
+HDD 500 GB,30239,Innography,190,8,6
+HDD 500 GB,30240,Innovest Systems,13,2,7
+HDD 500 GB,30241,Inovalon,127,2,3
+HDD 500 GB,30242,Inrix Traffic,191,7,3
+HDD 500 GB,30243,Intelius,126,5,4
+HDD 500 GB,30244,Intermap Technologies,192,3,9
+HDD 500 GB,30245,Investormill,109,5,4
+HDD 500 GB,30246,Iodine,156,7,2
+HDD 500 GB,30247,IPHIX,123,6,2
+HDD 500 GB,30248,iRecycle,110,8,2
+HDD 500 GB,30249,iTriage,16,8,8
+HDD 500 GB,30250,IVES Group Inc,124,8,6
+HDD 500 GB,30251,IW Financial,174,5,7
+HDD 500 GB,30252,JJ Keller,13,5,7
+HDD 500 GB,30253,J.P. Morgan Chase,64,6,4
+HDD 500 GB,30254,"Junar, Inc.",170,2,1
+HDD 500 GB,30255,Junyo,183,9,7
+HDD 500 GB,30256,Jurispect,99,3,7
+HDD 500 GB,30257,Kaiser Permanante,93,5,1
+HDD 500 GB,30258,karmadata,83,1,8
+HDD 500 GB,30259,Keychain Logistics Corp.,62,7,3
+HDD 500 GB,30260,"KidAdmit, Inc.",148,3,3
+HDD 500 GB,30261,Kimono Labs,52,4,1
+HDD 500 GB,30262,KLD Research,81,9,2
+HDD 500 GB,30263,Knoema,26,9,9
+HDD 500 GB,30264,Knowledge Agency,168,2,1
+HDD 500 GB,30265,KPMG,90,7,9
+HDD 500 GB,30266,Kroll Bond Ratings Agency,110,5,4
+HDD 500 GB,30267,Kyruus,180,5,5
+HDD 500 GB,30268,Lawdragon,163,1,2
+HDD 500 GB,30269,Legal Science Partners,146,3,1
+HDD 500 GB,30270,(Leg)Cyte,166,1,5
+HDD 500 GB,30271,"LegiNation, Inc.",172,4,8
+HDD 500 GB,30272,LegiStorm,126,6,4
+HDD 500 GB,30273,Lenddo,16,4,9
+HDD 500 GB,30274,Lending Club,72,5,8
+HDD 500 GB,30275,Level One Technologies,118,9,3
+HDD 500 GB,30276,LexisNexis,42,3,1
+HDD 500 GB,30277,Liberty Mutual Insurance Cos.,135,8,7
+HDD 500 GB,30278,Lilly Open Innovation Drug Discovery,76,8,2
+HDD 500 GB,30279,Liquid Robotics,168,8,6
+HDD 500 GB,30280,Locavore,153,4,8
+HDD 500 GB,30281,"LOGIXDATA, LLC",17,3,6
+HDD 500 GB,30282,LoopNet,148,3,7
+HDD 500 GB,30283,"Loqate, Inc.",22,9,6
+HDD 500 GB,30284,LoseIt.com,158,5,7
+HDD 500 GB,30285,LOVELAND Technologies,153,4,6
+HDD 500 GB,30286,Lucid,193,4,6
+HDD 500 GB,30287,"Lumesis, Inc.",168,1,6
+HDD 500 GB,30288,Mango Transit,90,1,6
+HDD 500 GB,30289,Mapbox,37,9,4
+HDD 500 GB,30290,Maponics,163,9,5
+HDD 500 GB,30291,MapQuest,165,1,7
+HDD 500 GB,30292,"Marinexplore, Inc.",45,7,4
+HDD 500 GB,30293,MarketSense,111,2,4
+HDD 500 GB,30294,Marlin & Associates,181,7,2
+HDD 500 GB,30295,Marlin Alter and Associates,179,3,4
+HDD 500 GB,30296,McGraw Hill Financial,76,9,5
+HDD 500 GB,30297,McKinsey,151,1,8
+HDD 500 GB,30298,MedWatcher,19,7,1
+HDD 500 GB,30299,Mercaris,131,4,8
+HDD 500 GB,30300,Merrill Corp.,91,5,1
+HDD 500 GB,30301,Merrill Lynch,196,2,9
+HDD 500 GB,30302,MetLife,132,9,6
+HDD 500 GB,30303,mHealthCoach,139,6,6
+HDD 500 GB,30304,MicroBilt Corporation,114,2,6
+HDD 500 GB,30305,Microsoft Windows Azure Marketplace,197,1,8
+HDD 500 GB,30306,Mint,153,4,4
+HDD 500 GB,30307,Moody's,79,5,1
+HDD 500 GB,30308,Morgan Stanley,184,8,2
+HDD 500 GB,30309,"Morningstar, Inc.",56,2,7
+HDD 500 GB,30310,Mozio,200,5,4
+HDD 500 GB,30311,MuckRock.com,132,1,3
+HDD 500 GB,30312,Munetrix,144,2,7
+HDD 500 GB,30313,Municode,183,3,5
+HDD 500 GB,30314,National Van Lines,74,4,8
+HDD 500 GB,30315,Nationwide Mutual Insurance Company,56,7,8
+HDD 500 GB,30316,Nautilytics,167,6,8
+HDD 500 GB,30317,Navico,180,1,8
+HDD 500 GB,30318,NERA Economic Consulting,193,5,8
+HDD 500 GB,30319,NerdWallet,90,3,4
+HDD 500 GB,30320,New Media Parents,64,8,3
+HDD 500 GB,30321,Next Step Living,163,4,5
+HDD 500 GB,30322,NextBus,95,6,3
+HDD 500 GB,30323,nGAP Incorporated,142,2,4
+HDD 500 GB,30324,Nielsen,142,7,4
+HDD 500 GB,30325,Noesis,21,7,4
+HDD 500 GB,30326,NonprofitMetrics,75,8,7
+HDD 500 GB,30327,North American Van Lines,197,9,5
+HDD 500 GB,30328,Noveda Technologies,127,3,2
+HDD 500 GB,30329,NuCivic,132,3,7
+HDD 500 GB,30330,Numedii,101,5,6
+HDD 500 GB,30331,Oliver Wyman,166,2,4
+HDD 500 GB,30332,OnDeck,27,9,2
+HDD 500 GB,30333,OnStar,169,1,5
+HDD 500 GB,30334,"Ontodia, Inc",30,5,7
+HDD 500 GB,30335,Onvia,92,2,8
+HDD 500 GB,30336,Open Data Nation,184,4,5
+HDD 500 GB,30337,OpenCounter,102,5,5
+HDD 500 GB,30338,OpenGov,80,2,1
+HDD 500 GB,30339,OpenPlans,42,5,7
+HDD 500 GB,30340,"OpportunitySpace, Inc.",117,9,8
+HDD 500 GB,30341,Optensity,160,3,5
+HDD 500 GB,30342,optiGov,124,7,8
+HDD 500 GB,30343,OptumInsight,169,6,9
+HDD 500 GB,30344,Orlin Research,190,8,2
+HDD 500 GB,30345,OSIsoft,116,4,8
+HDD 500 GB,30346,OTC Markets,134,1,1
+HDD 500 GB,30347,Outline,78,8,9
+HDD 500 GB,30348,Oversight Systems,123,1,6
+HDD 500 GB,30349,Overture Technologies,66,6,6
+HDD 500 GB,30350,Owler,179,3,8
+HDD 500 GB,30351,Palantir Technologies,106,7,7
+HDD 500 GB,30352,Panjiva,58,5,1
+HDD 500 GB,30353,Parsons Brinckerhoff,60,9,2
+HDD 500 GB,30354,Patently-O,187,4,3
+HDD 500 GB,30355,PatientsLikeMe,162,7,3
+HDD 500 GB,30356,Pave,63,3,6
+HDD 500 GB,30357,Paxata,61,4,1
+HDD 500 GB,30358,"PayScale, Inc.",162,2,6
+HDD 500 GB,30359,PeerJ,19,4,5
+HDD 500 GB,30360,People Power,93,2,1
+HDD 500 GB,30361,Persint,56,9,5
+HDD 500 GB,30362,Personal Democracy Media,111,1,3
+HDD 500 GB,30363,"Personal, Inc.",25,3,5
+HDD 500 GB,30364,Personalis,157,7,8
+HDD 500 GB,30365,Peterson's,94,4,1
+HDD 500 GB,30366,PEV4me.com,94,2,9
+HDD 500 GB,30367,PIXIA Corp,167,1,5
+HDD 500 GB,30368,PlaceILive.com,82,9,7
+HDD 500 GB,30369,PlanetEcosystems,56,2,3
+HDD 500 GB,30370,PlotWatt,167,5,6
+HDD 500 GB,30371,Plus-U,180,4,4
+HDD 500 GB,30372,PolicyMap,113,5,4
+HDD 500 GB,30373,Politify,35,6,9
+HDD 500 GB,30374,Poncho App,128,8,5
+HDD 500 GB,30375,POPVOX,167,2,5
+HDD 500 GB,30376,Porch,151,1,8
+HDD 500 GB,30377,PossibilityU,107,1,1
+HDD 500 GB,30378,PowerAdvocate,83,5,9
+HDD 500 GB,30379,Practice Fusion,141,3,6
+HDD 500 GB,30380,Predilytics,82,3,3
+HDD 500 GB,30381,PricewaterhouseCoopers (PWC),138,9,8
+HDD 500 GB,30382,ProgrammableWeb,184,2,3
+HDD 500 GB,30383,Progressive Insurance Group,53,2,7
+HDD 500 GB,30384,Propeller Health,15,1,5
+HDD 500 GB,30385,ProPublica,114,9,2
+HDD 500 GB,30386,PublicEngines,99,7,2
+HDD 500 GB,30387,PYA Analytics,200,5,6
+HDD 500 GB,30388,"Qado Energy, Inc.",184,5,6
+HDD 500 GB,30389,Quandl,113,4,9
+HDD 500 GB,30390,Quertle,179,5,8
+HDD 500 GB,30391,Quid,34,4,2
+HDD 500 GB,30392,R R Donnelley,152,7,9
+HDD 500 GB,30393,RAND Corporation,27,9,6
+HDD 500 GB,30394,Rand McNally,162,4,1
+HDD 500 GB,30395,Rank and Filed,122,1,7
+HDD 500 GB,30396,Ranku,50,2,5
+HDD 500 GB,30397,Rapid Cycle Solutions,80,1,6
+HDD 500 GB,30398,realtor.com,78,9,6
+HDD 500 GB,30399,Recargo,31,7,7
+HDD 500 GB,30400,ReciPal,126,5,1
+HDD 500 GB,30401,Redfin,194,8,8
+HDD 500 GB,30402,RedLaser,93,7,8
+HDD 500 GB,30403,Reed Elsevier,99,8,3
+HDD 500 GB,30404,REI Systems,122,2,3
+HDD 500 GB,30405,Relationship Science,181,4,6
+HDD 500 GB,30406,Remi,54,2,2
+HDD 500 GB,30407,Retroficiency,34,1,8
+HDD 500 GB,30408,Revaluate,68,4,1
+HDD 500 GB,30409,Revelstone,10,4,4
+HDD 500 GB,30410,Rezolve Group,121,5,2
+HDD 500 GB,30411,Rivet Software,10,8,5
+HDD 500 GB,30412,Roadify Transit,33,1,5
+HDD 500 GB,30413,Robinson + Yu,46,3,9
+HDD 500 GB,30414,Russell Investments,58,4,6
+HDD 500 GB,30415,Sage Bionetworks,114,4,4
+HDD 500 GB,30416,SAP,13,8,8
+HDD 500 GB,30417,SAS,98,1,4
+HDD 500 GB,30418,Scale Unlimited,121,8,2
+HDD 500 GB,30419,Science Exchange,20,7,5
+HDD 500 GB,30420,Seabourne,45,4,4
+HDD 500 GB,30421,SeeClickFix,188,5,7
+HDD 500 GB,30422,SigFig,197,4,4
+HDD 500 GB,30423,Simple Energy,19,6,5
+HDD 500 GB,30424,SimpleTuition,198,1,6
+HDD 500 GB,30425,SlashDB,12,2,8
+HDD 500 GB,30426,Smart Utility Systems,115,2,6
+HDD 500 GB,30427,SmartAsset,62,4,2
+HDD 500 GB,30428,SmartProcure,10,2,7
+HDD 500 GB,30429,Smartronix,133,7,6
+HDD 500 GB,30430,SnapSense,119,9,4
+HDD 500 GB,30431,Social Explorer,170,3,5
+HDD 500 GB,30432,Social Health Insights,64,3,8
+HDD 500 GB,30433,SocialEffort Inc,44,5,4
+HDD 500 GB,30434,Socrata,198,3,8
+HDD 500 GB,30435,Solar Census,130,8,8
+HDD 500 GB,30436,SolarList,181,2,4
+HDD 500 GB,30437,Sophic Systems Alliance,110,8,7
+HDD 500 GB,30438,S&P Capital IQ,164,4,2
+HDD 500 GB,30439,SpaceCurve,53,5,6
+HDD 500 GB,30440,SpeSo Health,37,7,4
+HDD 500 GB,30441,Spikes Cavell Analytic Inc,22,4,5
+HDD 500 GB,30442,Splunk,93,1,8
+HDD 500 GB,30443,Spokeo,75,1,5
+HDD 500 GB,30444,SpotCrime,89,1,2
+HDD 500 GB,30445,SpotHero.com,50,9,1
+HDD 500 GB,30446,Stamen Design,191,3,5
+HDD 500 GB,30447,Standard and Poor's,117,8,1
+HDD 500 GB,30448,State Farm Insurance,197,7,3
+HDD 500 GB,30449,Sterling Infosystems,155,9,4
+HDD 500 GB,30450,Stevens Worldwide Van Lines,79,3,2
+HDD 500 GB,30451,STILLWATER SUPERCOMPUTING INC,161,7,5
+HDD 500 GB,30452,StockSmart,52,8,2
+HDD 500 GB,30453,Stormpulse,72,8,6
+HDD 500 GB,30454,StreamLink Software,168,5,1
+HDD 500 GB,30455,"StreetCred Software, Inc",123,7,9
+HDD 500 GB,30456,StreetEasy,25,9,1
+HDD 500 GB,30457,Suddath,77,5,1
+HDD 500 GB,30458,Symcat,187,1,8
+HDD 500 GB,30459,Synthicity,147,2,4
+HDD 500 GB,30460,T. Rowe Price,110,8,5
+HDD 500 GB,30461,Tableau Software,134,2,9
+HDD 500 GB,30462,TagniFi,105,4,1
+HDD 500 GB,30463,Telenav,100,6,2
+HDD 500 GB,30464,Tendril,99,8,7
+HDD 500 GB,30465,Teradata,16,2,9
+HDD 500 GB,30466,The Advisory Board Company,154,2,2
+HDD 500 GB,30467,The Bridgespan Group,175,3,4
+HDD 500 GB,30468,The DocGraph Journal,71,5,6
+HDD 500 GB,30469,The Govtech Fund,33,3,9
+HDD 500 GB,30470,The Schork Report,166,4,1
+HDD 500 GB,30471,The Vanguard Group,167,8,8
+HDD 500 GB,30472,Think Computer Corporation,43,7,6
+HDD 500 GB,30473,Thinknum,80,6,8
+HDD 500 GB,30474,Thomson Reuters,159,4,2
+HDD 500 GB,30475,TopCoder,156,5,3
+HDD 500 GB,30476,TowerData,193,8,8
+HDD 500 GB,30477,TransparaGov,158,4,8
+HDD 500 GB,30478,TransUnion,159,2,6
+HDD 500 GB,30479,TrialTrove,172,8,4
+HDD 500 GB,30480,TrialX,174,8,3
+HDD 500 GB,30481,Trintech,58,6,8
+HDD 500 GB,30482,TrueCar,135,2,4
+HDD 500 GB,30483,Trulia,131,4,4
+HDD 500 GB,30484,TrustedID,138,2,8
+HDD 500 GB,30485,TuvaLabs,58,8,2
+HDD 500 GB,30486,Uber,162,3,6
+HDD 500 GB,30487,Unigo LLC,42,1,4
+HDD 500 GB,30488,United Mayflower,27,4,1
+HDD 500 GB,30489,Urban Airship,84,5,2
+HDD 500 GB,30490,"Urban Mapping, Inc",124,9,5
+HDD 500 GB,30491,US Green Data,104,6,5
+HDD 500 GB,30492,U.S. News Schools,115,9,8
+HDD 500 GB,30493,USAA Group,82,5,7
+HDD 500 GB,30494,USSearch,54,7,3
+HDD 500 GB,30495,Verdafero,187,2,3
+HDD 500 GB,30496,Vimo,169,6,7
+HDD 500 GB,30497,"VisualDoD, LLC",138,3,4
+HDD 500 GB,30498,Vital Axiom | Niinja,19,2,1
+HDD 500 GB,30499,VitalChek,172,8,9
+HDD 500 GB,30500,Vitals,58,5,7
+HDD 500 GB,30501,Vizzuality,63,6,4
+HDD 500 GB,30502,Votizen,77,1,8
+HDD 500 GB,30503,Walk Score,165,4,2
+HDD 500 GB,30504,WaterSmart Software,43,7,6
+HDD 500 GB,30505,WattzOn,64,8,8
+HDD 500 GB,30506,Way Better Patents,119,1,3
+HDD 500 GB,30507,Weather Channel,87,9,2
+HDD 500 GB,30508,Weather Decision Technologies,45,1,8
+HDD 500 GB,30509,Weather Underground,54,7,4
+HDD 500 GB,30510,WebFilings,136,3,4
+HDD 500 GB,30511,Webitects,85,5,4
+HDD 500 GB,30512,WebMD,129,8,2
+HDD 500 GB,30513,Weight Watchers,173,9,3
+HDD 500 GB,30514,WeMakeItSafer,23,9,3
+HDD 500 GB,30515,Wheaton World Wide Moving,160,1,7
+HDD 500 GB,30516,Whitby Group,70,7,2
+HDD 500 GB,30517,Wolfram Research,60,8,4
+HDD 500 GB,30518,Wolters Kluwer,19,9,4
+HDD 500 GB,30519,Workhands,67,7,5
+HDD 500 GB,30520,Xatori,49,3,6
+HDD 500 GB,30521,Xcential,92,8,4
+HDD 500 GB,30522,xDayta,95,1,2
+HDD 500 GB,30523,Xignite,122,1,8
+HDD 500 GB,30524,Yahoo,90,1,7
+HDD 500 GB,30525,Zebu Compliance Solutions,121,4,7
+HDD 500 GB,30526,Yelp,11,2,1
+HDD 500 GB,30527,YourMapper,37,3,9
+HDD 500 GB,30528,Zillow,196,6,5
+HDD 500 GB,30529,ZocDoc,158,3,3
+HDD 500 GB,30530,Zonability,77,6,2
+HDD 500 GB,30531,Zoner,105,7,3
+HDD 500 GB,30532,Zurich Insurance (Risk Room),159,1,3
+8GB RAM,70001,Samsung ,589,8,7
+8GB RAM,70002,Intel,775,1,9
+8GB RAM,70003,Western Digital ,679,7,8
+8GB RAM,70004,"3 Round Stones, Inc.",1080,2,3
+8GB RAM,70005,48 Factoring Inc.,380,5,7
+8GB RAM,70006,5PSolutions,679,6,2
+8GB RAM,70007,Abt Associates,827,5,9
+8GB RAM,70008,Accela,770,8,5
+8GB RAM,70009,Accenture,867,4,3
+8GB RAM,70010,AccuWeather,998,3,9
+8GB RAM,70011,Acxiom,438,5,5
+8GB RAM,70012,Adaptive,397,9,9
+8GB RAM,70013,Adobe Digital Government,142,9,2
+8GB RAM,70014,Aidin,151,4,9
+8GB RAM,70015,Alarm.com,727,3,2
+8GB RAM,70016,Allianz,348,4,2
+8GB RAM,70017,Allied Van Lines,983,5,1
+8GB RAM,70018,AllState Insurance Group,155,3,4
+8GB RAM,70019,Alltuition,40,7,3
+8GB RAM,70020,Altova,967,8,6
+8GB RAM,70021,Amazon Web Services,467,4,3
+8GB RAM,70022,American Red Ball Movers,236,6,7
+8GB RAM,70023,Amida Technology Solutions,253,6,6
+8GB RAM,70024,Analytica,830,2,8
+8GB RAM,70025,Apextech LLC,342,9,4
+8GB RAM,70026,Appallicious,234,9,8
+8GB RAM,70027,Aquicore,644,1,5
+8GB RAM,70028,Archimedes Inc.,1090,6,9
+8GB RAM,70029,AreaVibes Inc.,564,5,2
+8GB RAM,70030,Arpin Van Lines,181,7,2
+8GB RAM,70031,Arrive Labs,134,4,6
+8GB RAM,70032,ASC Partners,1014,7,9
+8GB RAM,70033,Asset4,35,3,4
+8GB RAM,70034,Atlas Van Lines,835,8,2
+8GB RAM,70035,AtSite,1000,8,2
+8GB RAM,70036,"Aunt Bertha, Inc.",904,2,9
+8GB RAM,70037,Aureus Sciences (*Now part of Elsevier),314,5,5
+8GB RAM,70038,AutoGrid Systems,239,8,4
+8GB RAM,70039,Avalara,653,2,7
+8GB RAM,70040,Avvo,430,5,7
+8GB RAM,70041,Ayasdi,196,9,8
+8GB RAM,70042,Azavea,942,8,7
+8GB RAM,70043,BaleFire Global,954,8,9
+8GB RAM,70044,Barchart,613,9,7
+8GB RAM,70045,Be Informed,732,6,7
+8GB RAM,70046,Bekins,328,8,4
+8GB RAM,70047,Berkery Noyes MandASoft,958,5,1
+8GB RAM,70048,Berkshire Hathaway,708,5,7
+8GB RAM,70049,BetterLesson,874,6,6
+8GB RAM,70050,BillGuard,682,3,7
+8GB RAM,70051,Bing,314,7,5
+8GB RAM,70052,Biovia,306,6,4
+8GB RAM,70053,BizVizz,135,7,5
+8GB RAM,70054,BlackRock,206,6,6
+8GB RAM,70055,Bloomberg,912,1,1
+8GB RAM,70056,Booz Allen Hamilton,275,1,5
+8GB RAM,70057,Boston Consulting Group,10,2,4
+8GB RAM,70058,Boundless,776,2,3
+8GB RAM,70059,Bridgewater,968,8,1
+8GB RAM,70060,Brightscope,846,6,3
+8GB RAM,70061,BuildFax,702,8,3
+8GB RAM,70062,Buildingeye,596,7,4
+8GB RAM,70063,BuildZoom,717,2,8
+8GB RAM,70064,Business and Legal Resources,148,5,7
+8GB RAM,70065,Business Monitor International,879,2,3
+8GB RAM,70066,"Calcbench, Inc.",1026,6,2
+8GB RAM,70067,Cambridge Information Group,340,3,6
+8GB RAM,70068,Cambridge Semantics,110,2,2
+8GB RAM,70069,CAN Capital,865,9,9
+8GB RAM,70070,Canon,492,4,6
+8GB RAM,70071,Capital Cube,326,7,1
+8GB RAM,70072,Cappex,681,7,4
+8GB RAM,70073,Captricity,620,7,1
+8GB RAM,70074,CareSet Systems,890,6,7
+8GB RAM,70075,Careset.com,347,9,2
+8GB RAM,70076,CARFAX,636,4,3
+8GB RAM,70077,Caspio,180,6,6
+8GB RAM,70078,Castle Biosciences,976,9,9
+8GB RAM,70079,CB Insights,747,7,9
+8GB RAM,70080,Ceiba Solutions,633,9,8
+8GB RAM,70081,Center for Responsive Politics,129,8,2
+8GB RAM,70082,Cerner,980,5,4
+8GB RAM,70083,Certara,945,8,5
+8GB RAM,70084,CGI,644,3,4
+8GB RAM,70085,Charles River Associates,1088,4,4
+8GB RAM,70086,Charles Schwab Corp.,673,8,6
+8GB RAM,70087,Chemical Abstracts Service,696,2,4
+8GB RAM,70088,Child Care Desk,769,5,8
+8GB RAM,70089,Chubb,1033,1,3
+8GB RAM,70090,Citigroup,733,1,1
+8GB RAM,70091,CityScan,290,1,4
+8GB RAM,70092,CitySourced,963,1,2
+8GB RAM,70093,Civic Impulse LLC,629,4,4
+8GB RAM,70094,Civic Insight,1062,4,2
+8GB RAM,70095,Civinomics,275,6,5
+8GB RAM,70096,Civis Analytics,157,2,2
+8GB RAM,70097,Clean Power Finance,613,2,4
+8GB RAM,70098,ClearHealthCosts,140,7,3
+8GB RAM,70099,ClearStory Data,848,8,4
+8GB RAM,70100,Climate Corporation,524,7,8
+8GB RAM,70101,CliniCast,1018,4,1
+8GB RAM,70102,Cloudmade,583,5,4
+8GB RAM,70103,Cloudspyre,77,5,3
+8GB RAM,70104,Code for America,790,9,6
+8GB RAM,70105,Code-N,362,9,1
+8GB RAM,70106,Collective IP,107,2,8
+8GB RAM,70107,"College Abacus, an ECMC initiative",877,7,5
+8GB RAM,70108,College Board,405,7,4
+8GB RAM,70109,Compared Care,230,8,3
+8GB RAM,70110,Compendia Bioscience Life Technologies,723,6,4
+8GB RAM,70111,Compliance and Risks,59,6,9
+8GB RAM,70112,Computer Packages Inc,947,1,2
+8GB RAM,70113,CONNECT-DOT LLC.,350,6,5
+8GB RAM,70114,ConnectEDU,430,7,1
+8GB RAM,70115,Connotate,757,9,4
+8GB RAM,70116,Construction Monitor LLC,781,5,7
+8GB RAM,70117,Consumer Reports,390,8,8
+8GB RAM,70118,CoolClimate,755,9,7
+8GB RAM,70119,Copyright Clearance Center,1019,1,7
+8GB RAM,70120,CoreLogic,74,1,8
+8GB RAM,70121,CostQuest,232,6,8
+8GB RAM,70122,Credit Karma,1029,2,2
+8GB RAM,70123,Credit Sesame,598,1,2
+8GB RAM,70124,CrowdANALYTIX,933,6,8
+8GB RAM,70125,Dabo Health,358,8,6
+8GB RAM,70126,DataLogix,592,2,4
+8GB RAM,70127,DataMade,397,8,3
+8GB RAM,70128,DataMarket,812,9,1
+8GB RAM,70129,Datamyne,232,5,1
+8GB RAM,70130,DataWeave,522,9,4
+8GB RAM,70131,Deloitte,553,5,3
+8GB RAM,70132,DemystData,960,6,3
+8GB RAM,70133,Department of Better Technology,1056,1,2
+8GB RAM,70134,Development Seed,66,4,2
+8GB RAM,70135,"Docket Alarm, Inc.",539,4,2
+8GB RAM,70136,Dow Jones & Co.,782,2,4
+8GB RAM,70137,Dun & Bradstreet,884,6,5
+8GB RAM,70138,Earth Networks,640,5,8
+8GB RAM,70139,EarthObserver App,858,9,5
+8GB RAM,70140,Earthquake Alert!,1017,1,5
+8GB RAM,70141,Eat Shop Sleep,452,9,2
+8GB RAM,70142,Ecodesk,987,4,3
+8GB RAM,70143,eInstitutional,458,9,4
+8GB RAM,70144,Embark,386,5,7
+8GB RAM,70145,EMC,180,4,8
+8GB RAM,70146,"Energy Points, Inc.",730,2,6
+8GB RAM,70147,Energy Solutions Forum,267,6,5
+8GB RAM,70148,Enervee Corporation,948,7,5
+8GB RAM,70149,Enigma.io,634,5,3
+8GB RAM,70150,Ensco,768,5,1
+8GB RAM,70151,Environmental Data Resources,572,5,6
+8GB RAM,70152,Epsilon,731,6,9
+8GB RAM,70153,Equal Pay for Women,246,9,9
+8GB RAM,70154,Equifax,430,9,9
+8GB RAM,70155,Equilar,43,4,1
+8GB RAM,70156,Ernst & Young LLP,343,6,3
+8GB RAM,70157,eScholar LLC.,310,1,1
+8GB RAM,70158,Esri,1053,2,7
+8GB RAM,70159,Estately,194,4,1
+8GB RAM,70160,Everyday Health,26,9,1
+8GB RAM,70161,Evidera,860,2,8
+8GB RAM,70162,Experian,372,8,5
+8GB RAM,70163,"Expert Health Data Programming, Inc.",180,7,2
+8GB RAM,70164,Exversion,535,6,7
+8GB RAM,70165,Ez-XBRL,864,7,1
+8GB RAM,70166,Factset,423,8,1
+8GB RAM,70167,Factual,75,7,4
+8GB RAM,70168,Farmers,274,1,7
+8GB RAM,70169,FarmLogs,776,1,4
+8GB RAM,70170,Fastcase,643,2,2
+8GB RAM,70171,Fidelity Investments,630,3,9
+8GB RAM,70172,FindTheBest.com,348,7,4
+8GB RAM,70173,First Fuel Software,276,5,2
+8GB RAM,70174,"FirstPoint, Inc.",166,1,4
+8GB RAM,70175,Fitch,846,8,6
+8GB RAM,70176,FlightAware,201,1,8
+8GB RAM,70177,FlightStats,650,9,2
+8GB RAM,70178,FlightView,997,3,3
+8GB RAM,70179,Food+Tech Connect,239,3,2
+8GB RAM,70180,Forrester Research,624,8,6
+8GB RAM,70181,Foursquare,1096,4,1
+8GB RAM,70182,Fujitsu,440,8,1
+8GB RAM,70183,Funding Circle,381,1,4
+8GB RAM,70184,FutureAdvisor,125,5,2
+8GB RAM,70185,"Fuzion Apps, Inc.",453,7,3
+8GB RAM,70186,Gallup,598,1,4
+8GB RAM,70187,Galorath Incorporated,252,6,5
+8GB RAM,70188,Garmin,347,8,1
+8GB RAM,70189,Genability,806,7,5
+8GB RAM,70190,GenoSpace,507,9,5
+8GB RAM,70191,Geofeedia,124,7,5
+8GB RAM,70192,Geolytics,405,3,9
+8GB RAM,70193,Geoscape,778,5,8
+8GB RAM,70194,GetRaised,227,6,6
+8GB RAM,70195,GitHub,520,9,2
+8GB RAM,70196,Glassy Media,685,7,3
+8GB RAM,70197,Golden Helix,414,9,6
+8GB RAM,70198,GoodGuide,489,2,2
+8GB RAM,70199,Google Maps,471,5,8
+8GB RAM,70200,Google Public Data Explorer,641,3,6
+8GB RAM,70201,Government Transaction Services,702,7,4
+8GB RAM,70202,Govini,713,5,2
+8GB RAM,70203,GovTribe,993,8,3
+8GB RAM,70204,"Govzilla, Inc.",553,3,4
+8GB RAM,70205,gRadiant Research LLC,817,3,7
+8GB RAM,70206,Graebel Van Lines,124,7,3
+8GB RAM,70207,"Graematter, Inc.",494,6,3
+8GB RAM,70208,Granicus,636,7,2
+8GB RAM,70209,GreatSchools,952,5,8
+8GB RAM,70210,GuideStar,149,6,9
+8GB RAM,70211,H3 Biomedicine,357,1,2
+8GB RAM,70212,Harris Corporation,557,2,1
+8GB RAM,70213,"HDScores, Inc",105,9,2
+8GB RAM,70214,Headlight,788,8,8
+8GB RAM,70215,Healthgrades,63,4,2
+8GB RAM,70216,Healthline,142,5,5
+8GB RAM,70217,HealthMap,297,9,4
+8GB RAM,70218,"HealthPocket, Inc.",1044,3,8
+8GB RAM,70219,HelloWallet,209,4,3
+8GB RAM,70220,HERE,1013,5,1
+8GB RAM,70221,Honest Buildings,640,2,7
+8GB RAM,70222,HopStop,328,2,4
+8GB RAM,70223,Housefax,789,1,1
+8GB RAM,70224,How's My Offer?,616,6,9
+8GB RAM,70225,IBM,1039,6,1
+8GB RAM,70226,ideas42,778,8,8
+8GB RAM,70227,iFactor Consulting,522,2,1
+8GB RAM,70228,IFI CLAIMS Patent Services,1007,2,1
+8GB RAM,70229,iMedicare,730,1,9
+8GB RAM,70230,Impact Forecasting (Aon),382,2,2
+8GB RAM,70231,Impaq International,426,2,5
+8GB RAM,70232,Import.io,155,5,3
+8GB RAM,70233,IMS Health,701,7,8
+8GB RAM,70234,InCadence,446,8,5
+8GB RAM,70235,indoo.rs,64,1,1
+8GB RAM,70236,InfoCommerce Group,762,7,8
+8GB RAM,70237,Informatica,182,7,5
+8GB RAM,70238,InnoCentive,320,9,6
+8GB RAM,70239,Innography,62,8,5
+8GB RAM,70240,Innovest Systems,149,8,4
+8GB RAM,70241,Inovalon,813,4,5
+8GB RAM,70242,Inrix Traffic,832,4,2
+8GB RAM,70243,Intelius,612,3,1
+8GB RAM,70244,Intermap Technologies,259,6,9
+8GB RAM,70245,Investormill,153,2,6
+8GB RAM,70246,Iodine,1004,3,2
+8GB RAM,70247,IPHIX,867,7,1
+8GB RAM,70248,iRecycle,894,9,9
+8GB RAM,70249,iTriage,909,3,3
+8GB RAM,70250,IVES Group Inc,627,7,9
+8GB RAM,70251,IW Financial,557,9,8
+8GB RAM,70252,JJ Keller,204,2,8
+8GB RAM,70253,J.P. Morgan Chase,665,8,4
+8GB RAM,70254,"Junar, Inc.",944,6,7
+8GB RAM,70255,Junyo,382,5,7
+8GB RAM,70256,Jurispect,645,5,1
+8GB RAM,70257,Kaiser Permanante,158,4,6
+8GB RAM,70258,karmadata,1099,4,5
+8GB RAM,70259,Keychain Logistics Corp.,305,6,9
+8GB RAM,70260,"KidAdmit, Inc.",156,4,2
+8GB RAM,70261,Kimono Labs,1090,7,6
+8GB RAM,70262,KLD Research,307,7,2
+8GB RAM,70263,Knoema,1053,7,9
+8GB RAM,70264,Knowledge Agency,696,3,4
+8GB RAM,70265,KPMG,461,3,8
+8GB RAM,70266,Kroll Bond Ratings Agency,133,9,2
+8GB RAM,70267,Kyruus,917,1,9
+8GB RAM,70268,Lawdragon,478,5,9
+8GB RAM,70269,Legal Science Partners,468,4,1
+8GB RAM,70270,(Leg)Cyte,362,7,1
+8GB RAM,70271,"LegiNation, Inc.",731,2,8
+8GB RAM,70272,LegiStorm,369,9,3
+8GB RAM,70273,Lenddo,735,9,6
+8GB RAM,70274,Lending Club,644,7,2
+8GB RAM,70275,Level One Technologies,26,5,3
+8GB RAM,70276,LexisNexis,346,6,2
+8GB RAM,70277,Liberty Mutual Insurance Cos.,953,3,6
+8GB RAM,70278,Lilly Open Innovation Drug Discovery,680,9,3
+8GB RAM,70279,Liquid Robotics,503,2,9
+8GB RAM,70280,Locavore,1060,6,8
+8GB RAM,70281,"LOGIXDATA, LLC",63,5,8
+8GB RAM,70282,LoopNet,1061,9,5
+8GB RAM,70283,"Loqate, Inc.",869,7,3
+8GB RAM,70284,LoseIt.com,388,5,9
+8GB RAM,70285,LOVELAND Technologies,24,1,6
+8GB RAM,70286,Lucid,268,3,8
+8GB RAM,70287,"Lumesis, Inc.",444,6,9
+8GB RAM,70288,Mango Transit,860,8,9
+8GB RAM,70289,Mapbox,1018,5,2
+8GB RAM,70290,Maponics,954,7,6
+8GB RAM,70291,MapQuest,509,1,4
+8GB RAM,70292,"Marinexplore, Inc.",401,4,2
+8GB RAM,70293,MarketSense,343,7,9
+8GB RAM,70294,Marlin & Associates,77,2,4
+8GB RAM,70295,Marlin Alter and Associates,805,6,4
+8GB RAM,70296,McGraw Hill Financial,293,5,7
+8GB RAM,70297,McKinsey,1085,2,5
+8GB RAM,70298,MedWatcher,1025,8,5
+8GB RAM,70299,Mercaris,612,2,7
+8GB RAM,70300,Merrill Corp.,91,4,7
+8GB RAM,70301,Merrill Lynch,830,4,3
+8GB RAM,70302,MetLife,574,8,2
+8GB RAM,70303,mHealthCoach,1097,9,7
+8GB RAM,70304,MicroBilt Corporation,702,5,9
+8GB RAM,70305,Microsoft Windows Azure Marketplace,520,6,9
+8GB RAM,70306,Mint,1010,9,5
+8GB RAM,70307,Moody's,912,1,8
+8GB RAM,70308,Morgan Stanley,566,9,9
+8GB RAM,70309,"Morningstar, Inc.",644,5,7
+8GB RAM,70310,Mozio,640,9,2
+8GB RAM,70311,MuckRock.com,385,7,2
+8GB RAM,70312,Munetrix,187,6,4
+8GB RAM,70313,Municode,504,9,2
+8GB RAM,70314,National Van Lines,403,5,2
+8GB RAM,70315,Nationwide Mutual Insurance Company,724,4,3
+8GB RAM,70316,Nautilytics,346,4,8
+8GB RAM,70317,Navico,335,8,8
+8GB RAM,70318,NERA Economic Consulting,844,7,1
+8GB RAM,70319,NerdWallet,1086,6,4
+8GB RAM,70320,New Media Parents,120,2,3
+8GB RAM,70321,Next Step Living,829,3,2
+8GB RAM,70322,NextBus,812,1,2
+8GB RAM,70323,nGAP Incorporated,29,4,2
+8GB RAM,70324,Nielsen,891,4,2
+8GB RAM,70325,Noesis,677,6,9
+8GB RAM,70326,NonprofitMetrics,594,5,9
+8GB RAM,70327,North American Van Lines,649,9,7
+8GB RAM,70328,Noveda Technologies,927,1,8
+8GB RAM,70329,NuCivic,784,9,6
+8GB RAM,70330,Numedii,1022,7,9
+8GB RAM,70331,Oliver Wyman,893,5,4
+8GB RAM,70332,OnDeck,642,9,3
+8GB RAM,70333,OnStar,862,2,8
+8GB RAM,70334,"Ontodia, Inc",154,7,1
+8GB RAM,70335,Onvia,818,9,7
+8GB RAM,70336,Open Data Nation,1038,2,7
+8GB RAM,70337,OpenCounter,46,2,9
+8GB RAM,70338,OpenGov,732,4,3
+8GB RAM,70339,OpenPlans,687,1,2
+8GB RAM,70340,"OpportunitySpace, Inc.",779,1,6
+8GB RAM,70341,Optensity,1074,4,3
+8GB RAM,70342,optiGov,995,5,6
+8GB RAM,70343,OptumInsight,832,5,4
+8GB RAM,70344,Orlin Research,428,4,1
+8GB RAM,70345,OSIsoft,675,4,3
+8GB RAM,70346,OTC Markets,968,7,9
+8GB RAM,70347,Outline,171,6,3
+8GB RAM,70348,Oversight Systems,1070,6,8
+8GB RAM,70349,Overture Technologies,450,7,6
+8GB RAM,70350,Owler,998,2,2
+8GB RAM,70351,Palantir Technologies,1038,6,8
+8GB RAM,70352,Panjiva,385,3,1
+8GB RAM,70353,Parsons Brinckerhoff,528,9,7
+8GB RAM,70354,Patently-O,795,9,4
+8GB RAM,70355,PatientsLikeMe,243,7,7
+8GB RAM,70356,Pave,705,8,6
+8GB RAM,70357,Paxata,198,6,5
+8GB RAM,70358,"PayScale, Inc.",57,3,4
+8GB RAM,70359,PeerJ,336,4,7
+8GB RAM,70360,People Power,763,4,5
+8GB RAM,70361,Persint,82,2,4
+8GB RAM,70362,Personal Democracy Media,951,7,6
+8GB RAM,70363,"Personal, Inc.",464,8,6
+8GB RAM,70364,Personalis,1078,7,8
+8GB RAM,70365,Peterson's,672,6,9
+8GB RAM,70366,PEV4me.com,863,5,3
+8GB RAM,70367,PIXIA Corp,813,1,5
+8GB RAM,70368,PlaceILive.com,267,3,6
+8GB RAM,70369,PlanetEcosystems,1072,4,8
+8GB RAM,70370,PlotWatt,334,9,5
+8GB RAM,70371,Plus-U,124,6,3
+8GB RAM,70372,PolicyMap,349,7,2
+8GB RAM,70373,Politify,87,8,8
+8GB RAM,70374,Poncho App,1023,1,4
+8GB RAM,70375,POPVOX,32,6,6
+8GB RAM,70376,Porch,1079,8,7
+8GB RAM,70377,PossibilityU,966,9,8
+8GB RAM,70378,PowerAdvocate,1019,8,6
+8GB RAM,70379,Practice Fusion,556,1,9
+8GB RAM,70380,Predilytics,1099,8,3
+8GB RAM,70381,PricewaterhouseCoopers (PWC),41,9,1
+8GB RAM,70382,ProgrammableWeb,13,7,1
+8GB RAM,70383,Progressive Insurance Group,348,6,5
+8GB RAM,70384,Propeller Health,636,8,5
+8GB RAM,70385,ProPublica,931,4,8
+8GB RAM,70386,PublicEngines,726,2,3
+8GB RAM,70387,PYA Analytics,662,4,3
+8GB RAM,70388,"Qado Energy, Inc.",785,5,6
+8GB RAM,70389,Quandl,177,3,8
+8GB RAM,70390,Quertle,259,6,9
+8GB RAM,70391,Quid,822,1,2
+8GB RAM,70392,R R Donnelley,963,6,5
+8GB RAM,70393,RAND Corporation,642,2,9
+8GB RAM,70394,Rand McNally,647,7,8
+8GB RAM,70395,Rank and Filed,12,4,6
+8GB RAM,70396,Ranku,992,9,6
+8GB RAM,70397,Rapid Cycle Solutions,488,7,7
+8GB RAM,70398,realtor.com,262,9,1
+8GB RAM,70399,Recargo,686,2,1
+8GB RAM,70400,ReciPal,357,7,3
+8GB RAM,70401,Redfin,906,2,1
+8GB RAM,70402,RedLaser,443,1,2
+8GB RAM,70403,Reed Elsevier,690,3,6
+8GB RAM,70404,REI Systems,482,2,3
+8GB RAM,70405,Relationship Science,788,9,5
+8GB RAM,70406,Remi,458,3,7
+8GB RAM,70407,Retroficiency,913,4,3
+8GB RAM,70408,Revaluate,955,7,8
+8GB RAM,70409,Revelstone,629,1,7
+8GB RAM,70410,Rezolve Group,908,9,3
+8GB RAM,70411,Rivet Software,922,5,3
+8GB RAM,70412,Roadify Transit,964,4,2
+8GB RAM,70413,Robinson + Yu,576,1,1
+8GB RAM,70414,Russell Investments,901,1,4
+8GB RAM,70415,Sage Bionetworks,137,3,6
+8GB RAM,70416,SAP,980,6,4
+8GB RAM,70417,SAS,877,8,2
+8GB RAM,70418,Scale Unlimited,962,3,8
+8GB RAM,70419,Science Exchange,337,7,3
+8GB RAM,70420,Seabourne,803,8,3
+8GB RAM,70421,SeeClickFix,955,1,1
+8GB RAM,70422,SigFig,66,5,6
+8GB RAM,70423,Simple Energy,261,7,7
+8GB RAM,70424,SimpleTuition,459,3,6
+8GB RAM,70425,SlashDB,260,6,3
+8GB RAM,70426,Smart Utility Systems,314,3,1
+8GB RAM,70427,SmartAsset,75,6,1
+8GB RAM,70428,SmartProcure,275,2,4
+8GB RAM,70429,Smartronix,599,2,6
+8GB RAM,70430,SnapSense,131,4,2
+8GB RAM,70431,Social Explorer,634,7,6
+8GB RAM,70432,Social Health Insights,720,9,9
+8GB RAM,70433,SocialEffort Inc,816,5,3
+8GB RAM,70434,Socrata,165,9,7
+8GB RAM,70435,Solar Census,99,1,4
+8GB RAM,70436,SolarList,812,6,7
+8GB RAM,70437,Sophic Systems Alliance,894,5,1
+8GB RAM,70438,S&P Capital IQ,750,3,6
+8GB RAM,70439,SpaceCurve,322,6,7
+8GB RAM,70440,SpeSo Health,210,5,7
+8GB RAM,70441,Spikes Cavell Analytic Inc,935,1,2
+8GB RAM,70442,Splunk,729,5,8
+8GB RAM,70443,Spokeo,772,5,8
+8GB RAM,70444,SpotCrime,358,9,7
+8GB RAM,70445,SpotHero.com,399,9,6
+8GB RAM,70446,Stamen Design,60,5,9
+8GB RAM,70447,Standard and Poor's,491,8,7
+8GB RAM,70448,State Farm Insurance,696,4,1
+8GB RAM,70449,Sterling Infosystems,163,6,4
+8GB RAM,70450,Stevens Worldwide Van Lines,510,6,8
+8GB RAM,70451,STILLWATER SUPERCOMPUTING INC,622,3,5
+8GB RAM,70452,StockSmart,470,1,6
+8GB RAM,70453,Stormpulse,171,4,6
+8GB RAM,70454,StreamLink Software,371,4,4
+8GB RAM,70455,"StreetCred Software, Inc",1079,9,3
+8GB RAM,70456,StreetEasy,882,1,9
+8GB RAM,70457,Suddath,834,1,6
+8GB RAM,70458,Symcat,441,5,4
+8GB RAM,70459,Synthicity,564,1,8
+8GB RAM,70460,T. Rowe Price,226,3,1
+8GB RAM,70461,Tableau Software,549,9,7
+8GB RAM,70462,TagniFi,680,5,5
+8GB RAM,70463,Telenav,688,7,2
+8GB RAM,70464,Tendril,188,4,4
+8GB RAM,70465,Teradata,875,7,9
+8GB RAM,70466,The Advisory Board Company,759,4,7
+8GB RAM,70467,The Bridgespan Group,226,4,1
+8GB RAM,70468,The DocGraph Journal,934,8,9
+8GB RAM,70469,The Govtech Fund,195,9,5
+8GB RAM,70470,The Schork Report,730,2,9
+8GB RAM,70471,The Vanguard Group,467,4,9
+8GB RAM,70472,Think Computer Corporation,603,1,6
+8GB RAM,70473,Thinknum,1034,1,3
+8GB RAM,70474,Thomson Reuters,421,1,9
+8GB RAM,70475,TopCoder,72,4,1
+8GB RAM,70476,TowerData,64,1,6
+8GB RAM,70477,TransparaGov,294,5,2
+8GB RAM,70478,TransUnion,697,2,8
+8GB RAM,70479,TrialTrove,19,7,2
+8GB RAM,70480,TrialX,610,7,6
+8GB RAM,70481,Trintech,705,8,3
+8GB RAM,70482,TrueCar,662,2,4
+8GB RAM,70483,Trulia,537,3,1
+8GB RAM,70484,TrustedID,597,3,1
+8GB RAM,70485,TuvaLabs,716,7,6
+8GB RAM,70486,Uber,697,2,6
+8GB RAM,70487,Unigo LLC,648,2,8
+8GB RAM,70488,United Mayflower,66,7,1
+8GB RAM,70489,Urban Airship,823,8,7
+8GB RAM,70490,"Urban Mapping, Inc",771,6,2
+8GB RAM,70491,US Green Data,469,4,8
+8GB RAM,70492,U.S. News Schools,957,9,6
+8GB RAM,70493,USAA Group,924,5,5
+8GB RAM,70494,USSearch,567,7,1
+8GB RAM,70495,Verdafero,822,7,2
+8GB RAM,70496,Vimo,77,4,5
+8GB RAM,70497,"VisualDoD, LLC",1004,8,9
+8GB RAM,70498,Vital Axiom | Niinja,438,8,7
+8GB RAM,70499,VitalChek,194,3,2
+8GB RAM,70500,Vitals,620,6,9
+8GB RAM,70501,Vizzuality,715,3,2
+8GB RAM,70502,Votizen,413,8,4
+8GB RAM,70503,Walk Score,890,2,9
+8GB RAM,70504,WaterSmart Software,855,2,2
+8GB RAM,70505,WattzOn,1098,7,5
+8GB RAM,70506,Way Better Patents,589,6,9
+8GB RAM,70507,Weather Channel,71,7,8
+8GB RAM,70508,Weather Decision Technologies,812,3,7
+8GB RAM,70509,Weather Underground,134,1,1
+8GB RAM,70510,WebFilings,706,3,3
+8GB RAM,70511,Webitects,345,6,4
+8GB RAM,70512,WebMD,574,1,6
+8GB RAM,70513,Weight Watchers,615,7,2
+8GB RAM,70514,WeMakeItSafer,322,4,1
+8GB RAM,70515,Wheaton World Wide Moving,754,2,1
+8GB RAM,70516,Whitby Group,653,1,5
+8GB RAM,70517,Wolfram Research,710,5,1
+8GB RAM,70518,Wolters Kluwer,166,3,7
+8GB RAM,70519,Workhands,448,4,5
+8GB RAM,70520,Xatori,194,1,2
+8GB RAM,70521,Xcential,179,5,7
+8GB RAM,70522,xDayta,1083,9,9
+8GB RAM,70523,Xignite,37,4,1
+8GB RAM,70524,Yahoo,809,4,2
+8GB RAM,70525,Zebu Compliance Solutions,843,6,4
+8GB RAM,70526,Yelp,763,7,8
+8GB RAM,70527,YourMapper,781,4,6
+8GB RAM,70528,Zillow,1059,1,7
+8GB RAM,70529,ZocDoc,301,5,8
+8GB RAM,70530,Zonability,710,3,7
+8GB RAM,70531,Zoner,94,5,6
+8GB RAM,70532,Zurich Insurance (Risk Room),68,8,8
+Mouse,50001,Samsung ,118,5,6
+Mouse,50002,Intel,297,2,6
+Mouse,50003,Western Digital ,244,8,3
+Mouse,50004,"3 Round Stones, Inc.",50,1,4
+Mouse,50005,48 Factoring Inc.,49,3,3
+Mouse,50006,5PSolutions,291,7,9
+Mouse,50007,Abt Associates,97,1,3
+Mouse,50008,Accela,110,5,9
+Mouse,50009,Accenture,300,1,6
+Mouse,50010,AccuWeather,172,1,7
+Mouse,50011,Acxiom,173,9,8
+Mouse,50012,Adaptive,35,5,5
+Mouse,50013,Adobe Digital Government,48,5,4
+Mouse,50014,Aidin,127,2,9
+Mouse,50015,Alarm.com,172,2,5
+Mouse,50016,Allianz,221,9,6
+Mouse,50017,Allied Van Lines,20,2,5
+Mouse,50018,AllState Insurance Group,155,4,5
+Mouse,50019,Alltuition,178,5,6
+Mouse,50020,Altova,150,8,3
+Mouse,50021,Amazon Web Services,48,6,4
+Mouse,50022,American Red Ball Movers,264,5,7
+Mouse,50023,Amida Technology Solutions,57,7,9
+Mouse,50024,Analytica,294,3,8
+Mouse,50025,Apextech LLC,139,2,5
+Mouse,50026,Appallicious,19,2,3
+Mouse,50027,Aquicore,26,1,2
+Mouse,50028,Archimedes Inc.,240,1,6
+Mouse,50029,AreaVibes Inc.,26,9,4
+Mouse,50030,Arpin Van Lines,288,2,5
+Mouse,50031,Arrive Labs,219,6,7
+Mouse,50032,ASC Partners,224,6,4
+Mouse,50033,Asset4,186,1,8
+Mouse,50034,Atlas Van Lines,291,8,4
+Mouse,50035,AtSite,256,4,6
+Mouse,50036,"Aunt Bertha, Inc.",199,7,6
+Mouse,50037,Aureus Sciences (*Now part of Elsevier),35,8,2
+Mouse,50038,AutoGrid Systems,219,3,5
+Mouse,50039,Avalara,50,8,2
+Mouse,50040,Avvo,172,2,7
+Mouse,50041,Ayasdi,31,9,8
+Mouse,50042,Azavea,26,2,2
+Mouse,50043,BaleFire Global,28,2,7
+Mouse,50044,Barchart,138,6,2
+Mouse,50045,Be Informed,79,4,8
+Mouse,50046,Bekins,94,8,5
+Mouse,50047,Berkery Noyes MandASoft,39,8,6
+Mouse,50048,Berkshire Hathaway,212,7,5
+Mouse,50049,BetterLesson,63,3,5
+Mouse,50050,BillGuard,69,4,4
+Mouse,50051,Bing,276,2,6
+Mouse,50052,Biovia,214,2,9
+Mouse,50053,BizVizz,271,3,3
+Mouse,50054,BlackRock,105,2,1
+Mouse,50055,Bloomberg,218,7,2
+Mouse,50056,Booz Allen Hamilton,148,2,5
+Mouse,50057,Boston Consulting Group,96,6,9
+Mouse,50058,Boundless,184,3,6
+Mouse,50059,Bridgewater,81,3,3
+Mouse,50060,Brightscope,280,9,9
+Mouse,50061,BuildFax,10,8,3
+Mouse,50062,Buildingeye,213,8,5
+Mouse,50063,BuildZoom,45,3,4
+Mouse,50064,Business and Legal Resources,213,5,3
+Mouse,50065,Business Monitor International,157,4,2
+Mouse,50066,"Calcbench, Inc.",174,1,5
+Mouse,50067,Cambridge Information Group,279,4,2
+Mouse,50068,Cambridge Semantics,241,2,4
+Mouse,50069,CAN Capital,157,2,5
+Mouse,50070,Canon,115,6,3
+Mouse,50071,Capital Cube,203,4,1
+Mouse,50072,Cappex,227,3,5
+Mouse,50073,Captricity,140,7,7
+Mouse,50074,CareSet Systems,276,7,5
+Mouse,50075,Careset.com,202,6,9
+Mouse,50076,CARFAX,271,1,7
+Mouse,50077,Caspio,255,8,7
+Mouse,50078,Castle Biosciences,106,9,5
+Mouse,50079,CB Insights,176,4,3
+Mouse,50080,Ceiba Solutions,79,9,3
+Mouse,50081,Center for Responsive Politics,270,9,5
+Mouse,50082,Cerner,62,8,7
+Mouse,50083,Certara,275,8,7
+Mouse,50084,CGI,244,8,8
+Mouse,50085,Charles River Associates,291,1,4
+Mouse,50086,Charles Schwab Corp.,68,9,9
+Mouse,50087,Chemical Abstracts Service,296,7,8
+Mouse,50088,Child Care Desk,83,3,1
+Mouse,50089,Chubb,122,6,2
+Mouse,50090,Citigroup,78,2,6
+Mouse,50091,CityScan,36,1,8
+Mouse,50092,CitySourced,112,2,4
+Mouse,50093,Civic Impulse LLC,36,7,2
+Mouse,50094,Civic Insight,34,2,9
+Mouse,50095,Civinomics,92,3,7
+Mouse,50096,Civis Analytics,198,2,6
+Mouse,50097,Clean Power Finance,95,5,1
+Mouse,50098,ClearHealthCosts,263,6,4
+Mouse,50099,ClearStory Data,173,9,9
+Mouse,50100,Climate Corporation,19,7,9
+Mouse,50101,CliniCast,35,6,9
+Mouse,50102,Cloudmade,111,6,7
+Mouse,50103,Cloudspyre,121,8,5
+Mouse,50104,Code for America,76,9,3
+Mouse,50105,Code-N,140,9,2
+Mouse,50106,Collective IP,17,9,9
+Mouse,50107,"College Abacus, an ECMC initiative",158,1,8
+Mouse,50108,College Board,122,9,4
+Mouse,50109,Compared Care,238,4,6
+Mouse,50110,Compendia Bioscience Life Technologies,116,5,9
+Mouse,50111,Compliance and Risks,84,2,1
+Mouse,50112,Computer Packages Inc,64,5,5
+Mouse,50113,CONNECT-DOT LLC.,150,1,2
+Mouse,50114,ConnectEDU,13,1,1
+Mouse,50115,Connotate,114,3,8
+Mouse,50116,Construction Monitor LLC,223,5,6
+Mouse,50117,Consumer Reports,282,5,4
+Mouse,50118,CoolClimate,246,4,6
+Mouse,50119,Copyright Clearance Center,37,3,4
+Mouse,50120,CoreLogic,296,2,7
+Mouse,50121,CostQuest,283,9,8
+Mouse,50122,Credit Karma,264,9,8
+Mouse,50123,Credit Sesame,159,2,1
+Mouse,50124,CrowdANALYTIX,57,7,5
+Mouse,50125,Dabo Health,249,7,9
+Mouse,50126,DataLogix,92,3,2
+Mouse,50127,DataMade,213,9,5
+Mouse,50128,DataMarket,290,2,1
+Mouse,50129,Datamyne,217,6,5
+Mouse,50130,DataWeave,11,7,2
+Mouse,50131,Deloitte,97,1,8
+Mouse,50132,DemystData,154,7,2
+Mouse,50133,Department of Better Technology,84,7,2
+Mouse,50134,Development Seed,131,6,3
+Mouse,50135,"Docket Alarm, Inc.",144,8,3
+Mouse,50136,Dow Jones & Co.,242,3,2
+Mouse,50137,Dun & Bradstreet,265,4,8
+Mouse,50138,Earth Networks,281,7,9
+Mouse,50139,EarthObserver App,67,4,8
+Mouse,50140,Earthquake Alert!,136,1,5
+Mouse,50141,Eat Shop Sleep,164,6,9
+Mouse,50142,Ecodesk,286,5,5
+Mouse,50143,eInstitutional,85,5,1
+Mouse,50144,Embark,11,8,9
+Mouse,50145,EMC,74,1,9
+Mouse,50146,"Energy Points, Inc.",144,7,4
+Mouse,50147,Energy Solutions Forum,36,8,9
+Mouse,50148,Enervee Corporation,40,1,6
+Mouse,50149,Enigma.io,31,5,2
+Mouse,50150,Ensco,107,2,8
+Mouse,50151,Environmental Data Resources,109,9,8
+Mouse,50152,Epsilon,244,4,8
+Mouse,50153,Equal Pay for Women,290,2,8
+Mouse,50154,Equifax,82,7,8
+Mouse,50155,Equilar,167,2,7
+Mouse,50156,Ernst & Young LLP,102,9,3
+Mouse,50157,eScholar LLC.,35,6,4
+Mouse,50158,Esri,87,8,9
+Mouse,50159,Estately,300,3,3
+Mouse,50160,Everyday Health,173,1,7
+Mouse,50161,Evidera,240,3,8
+Mouse,50162,Experian,259,8,4
+Mouse,50163,"Expert Health Data Programming, Inc.",21,4,5
+Mouse,50164,Exversion,218,5,8
+Mouse,50165,Ez-XBRL,133,7,6
+Mouse,50166,Factset,165,3,9
+Mouse,50167,Factual,259,3,9
+Mouse,50168,Farmers,142,9,3
+Mouse,50169,FarmLogs,30,2,4
+Mouse,50170,Fastcase,35,6,6
+Mouse,50171,Fidelity Investments,121,8,3
+Mouse,50172,FindTheBest.com,40,2,5
+Mouse,50173,First Fuel Software,81,7,3
+Mouse,50174,"FirstPoint, Inc.",262,1,8
+Mouse,50175,Fitch,85,7,7
+Mouse,50176,FlightAware,175,9,6
+Mouse,50177,FlightStats,250,8,6
+Mouse,50178,FlightView,179,4,4
+Mouse,50179,Food+Tech Connect,200,2,7
+Mouse,50180,Forrester Research,289,9,9
+Mouse,50181,Foursquare,161,2,4
+Mouse,50182,Fujitsu,161,4,7
+Mouse,50183,Funding Circle,95,6,2
+Mouse,50184,FutureAdvisor,47,9,1
+Mouse,50185,"Fuzion Apps, Inc.",225,3,9
+Mouse,50186,Gallup,136,7,2
+Mouse,50187,Galorath Incorporated,221,9,8
+Mouse,50188,Garmin,187,4,3
+Mouse,50189,Genability,130,1,3
+Mouse,50190,GenoSpace,189,7,9
+Mouse,50191,Geofeedia,126,5,3
+Mouse,50192,Geolytics,137,8,9
+Mouse,50193,Geoscape,267,8,4
+Mouse,50194,GetRaised,282,6,5
+Mouse,50195,GitHub,178,7,6
+Mouse,50196,Glassy Media,40,9,8
+Mouse,50197,Golden Helix,204,1,1
+Mouse,50198,GoodGuide,187,8,4
+Mouse,50199,Google Maps,281,5,8
+Mouse,50200,Google Public Data Explorer,148,9,8
+Mouse,50201,Government Transaction Services,293,7,6
+Mouse,50202,Govini,267,9,6
+Mouse,50203,GovTribe,48,7,6
+Mouse,50204,"Govzilla, Inc.",103,2,2
+Mouse,50205,gRadiant Research LLC,91,1,8
+Mouse,50206,Graebel Van Lines,59,4,5
+Mouse,50207,"Graematter, Inc.",13,3,7
+Mouse,50208,Granicus,218,1,2
+Mouse,50209,GreatSchools,55,7,2
+Mouse,50210,GuideStar,113,4,7
+Mouse,50211,H3 Biomedicine,231,6,6
+Mouse,50212,Harris Corporation,129,3,5
+Mouse,50213,"HDScores, Inc",120,8,4
+Mouse,50214,Headlight,133,7,5
+Mouse,50215,Healthgrades,87,1,7
+Mouse,50216,Healthline,113,8,7
+Mouse,50217,HealthMap,275,5,1
+Mouse,50218,"HealthPocket, Inc.",269,4,7
+Mouse,50219,HelloWallet,163,5,2
+Mouse,50220,HERE,178,1,2
+Mouse,50221,Honest Buildings,133,6,6
+Mouse,50222,HopStop,204,7,8
+Mouse,50223,Housefax,140,3,3
+Mouse,50224,How's My Offer?,29,6,2
+Mouse,50225,IBM,114,4,3
+Mouse,50226,ideas42,105,8,8
+Mouse,50227,iFactor Consulting,219,4,3
+Mouse,50228,IFI CLAIMS Patent Services,285,1,3
+Mouse,50229,iMedicare,65,3,2
+Mouse,50230,Impact Forecasting (Aon),125,8,9
+Mouse,50231,Impaq International,249,1,5
+Mouse,50232,Import.io,164,9,4
+Mouse,50233,IMS Health,63,3,6
+Mouse,50234,InCadence,132,8,2
+Mouse,50235,indoo.rs,223,6,4
+Mouse,50236,InfoCommerce Group,219,6,2
+Mouse,50237,Informatica,150,8,8
+Mouse,50238,InnoCentive,186,2,9
+Mouse,50239,Innography,159,4,1
+Mouse,50240,Innovest Systems,16,3,7
+Mouse,50241,Inovalon,154,7,2
+Mouse,50242,Inrix Traffic,187,5,5
+Mouse,50243,Intelius,183,6,9
+Mouse,50244,Intermap Technologies,32,5,6
+Mouse,50245,Investormill,238,4,6
+Mouse,50246,Iodine,86,1,1
+Mouse,50247,IPHIX,113,4,7
+Mouse,50248,iRecycle,272,1,1
+Mouse,50249,iTriage,194,3,7
+Mouse,50250,IVES Group Inc,207,9,2
+Mouse,50251,IW Financial,219,2,6
+Mouse,50252,JJ Keller,245,1,9
+Mouse,50253,J.P. Morgan Chase,284,1,7
+Mouse,50254,"Junar, Inc.",253,9,9
+Mouse,50255,Junyo,254,1,3
+Mouse,50256,Jurispect,279,8,4
+Mouse,50257,Kaiser Permanante,51,9,3
+Mouse,50258,karmadata,82,2,8
+Mouse,50259,Keychain Logistics Corp.,16,3,8
+Mouse,50260,"KidAdmit, Inc.",160,6,7
+Mouse,50261,Kimono Labs,41,4,5
+Mouse,50262,KLD Research,82,1,9
+Mouse,50263,Knoema,111,7,2
+Mouse,50264,Knowledge Agency,236,2,5
+Mouse,50265,KPMG,97,7,5
+Mouse,50266,Kroll Bond Ratings Agency,127,1,8
+Mouse,50267,Kyruus,213,5,2
+Mouse,50268,Lawdragon,146,6,8
+Mouse,50269,Legal Science Partners,213,8,3
+Mouse,50270,(Leg)Cyte,299,4,3
+Mouse,50271,"LegiNation, Inc.",115,3,3
+Mouse,50272,LegiStorm,219,1,7
+Mouse,50273,Lenddo,234,8,6
+Mouse,50274,Lending Club,51,3,5
+Mouse,50275,Level One Technologies,91,5,8
+Mouse,50276,LexisNexis,98,7,2
+Mouse,50277,Liberty Mutual Insurance Cos.,161,5,2
+Mouse,50278,Lilly Open Innovation Drug Discovery,185,9,4
+Mouse,50279,Liquid Robotics,135,8,9
+Mouse,50280,Locavore,113,5,7
+Mouse,50281,"LOGIXDATA, LLC",210,1,2
+Mouse,50282,LoopNet,193,5,8
+Mouse,50283,"Loqate, Inc.",268,7,5
+Mouse,50284,LoseIt.com,89,9,2
+Mouse,50285,LOVELAND Technologies,18,9,4
+Mouse,50286,Lucid,211,7,3
+Mouse,50287,"Lumesis, Inc.",10,3,7
+Mouse,50288,Mango Transit,65,3,5
+Mouse,50289,Mapbox,40,8,8
+Mouse,50290,Maponics,130,3,6
+Mouse,50291,MapQuest,74,4,2
+Mouse,50292,"Marinexplore, Inc.",145,6,3
+Mouse,50293,MarketSense,111,2,7
+Mouse,50294,Marlin & Associates,105,9,1
+Mouse,50295,Marlin Alter and Associates,264,8,1
+Mouse,50296,McGraw Hill Financial,189,8,9
+Mouse,50297,McKinsey,85,1,4
+Mouse,50298,MedWatcher,86,2,3
+Mouse,50299,Mercaris,149,5,9
+Mouse,50300,Merrill Corp.,115,7,6
+Mouse,50301,Merrill Lynch,54,2,3
+Mouse,50302,MetLife,106,1,3
+Mouse,50303,mHealthCoach,255,4,5
+Mouse,50304,MicroBilt Corporation,77,1,5
+Mouse,50305,Microsoft Windows Azure Marketplace,271,6,2
+Mouse,50306,Mint,214,1,4
+Mouse,50307,Moody's,228,4,3
+Mouse,50308,Morgan Stanley,23,4,9
+Mouse,50309,"Morningstar, Inc.",176,5,6
+Mouse,50310,Mozio,131,9,2
+Mouse,50311,MuckRock.com,268,2,2
+Mouse,50312,Munetrix,251,5,3
+Mouse,50313,Municode,149,2,8
+Mouse,50314,National Van Lines,291,8,3
+Mouse,50315,Nationwide Mutual Insurance Company,106,6,7
+Mouse,50316,Nautilytics,191,9,6
+Mouse,50317,Navico,177,6,7
+Mouse,50318,NERA Economic Consulting,292,7,9
+Mouse,50319,NerdWallet,202,4,5
+Mouse,50320,New Media Parents,230,7,5
+Mouse,50321,Next Step Living,280,3,2
+Mouse,50322,NextBus,289,1,8
+Mouse,50323,nGAP Incorporated,160,7,8
+Mouse,50324,Nielsen,280,1,2
+Mouse,50325,Noesis,179,6,8
+Mouse,50326,NonprofitMetrics,291,9,7
+Mouse,50327,North American Van Lines,42,1,4
+Mouse,50328,Noveda Technologies,176,1,9
+Mouse,50329,NuCivic,240,3,4
+Mouse,50330,Numedii,227,2,4
+Mouse,50331,Oliver Wyman,67,5,2
+Mouse,50332,OnDeck,248,9,8
+Mouse,50333,OnStar,165,2,3
+Mouse,50334,"Ontodia, Inc",161,7,9
+Mouse,50335,Onvia,146,1,1
+Mouse,50336,Open Data Nation,41,3,4
+Mouse,50337,OpenCounter,126,3,8
+Mouse,50338,OpenGov,220,3,3
+Mouse,50339,OpenPlans,146,1,6
+Mouse,50340,"OpportunitySpace, Inc.",41,1,3
+Mouse,50341,Optensity,250,1,6
+Mouse,50342,optiGov,162,8,7
+Mouse,50343,OptumInsight,56,4,9
+Mouse,50344,Orlin Research,13,5,6
+Mouse,50345,OSIsoft,69,4,5
+Mouse,50346,OTC Markets,290,9,4
+Mouse,50347,Outline,222,9,4
+Mouse,50348,Oversight Systems,288,2,4
+Mouse,50349,Overture Technologies,112,2,5
+Mouse,50350,Owler,16,1,5
+Mouse,50351,Palantir Technologies,118,3,1
+Mouse,50352,Panjiva,46,8,1
+Mouse,50353,Parsons Brinckerhoff,280,1,3
+Mouse,50354,Patently-O,163,7,1
+Mouse,50355,PatientsLikeMe,212,2,5
+Mouse,50356,Pave,286,8,4
+Mouse,50357,Paxata,232,7,9
+Mouse,50358,"PayScale, Inc.",85,7,4
+Mouse,50359,PeerJ,289,7,9
+Mouse,50360,People Power,262,6,8
+Mouse,50361,Persint,145,2,2
+Mouse,50362,Personal Democracy Media,25,2,1
+Mouse,50363,"Personal, Inc.",196,5,7
+Mouse,50364,Personalis,83,1,5
+Mouse,50365,Peterson's,89,2,2
+Mouse,50366,PEV4me.com,207,2,4
+Mouse,50367,PIXIA Corp,294,3,7
+Mouse,50368,PlaceILive.com,29,6,4
+Mouse,50369,PlanetEcosystems,24,6,4
+Mouse,50370,PlotWatt,38,1,5
+Mouse,50371,Plus-U,219,6,7
+Mouse,50372,PolicyMap,152,9,5
+Mouse,50373,Politify,91,7,9
+Mouse,50374,Poncho App,126,1,7
+Mouse,50375,POPVOX,191,4,7
+Mouse,50376,Porch,160,5,5
+Mouse,50377,PossibilityU,112,9,2
+Mouse,50378,PowerAdvocate,175,1,3
+Mouse,50379,Practice Fusion,299,5,2
+Mouse,50380,Predilytics,293,3,8
+Mouse,50381,PricewaterhouseCoopers (PWC),289,2,6
+Mouse,50382,ProgrammableWeb,246,4,9
+Mouse,50383,Progressive Insurance Group,19,8,7
+Mouse,50384,Propeller Health,271,6,7
+Mouse,50385,ProPublica,148,4,9
+Mouse,50386,PublicEngines,52,3,6
+Mouse,50387,PYA Analytics,155,9,7
+Mouse,50388,"Qado Energy, Inc.",34,6,5
+Mouse,50389,Quandl,193,6,5
+Mouse,50390,Quertle,41,5,1
+Mouse,50391,Quid,86,5,6
+Mouse,50392,R R Donnelley,83,6,2
+Mouse,50393,RAND Corporation,161,1,4
+Mouse,50394,Rand McNally,183,6,1
+Mouse,50395,Rank and Filed,164,7,9
+Mouse,50396,Ranku,151,4,1
+Mouse,50397,Rapid Cycle Solutions,212,5,1
+Mouse,50398,realtor.com,84,8,5
+Mouse,50399,Recargo,274,8,2
+Mouse,50400,ReciPal,212,9,6
+Mouse,50401,Redfin,158,2,5
+Mouse,50402,RedLaser,69,7,3
+Mouse,50403,Reed Elsevier,145,2,4
+Mouse,50404,REI Systems,82,8,1
+Mouse,50405,Relationship Science,82,4,1
+Mouse,50406,Remi,247,9,2
+Mouse,50407,Retroficiency,151,5,2
+Mouse,50408,Revaluate,218,8,6
+Mouse,50409,Revelstone,240,1,4
+Mouse,50410,Rezolve Group,13,2,2
+Mouse,50411,Rivet Software,188,7,5
+Mouse,50412,Roadify Transit,184,7,5
+Mouse,50413,Robinson + Yu,235,3,3
+Mouse,50414,Russell Investments,291,6,6
+Mouse,50415,Sage Bionetworks,171,9,8
+Mouse,50416,SAP,300,3,9
+Mouse,50417,SAS,175,9,3
+Mouse,50418,Scale Unlimited,105,5,3
+Mouse,50419,Science Exchange,238,8,4
+Mouse,50420,Seabourne,42,2,4
+Mouse,50421,SeeClickFix,75,1,8
+Mouse,50422,SigFig,59,4,4
+Mouse,50423,Simple Energy,97,6,5
+Mouse,50424,SimpleTuition,244,4,7
+Mouse,50425,SlashDB,101,2,9
+Mouse,50426,Smart Utility Systems,116,4,9
+Mouse,50427,SmartAsset,158,2,4
+Mouse,50428,SmartProcure,103,8,1
+Mouse,50429,Smartronix,246,4,1
+Mouse,50430,SnapSense,159,2,7
+Mouse,50431,Social Explorer,249,5,8
+Mouse,50432,Social Health Insights,217,3,6
+Mouse,50433,SocialEffort Inc,178,5,6
+Mouse,50434,Socrata,262,4,9
+Mouse,50435,Solar Census,55,8,1
+Mouse,50436,SolarList,26,5,1
+Mouse,50437,Sophic Systems Alliance,207,2,1
+Mouse,50438,S&P Capital IQ,118,7,5
+Mouse,50439,SpaceCurve,107,3,2
+Mouse,50440,SpeSo Health,297,6,5
+Mouse,50441,Spikes Cavell Analytic Inc,114,7,8
+Mouse,50442,Splunk,188,9,3
+Mouse,50443,Spokeo,87,6,3
+Mouse,50444,SpotCrime,140,6,3
+Mouse,50445,SpotHero.com,113,3,8
+Mouse,50446,Stamen Design,251,3,1
+Mouse,50447,Standard and Poor's,296,6,8
+Mouse,50448,State Farm Insurance,239,7,8
+Mouse,50449,Sterling Infosystems,151,6,1
+Mouse,50450,Stevens Worldwide Van Lines,122,7,6
+Mouse,50451,STILLWATER SUPERCOMPUTING INC,118,1,9
+Mouse,50452,StockSmart,107,9,5
+Mouse,50453,Stormpulse,47,4,5
+Mouse,50454,StreamLink Software,15,4,9
+Mouse,50455,"StreetCred Software, Inc",177,8,2
+Mouse,50456,StreetEasy,228,3,6
+Mouse,50457,Suddath,63,2,9
+Mouse,50458,Symcat,88,5,4
+Mouse,50459,Synthicity,227,1,2
+Mouse,50460,T. Rowe Price,73,5,5
+Mouse,50461,Tableau Software,33,3,9
+Mouse,50462,TagniFi,31,1,7
+Mouse,50463,Telenav,15,5,4
+Mouse,50464,Tendril,76,5,1
+Mouse,50465,Teradata,230,1,1
+Mouse,50466,The Advisory Board Company,272,9,5
+Mouse,50467,The Bridgespan Group,261,5,4
+Mouse,50468,The DocGraph Journal,204,8,1
+Mouse,50469,The Govtech Fund,239,2,2
+Mouse,50470,The Schork Report,47,4,2
+Mouse,50471,The Vanguard Group,281,6,2
+Mouse,50472,Think Computer Corporation,111,7,1
+Mouse,50473,Thinknum,269,8,4
+Mouse,50474,Thomson Reuters,227,5,1
+Mouse,50475,TopCoder,182,6,8
+Mouse,50476,TowerData,61,9,7
+Mouse,50477,TransparaGov,168,4,2
+Mouse,50478,TransUnion,222,9,1
+Mouse,50479,TrialTrove,88,6,6
+Mouse,50480,TrialX,139,8,3
+Mouse,50481,Trintech,79,9,8
+Mouse,50482,TrueCar,148,6,4
+Mouse,50483,Trulia,253,1,4
+Mouse,50484,TrustedID,74,7,1
+Mouse,50485,TuvaLabs,227,8,6
+Mouse,50486,Uber,250,5,8
+Mouse,50487,Unigo LLC,19,3,7
+Mouse,50488,United Mayflower,80,9,6
+Mouse,50489,Urban Airship,171,2,6
+Mouse,50490,"Urban Mapping, Inc",96,9,8
+Mouse,50491,US Green Data,145,5,3
+Mouse,50492,U.S. News Schools,88,8,9
+Mouse,50493,USAA Group,119,2,3
+Mouse,50494,USSearch,110,5,6
+Mouse,50495,Verdafero,260,6,2
+Mouse,50496,Vimo,91,1,6
+Mouse,50497,"VisualDoD, LLC",226,8,1
+Mouse,50498,Vital Axiom | Niinja,216,3,8
+Mouse,50499,VitalChek,244,5,3
+Mouse,50500,Vitals,54,9,1
+Mouse,50501,Vizzuality,252,1,2
+Mouse,50502,Votizen,248,4,6
+Mouse,50503,Walk Score,299,7,4
+Mouse,50504,WaterSmart Software,272,7,9
+Mouse,50505,WattzOn,120,3,1
+Mouse,50506,Way Better Patents,110,1,8
+Mouse,50507,Weather Channel,255,9,6
+Mouse,50508,Weather Decision Technologies,112,6,6
+Mouse,50509,Weather Underground,276,4,5
+Mouse,50510,WebFilings,204,4,1
+Mouse,50511,Webitects,241,5,3
+Mouse,50512,WebMD,196,1,1
+Mouse,50513,Weight Watchers,59,2,9
+Mouse,50514,WeMakeItSafer,133,6,7
+Mouse,50515,Wheaton World Wide Moving,278,3,1
+Mouse,50516,Whitby Group,194,4,4
+Mouse,50517,Wolfram Research,76,7,4
+Mouse,50518,Wolters Kluwer,288,5,1
+Mouse,50519,Workhands,232,1,1
+Mouse,50520,Xatori,221,5,3
+Mouse,50521,Xcential,219,8,4
+Mouse,50522,xDayta,171,4,4
+Mouse,50523,Xignite,80,8,2
+Mouse,50524,Yahoo,221,1,9
+Mouse,50525,Zebu Compliance Solutions,89,7,1
+Mouse,50526,Yelp,70,1,8
+Mouse,50527,YourMapper,23,4,9
+Mouse,50528,Zillow,51,1,6
+Mouse,50529,ZocDoc,221,3,1
+Mouse,50530,Zonability,132,7,1
+Mouse,50531,Zoner,50,1,7
+Mouse,50532,Zurich Insurance (Risk Room),273,4,9
+Graphic Card,20001,Samsung ,722,5,5
+Graphic Card,20002,Intel,168,2,2
+Graphic Card,20003,Western Digital ,354,6,3
+Graphic Card,20004,"3 Round Stones, Inc.",775,9,5
+Graphic Card,20005,48 Factoring Inc.,483,9,3
+Graphic Card,20006,5PSolutions,139,3,1
+Graphic Card,20007,Abt Associates,485,1,7
+Graphic Card,20008,Accela,572,9,3
+Graphic Card,20009,Accenture,656,2,9
+Graphic Card,20010,AccuWeather,122,9,8
+Graphic Card,20011,Acxiom,668,3,7
+Graphic Card,20012,Adaptive,662,1,1
+Graphic Card,20013,Adobe Digital Government,750,3,4
+Graphic Card,20014,Aidin,680,2,1
+Graphic Card,20015,Alarm.com,586,3,5
+Graphic Card,20016,Allianz,184,9,9
+Graphic Card,20017,Allied Van Lines,607,2,1
+Graphic Card,20018,AllState Insurance Group,149,8,3
+Graphic Card,20019,Alltuition,285,4,2
+Graphic Card,20020,Altova,482,9,9
+Graphic Card,20021,Amazon Web Services,299,2,8
+Graphic Card,20022,American Red Ball Movers,712,1,3
+Graphic Card,20023,Amida Technology Solutions,622,7,5
+Graphic Card,20024,Analytica,50,5,7
+Graphic Card,20025,Apextech LLC,789,5,4
+Graphic Card,20026,Appallicious,643,9,6
+Graphic Card,20027,Aquicore,616,7,3
+Graphic Card,20028,Archimedes Inc.,158,2,7
+Graphic Card,20029,AreaVibes Inc.,280,3,5
+Graphic Card,20030,Arpin Van Lines,141,7,5
+Graphic Card,20031,Arrive Labs,193,8,9
+Graphic Card,20032,ASC Partners,447,5,8
+Graphic Card,20033,Asset4,505,5,9
+Graphic Card,20034,Atlas Van Lines,443,9,8
+Graphic Card,20035,AtSite,670,6,4
+Graphic Card,20036,"Aunt Bertha, Inc.",545,7,8
+Graphic Card,20037,Aureus Sciences (*Now part of Elsevier),341,4,8
+Graphic Card,20038,AutoGrid Systems,467,1,2
+Graphic Card,20039,Avalara,418,5,9
+Graphic Card,20040,Avvo,536,5,4
+Graphic Card,20041,Ayasdi,513,4,2
+Graphic Card,20042,Azavea,796,4,1
+Graphic Card,20043,BaleFire Global,163,4,4
+Graphic Card,20044,Barchart,699,5,7
+Graphic Card,20045,Be Informed,28,9,5
+Graphic Card,20046,Bekins,47,6,4
+Graphic Card,20047,Berkery Noyes MandASoft,149,4,9
+Graphic Card,20048,Berkshire Hathaway,661,1,6
+Graphic Card,20049,BetterLesson,575,2,3
+Graphic Card,20050,BillGuard,500,7,7
+Graphic Card,20051,Bing,543,2,2
+Graphic Card,20052,Biovia,209,4,5
+Graphic Card,20053,BizVizz,353,3,4
+Graphic Card,20054,BlackRock,202,2,7
+Graphic Card,20055,Bloomberg,627,6,3
+Graphic Card,20056,Booz Allen Hamilton,308,6,6
+Graphic Card,20057,Boston Consulting Group,735,2,3
+Graphic Card,20058,Boundless,37,8,6
+Graphic Card,20059,Bridgewater,324,7,3
+Graphic Card,20060,Brightscope,667,3,4
+Graphic Card,20061,BuildFax,524,1,8
+Graphic Card,20062,Buildingeye,391,7,7
+Graphic Card,20063,BuildZoom,572,6,6
+Graphic Card,20064,Business and Legal Resources,386,9,7
+Graphic Card,20065,Business Monitor International,344,2,3
+Graphic Card,20066,"Calcbench, Inc.",705,1,7
+Graphic Card,20067,Cambridge Information Group,91,7,2
+Graphic Card,20068,Cambridge Semantics,785,1,4
+Graphic Card,20069,CAN Capital,784,4,9
+Graphic Card,20070,Canon,188,3,9
+Graphic Card,20071,Capital Cube,498,2,4
+Graphic Card,20072,Cappex,229,3,6
+Graphic Card,20073,Captricity,276,9,1
+Graphic Card,20074,CareSet Systems,582,5,2
+Graphic Card,20075,Careset.com,108,2,3
+Graphic Card,20076,CARFAX,145,8,6
+Graphic Card,20077,Caspio,111,8,4
+Graphic Card,20078,Castle Biosciences,682,7,3
+Graphic Card,20079,CB Insights,55,3,5
+Graphic Card,20080,Ceiba Solutions,44,7,7
+Graphic Card,20081,Center for Responsive Politics,563,1,8
+Graphic Card,20082,Cerner,151,3,3
+Graphic Card,20083,Certara,124,2,1
+Graphic Card,20084,CGI,511,5,9
+Graphic Card,20085,Charles River Associates,38,2,7
+Graphic Card,20086,Charles Schwab Corp.,80,5,8
+Graphic Card,20087,Chemical Abstracts Service,20,9,2
+Graphic Card,20088,Child Care Desk,364,7,6
+Graphic Card,20089,Chubb,670,8,2
+Graphic Card,20090,Citigroup,81,5,2
+Graphic Card,20091,CityScan,83,8,4
+Graphic Card,20092,CitySourced,595,9,4
+Graphic Card,20093,Civic Impulse LLC,260,3,5
+Graphic Card,20094,Civic Insight,321,4,5
+Graphic Card,20095,Civinomics,272,1,3
+Graphic Card,20096,Civis Analytics,83,9,1
+Graphic Card,20097,Clean Power Finance,176,4,6
+Graphic Card,20098,ClearHealthCosts,378,9,9
+Graphic Card,20099,ClearStory Data,605,4,4
+Graphic Card,20100,Climate Corporation,370,7,2
+Graphic Card,20101,CliniCast,245,5,7
+Graphic Card,20102,Cloudmade,768,1,1
+Graphic Card,20103,Cloudspyre,435,7,7
+Graphic Card,20104,Code for America,106,1,7
+Graphic Card,20105,Code-N,368,1,2
+Graphic Card,20106,Collective IP,195,4,2
+Graphic Card,20107,"College Abacus, an ECMC initiative",653,8,1
+Graphic Card,20108,College Board,608,7,3
+Graphic Card,20109,Compared Care,799,5,1
+Graphic Card,20110,Compendia Bioscience Life Technologies,123,1,3
+Graphic Card,20111,Compliance and Risks,216,5,9
+Graphic Card,20112,Computer Packages Inc,786,3,3
+Graphic Card,20113,CONNECT-DOT LLC.,74,2,4
+Graphic Card,20114,ConnectEDU,319,8,7
+Graphic Card,20115,Connotate,450,7,2
+Graphic Card,20116,Construction Monitor LLC,115,7,5
+Graphic Card,20117,Consumer Reports,293,9,4
+Graphic Card,20118,CoolClimate,538,5,7
+Graphic Card,20119,Copyright Clearance Center,157,9,9
+Graphic Card,20120,CoreLogic,739,3,8
+Graphic Card,20121,CostQuest,386,6,3
+Graphic Card,20122,Credit Karma,292,8,8
+Graphic Card,20123,Credit Sesame,668,3,4
+Graphic Card,20124,CrowdANALYTIX,741,3,1
+Graphic Card,20125,Dabo Health,655,6,4
+Graphic Card,20126,DataLogix,303,8,1
+Graphic Card,20127,DataMade,428,1,1
+Graphic Card,20128,DataMarket,230,4,5
+Graphic Card,20129,Datamyne,624,9,6
+Graphic Card,20130,DataWeave,551,5,5
+Graphic Card,20131,Deloitte,486,1,4
+Graphic Card,20132,DemystData,523,6,4
+Graphic Card,20133,Department of Better Technology,286,1,1
+Graphic Card,20134,Development Seed,430,1,8
+Graphic Card,20135,"Docket Alarm, Inc.",600,4,1
+Graphic Card,20136,Dow Jones & Co.,140,2,4
+Graphic Card,20137,Dun & Bradstreet,787,8,6
+Graphic Card,20138,Earth Networks,543,6,1
+Graphic Card,20139,EarthObserver App,264,8,2
+Graphic Card,20140,Earthquake Alert!,628,7,4
+Graphic Card,20141,Eat Shop Sleep,457,5,8
+Graphic Card,20142,Ecodesk,763,8,2
+Graphic Card,20143,eInstitutional,531,2,6
+Graphic Card,20144,Embark,604,2,5
+Graphic Card,20145,EMC,94,3,6
+Graphic Card,20146,"Energy Points, Inc.",438,6,8
+Graphic Card,20147,Energy Solutions Forum,627,1,5
+Graphic Card,20148,Enervee Corporation,68,1,2
+Graphic Card,20149,Enigma.io,423,6,1
+Graphic Card,20150,Ensco,340,2,8
+Graphic Card,20151,Environmental Data Resources,767,7,5
+Graphic Card,20152,Epsilon,161,8,9
+Graphic Card,20153,Equal Pay for Women,399,7,5
+Graphic Card,20154,Equifax,142,1,5
+Graphic Card,20155,Equilar,514,3,9
+Graphic Card,20156,Ernst & Young LLP,242,5,3
+Graphic Card,20157,eScholar LLC.,48,1,6
+Graphic Card,20158,Esri,447,9,4
+Graphic Card,20159,Estately,193,2,8
+Graphic Card,20160,Everyday Health,564,6,2
+Graphic Card,20161,Evidera,738,5,7
+Graphic Card,20162,Experian,419,9,9
+Graphic Card,20163,"Expert Health Data Programming, Inc.",628,9,5
+Graphic Card,20164,Exversion,251,8,4
+Graphic Card,20165,Ez-XBRL,264,7,4
+Graphic Card,20166,Factset,789,1,3
+Graphic Card,20167,Factual,273,8,1
+Graphic Card,20168,Farmers,396,7,8
+Graphic Card,20169,FarmLogs,286,9,3
+Graphic Card,20170,Fastcase,705,7,1
+Graphic Card,20171,Fidelity Investments,432,7,5
+Graphic Card,20172,FindTheBest.com,101,9,2
+Graphic Card,20173,First Fuel Software,305,2,7
+Graphic Card,20174,"FirstPoint, Inc.",505,3,1
+Graphic Card,20175,Fitch,177,9,6
+Graphic Card,20176,FlightAware,566,7,9
+Graphic Card,20177,FlightStats,144,3,7
+Graphic Card,20178,FlightView,557,1,8
+Graphic Card,20179,Food+Tech Connect,117,2,2
+Graphic Card,20180,Forrester Research,617,2,3
+Graphic Card,20181,Foursquare,180,4,4
+Graphic Card,20182,Fujitsu,558,2,5
+Graphic Card,20183,Funding Circle,708,9,4
+Graphic Card,20184,FutureAdvisor,632,1,1
+Graphic Card,20185,"Fuzion Apps, Inc.",165,7,1
+Graphic Card,20186,Gallup,759,9,1
+Graphic Card,20187,Galorath Incorporated,714,7,1
+Graphic Card,20188,Garmin,16,7,8
+Graphic Card,20189,Genability,414,4,2
+Graphic Card,20190,GenoSpace,666,6,5
+Graphic Card,20191,Geofeedia,200,5,3
+Graphic Card,20192,Geolytics,320,8,4
+Graphic Card,20193,Geoscape,675,1,1
+Graphic Card,20194,GetRaised,105,3,9
+Graphic Card,20195,GitHub,565,1,4
+Graphic Card,20196,Glassy Media,593,4,8
+Graphic Card,20197,Golden Helix,738,2,4
+Graphic Card,20198,GoodGuide,481,9,7
+Graphic Card,20199,Google Maps,762,5,2
+Graphic Card,20200,Google Public Data Explorer,590,3,1
+Graphic Card,20201,Government Transaction Services,69,4,1
+Graphic Card,20202,Govini,87,9,1
+Graphic Card,20203,GovTribe,185,2,4
+Graphic Card,20204,"Govzilla, Inc.",601,3,5
+Graphic Card,20205,gRadiant Research LLC,211,5,8
+Graphic Card,20206,Graebel Van Lines,776,8,9
+Graphic Card,20207,"Graematter, Inc.",292,7,3
+Graphic Card,20208,Granicus,470,9,4
+Graphic Card,20209,GreatSchools,310,5,6
+Graphic Card,20210,GuideStar,51,7,5
+Graphic Card,20211,H3 Biomedicine,484,6,7
+Graphic Card,20212,Harris Corporation,381,3,7
+Graphic Card,20213,"HDScores, Inc",257,4,7
+Graphic Card,20214,Headlight,442,7,5
+Graphic Card,20215,Healthgrades,204,7,9
+Graphic Card,20216,Healthline,245,2,7
+Graphic Card,20217,HealthMap,311,8,7
+Graphic Card,20218,"HealthPocket, Inc.",576,6,1
+Graphic Card,20219,HelloWallet,635,8,5
+Graphic Card,20220,HERE,773,5,1
+Graphic Card,20221,Honest Buildings,56,1,6
+Graphic Card,20222,HopStop,171,7,6
+Graphic Card,20223,Housefax,676,8,8
+Graphic Card,20224,How's My Offer?,118,8,4
+Graphic Card,20225,IBM,253,3,3
+Graphic Card,20226,ideas42,572,8,1
+Graphic Card,20227,iFactor Consulting,413,1,4
+Graphic Card,20228,IFI CLAIMS Patent Services,633,5,5
+Graphic Card,20229,iMedicare,496,9,2
+Graphic Card,20230,Impact Forecasting (Aon),696,6,8
+Graphic Card,20231,Impaq International,400,6,5
+Graphic Card,20232,Import.io,527,4,3
+Graphic Card,20233,IMS Health,384,5,3
+Graphic Card,20234,InCadence,658,7,8
+Graphic Card,20235,indoo.rs,509,7,1
+Graphic Card,20236,InfoCommerce Group,75,1,6
+Graphic Card,20237,Informatica,703,9,5
+Graphic Card,20238,InnoCentive,325,3,7
+Graphic Card,20239,Innography,368,7,1
+Graphic Card,20240,Innovest Systems,542,2,6
+Graphic Card,20241,Inovalon,39,8,7
+Graphic Card,20242,Inrix Traffic,531,3,2
+Graphic Card,20243,Intelius,199,2,8
+Graphic Card,20244,Intermap Technologies,583,7,2
+Graphic Card,20245,Investormill,713,7,8
+Graphic Card,20246,Iodine,272,7,2
+Graphic Card,20247,IPHIX,206,1,4
+Graphic Card,20248,iRecycle,287,8,8
+Graphic Card,20249,iTriage,368,7,9
+Graphic Card,20250,IVES Group Inc,573,2,3
+Graphic Card,20251,IW Financial,76,9,3
+Graphic Card,20252,JJ Keller,42,6,2
+Graphic Card,20253,J.P. Morgan Chase,11,8,2
+Graphic Card,20254,"Junar, Inc.",522,9,8
+Graphic Card,20255,Junyo,193,3,5
+Graphic Card,20256,Jurispect,526,8,4
+Graphic Card,20257,Kaiser Permanante,588,3,4
+Graphic Card,20258,karmadata,342,4,4
+Graphic Card,20259,Keychain Logistics Corp.,242,4,2
+Graphic Card,20260,"KidAdmit, Inc.",794,2,5
+Graphic Card,20261,Kimono Labs,451,8,1
+Graphic Card,20262,KLD Research,642,5,4
+Graphic Card,20263,Knoema,552,1,5
+Graphic Card,20264,Knowledge Agency,101,9,3
+Graphic Card,20265,KPMG,183,4,7
+Graphic Card,20266,Kroll Bond Ratings Agency,424,5,3
+Graphic Card,20267,Kyruus,362,2,5
+Graphic Card,20268,Lawdragon,759,5,4
+Graphic Card,20269,Legal Science Partners,540,8,7
+Graphic Card,20270,(Leg)Cyte,236,6,9
+Graphic Card,20271,"LegiNation, Inc.",394,2,3
+Graphic Card,20272,LegiStorm,272,8,7
+Graphic Card,20273,Lenddo,355,6,3
+Graphic Card,20274,Lending Club,96,2,6
+Graphic Card,20275,Level One Technologies,551,1,7
+Graphic Card,20276,LexisNexis,739,2,9
+Graphic Card,20277,Liberty Mutual Insurance Cos.,442,7,5
+Graphic Card,20278,Lilly Open Innovation Drug Discovery,302,7,5
+Graphic Card,20279,Liquid Robotics,473,6,4
+Graphic Card,20280,Locavore,395,9,9
+Graphic Card,20281,"LOGIXDATA, LLC",198,7,6
+Graphic Card,20282,LoopNet,94,3,3
+Graphic Card,20283,"Loqate, Inc.",274,7,9
+Graphic Card,20284,LoseIt.com,721,2,3
+Graphic Card,20285,LOVELAND Technologies,659,9,7
+Graphic Card,20286,Lucid,503,3,8
+Graphic Card,20287,"Lumesis, Inc.",607,9,6
+Graphic Card,20288,Mango Transit,686,6,9
+Graphic Card,20289,Mapbox,677,1,4
+Graphic Card,20290,Maponics,155,7,1
+Graphic Card,20291,MapQuest,347,3,9
+Graphic Card,20292,"Marinexplore, Inc.",10,8,4
+Graphic Card,20293,MarketSense,277,9,7
+Graphic Card,20294,Marlin & Associates,257,2,3
+Graphic Card,20295,Marlin Alter and Associates,268,6,3
+Graphic Card,20296,McGraw Hill Financial,148,9,3
+Graphic Card,20297,McKinsey,14,2,9
+Graphic Card,20298,MedWatcher,700,7,8
+Graphic Card,20299,Mercaris,410,4,5
+Graphic Card,20300,Merrill Corp.,777,9,9
+Graphic Card,20301,Merrill Lynch,65,4,1
+Graphic Card,20302,MetLife,571,7,3
+Graphic Card,20303,mHealthCoach,669,1,7
+Graphic Card,20304,MicroBilt Corporation,291,9,6
+Graphic Card,20305,Microsoft Windows Azure Marketplace,115,6,4
+Graphic Card,20306,Mint,134,8,4
+Graphic Card,20307,Moody's,293,5,8
+Graphic Card,20308,Morgan Stanley,669,1,4
+Graphic Card,20309,"Morningstar, Inc.",589,8,6
+Graphic Card,20310,Mozio,384,6,9
+Graphic Card,20311,MuckRock.com,764,4,7
+Graphic Card,20312,Munetrix,446,2,8
+Graphic Card,20313,Municode,668,9,2
+Graphic Card,20314,National Van Lines,224,4,5
+Graphic Card,20315,Nationwide Mutual Insurance Company,101,6,1
+Graphic Card,20316,Nautilytics,594,8,8
+Graphic Card,20317,Navico,539,3,5
+Graphic Card,20318,NERA Economic Consulting,370,4,9
+Graphic Card,20319,NerdWallet,586,5,4
+Graphic Card,20320,New Media Parents,13,1,1
+Graphic Card,20321,Next Step Living,57,8,1
+Graphic Card,20322,NextBus,326,7,9
+Graphic Card,20323,nGAP Incorporated,753,5,6
+Graphic Card,20324,Nielsen,352,7,1
+Graphic Card,20325,Noesis,500,8,5
+Graphic Card,20326,NonprofitMetrics,625,1,4
+Graphic Card,20327,North American Van Lines,48,2,3
+Graphic Card,20328,Noveda Technologies,418,6,7
+Graphic Card,20329,NuCivic,284,5,3
+Graphic Card,20330,Numedii,392,8,2
+Graphic Card,20331,Oliver Wyman,441,5,8
+Graphic Card,20332,OnDeck,98,1,9
+Graphic Card,20333,OnStar,434,2,5
+Graphic Card,20334,"Ontodia, Inc",651,1,7
+Graphic Card,20335,Onvia,389,8,3
+Graphic Card,20336,Open Data Nation,140,7,6
+Graphic Card,20337,OpenCounter,656,4,1
+Graphic Card,20338,OpenGov,505,6,8
+Graphic Card,20339,OpenPlans,582,4,4
+Graphic Card,20340,"OpportunitySpace, Inc.",277,3,5
+Graphic Card,20341,Optensity,117,5,3
+Graphic Card,20342,optiGov,18,5,8
+Graphic Card,20343,OptumInsight,219,2,9
+Graphic Card,20344,Orlin Research,738,9,7
+Graphic Card,20345,OSIsoft,398,1,6
+Graphic Card,20346,OTC Markets,388,7,2
+Graphic Card,20347,Outline,699,2,3
+Graphic Card,20348,Oversight Systems,280,2,5
+Graphic Card,20349,Overture Technologies,69,8,5
+Graphic Card,20350,Owler,155,2,5
+Graphic Card,20351,Palantir Technologies,599,9,5
+Graphic Card,20352,Panjiva,382,1,9
+Graphic Card,20353,Parsons Brinckerhoff,481,7,9
+Graphic Card,20354,Patently-O,176,5,7
+Graphic Card,20355,PatientsLikeMe,283,3,5
+Graphic Card,20356,Pave,668,5,3
+Graphic Card,20357,Paxata,398,9,2
+Graphic Card,20358,"PayScale, Inc.",58,8,1
+Graphic Card,20359,PeerJ,468,7,3
+Graphic Card,20360,People Power,353,4,2
+Graphic Card,20361,Persint,395,3,6
+Graphic Card,20362,Personal Democracy Media,199,4,5
+Graphic Card,20363,"Personal, Inc.",81,7,7
+Graphic Card,20364,Personalis,584,2,6
+Graphic Card,20365,Peterson's,367,8,2
+Graphic Card,20366,PEV4me.com,561,1,8
+Graphic Card,20367,PIXIA Corp,717,8,8
+Graphic Card,20368,PlaceILive.com,464,5,8
+Graphic Card,20369,PlanetEcosystems,22,1,6
+Graphic Card,20370,PlotWatt,557,1,4
+Graphic Card,20371,Plus-U,655,3,2
+Graphic Card,20372,PolicyMap,510,4,2
+Graphic Card,20373,Politify,701,4,8
+Graphic Card,20374,Poncho App,437,1,1
+Graphic Card,20375,POPVOX,80,2,1
+Graphic Card,20376,Porch,585,8,9
+Graphic Card,20377,PossibilityU,229,3,3
+Graphic Card,20378,PowerAdvocate,49,9,4
+Graphic Card,20379,Practice Fusion,673,1,5
+Graphic Card,20380,Predilytics,323,9,5
+Graphic Card,20381,PricewaterhouseCoopers (PWC),528,4,4
+Graphic Card,20382,ProgrammableWeb,764,5,5
+Graphic Card,20383,Progressive Insurance Group,656,6,3
+Graphic Card,20384,Propeller Health,744,6,5
+Graphic Card,20385,ProPublica,609,4,5
+Graphic Card,20386,PublicEngines,386,9,6
+Graphic Card,20387,PYA Analytics,507,5,1
+Graphic Card,20388,"Qado Energy, Inc.",538,6,3
+Graphic Card,20389,Quandl,62,3,8
+Graphic Card,20390,Quertle,637,5,6
+Graphic Card,20391,Quid,144,6,2
+Graphic Card,20392,R R Donnelley,652,1,7
+Graphic Card,20393,RAND Corporation,484,7,4
+Graphic Card,20394,Rand McNally,21,7,6
+Graphic Card,20395,Rank and Filed,447,2,2
+Graphic Card,20396,Ranku,28,5,5
+Graphic Card,20397,Rapid Cycle Solutions,122,5,7
+Graphic Card,20398,realtor.com,451,2,7
+Graphic Card,20399,Recargo,658,8,2
+Graphic Card,20400,ReciPal,131,9,4
+Graphic Card,20401,Redfin,122,7,2
+Graphic Card,20402,RedLaser,132,4,5
+Graphic Card,20403,Reed Elsevier,554,4,8
+Graphic Card,20404,REI Systems,658,7,9
+Graphic Card,20405,Relationship Science,716,9,3
+Graphic Card,20406,Remi,138,1,3
+Graphic Card,20407,Retroficiency,561,4,8
+Graphic Card,20408,Revaluate,480,9,3
+Graphic Card,20409,Revelstone,449,8,1
+Graphic Card,20410,Rezolve Group,571,6,7
+Graphic Card,20411,Rivet Software,323,2,4
+Graphic Card,20412,Roadify Transit,64,5,2
+Graphic Card,20413,Robinson + Yu,434,3,7
+Graphic Card,20414,Russell Investments,528,4,2
+Graphic Card,20415,Sage Bionetworks,284,3,1
+Graphic Card,20416,SAP,97,8,5
+Graphic Card,20417,SAS,350,7,9
+Graphic Card,20418,Scale Unlimited,88,4,5
+Graphic Card,20419,Science Exchange,639,7,1
+Graphic Card,20420,Seabourne,549,1,7
+Graphic Card,20421,SeeClickFix,152,3,3
+Graphic Card,20422,SigFig,248,6,9
+Graphic Card,20423,Simple Energy,58,6,1
+Graphic Card,20424,SimpleTuition,354,3,6
+Graphic Card,20425,SlashDB,381,7,3
+Graphic Card,20426,Smart Utility Systems,168,1,8
+Graphic Card,20427,SmartAsset,271,7,3
+Graphic Card,20428,SmartProcure,509,5,9
+Graphic Card,20429,Smartronix,39,8,2
+Graphic Card,20430,SnapSense,194,5,5
+Graphic Card,20431,Social Explorer,185,8,3
+Graphic Card,20432,Social Health Insights,589,8,9
+Graphic Card,20433,SocialEffort Inc,547,3,6
+Graphic Card,20434,Socrata,652,6,4
+Graphic Card,20435,Solar Census,462,9,9
+Graphic Card,20436,SolarList,798,2,2
+Graphic Card,20437,Sophic Systems Alliance,678,7,1
+Graphic Card,20438,S&P Capital IQ,523,5,5
+Graphic Card,20439,SpaceCurve,530,9,7
+Graphic Card,20440,SpeSo Health,673,9,5
+Graphic Card,20441,Spikes Cavell Analytic Inc,565,6,2
+Graphic Card,20442,Splunk,602,2,5
+Graphic Card,20443,Spokeo,231,5,2
+Graphic Card,20444,SpotCrime,277,6,5
+Graphic Card,20445,SpotHero.com,207,5,1
+Graphic Card,20446,Stamen Design,273,4,5
+Graphic Card,20447,Standard and Poor's,628,3,3
+Graphic Card,20448,State Farm Insurance,78,2,1
+Graphic Card,20449,Sterling Infosystems,357,1,9
+Graphic Card,20450,Stevens Worldwide Van Lines,359,1,6
+Graphic Card,20451,STILLWATER SUPERCOMPUTING INC,225,8,9
+Graphic Card,20452,StockSmart,169,9,2
+Graphic Card,20453,Stormpulse,635,1,9
+Graphic Card,20454,StreamLink Software,507,2,2
+Graphic Card,20455,"StreetCred Software, Inc",226,6,4
+Graphic Card,20456,StreetEasy,541,9,5
+Graphic Card,20457,Suddath,376,8,6
+Graphic Card,20458,Symcat,32,2,3
+Graphic Card,20459,Synthicity,108,3,9
+Graphic Card,20460,T. Rowe Price,225,6,7
+Graphic Card,20461,Tableau Software,485,1,7
+Graphic Card,20462,TagniFi,769,1,1
+Graphic Card,20463,Telenav,23,2,6
+Graphic Card,20464,Tendril,456,6,9
+Graphic Card,20465,Teradata,685,7,6
+Graphic Card,20466,The Advisory Board Company,13,3,1
+Graphic Card,20467,The Bridgespan Group,532,2,2
+Graphic Card,20468,The DocGraph Journal,31,9,4
+Graphic Card,20469,The Govtech Fund,143,8,7
+Graphic Card,20470,The Schork Report,333,5,3
+Graphic Card,20471,The Vanguard Group,81,6,8
+Graphic Card,20472,Think Computer Corporation,298,4,8
+Graphic Card,20473,Thinknum,107,5,1
+Graphic Card,20474,Thomson Reuters,57,8,5
+Graphic Card,20475,TopCoder,686,5,4
+Graphic Card,20476,TowerData,502,1,7
+Graphic Card,20477,TransparaGov,577,3,1
+Graphic Card,20478,TransUnion,155,2,6
+Graphic Card,20479,TrialTrove,610,7,5
+Graphic Card,20480,TrialX,521,4,4
+Graphic Card,20481,Trintech,684,8,9
+Graphic Card,20482,TrueCar,313,8,7
+Graphic Card,20483,Trulia,747,3,5
+Graphic Card,20484,TrustedID,453,3,8
+Graphic Card,20485,TuvaLabs,698,6,8
+Graphic Card,20486,Uber,28,7,3
+Graphic Card,20487,Unigo LLC,578,2,1
+Graphic Card,20488,United Mayflower,649,5,1
+Graphic Card,20489,Urban Airship,484,8,3
+Graphic Card,20490,"Urban Mapping, Inc",771,2,4
+Graphic Card,20491,US Green Data,643,7,8
+Graphic Card,20492,U.S. News Schools,228,8,3
+Graphic Card,20493,USAA Group,648,6,3
+Graphic Card,20494,USSearch,572,7,5
+Graphic Card,20495,Verdafero,126,5,6
+Graphic Card,20496,Vimo,98,5,3
+Graphic Card,20497,"VisualDoD, LLC",87,7,4
+Graphic Card,20498,Vital Axiom | Niinja,451,3,9
+Graphic Card,20499,VitalChek,10,5,4
+Graphic Card,20500,Vitals,129,9,9
+Graphic Card,20501,Vizzuality,337,8,6
+Graphic Card,20502,Votizen,512,2,3
+Graphic Card,20503,Walk Score,483,9,8
+Graphic Card,20504,WaterSmart Software,383,9,9
+Graphic Card,20505,WattzOn,182,7,8
+Graphic Card,20506,Way Better Patents,612,8,8
+Graphic Card,20507,Weather Channel,536,2,3
+Graphic Card,20508,Weather Decision Technologies,148,7,9
+Graphic Card,20509,Weather Underground,634,5,2
+Graphic Card,20510,WebFilings,380,4,1
+Graphic Card,20511,Webitects,166,9,6
+Graphic Card,20512,WebMD,738,8,7
+Graphic Card,20513,Weight Watchers,302,5,8
+Graphic Card,20514,WeMakeItSafer,572,5,3
+Graphic Card,20515,Wheaton World Wide Moving,521,6,6
+Graphic Card,20516,Whitby Group,14,4,7
+Graphic Card,20517,Wolfram Research,417,6,8
+Graphic Card,20518,Wolters Kluwer,637,5,4
+Graphic Card,20519,Workhands,187,6,4
+Graphic Card,20520,Xatori,538,2,5
+Graphic Card,20521,Xcential,28,2,5
+Graphic Card,20522,xDayta,661,9,1
+Graphic Card,20523,Xignite,672,6,8
+Graphic Card,20524,Yahoo,729,9,4
+Graphic Card,20525,Zebu Compliance Solutions,59,1,5
+Graphic Card,20526,Yelp,660,3,7
+Graphic Card,20527,YourMapper,681,9,6
+Graphic Card,20528,Zillow,243,2,6
+Graphic Card,20529,ZocDoc,606,6,4
+Graphic Card,20530,Zonability,382,8,1
+Graphic Card,20531,Zoner,267,6,1
+Graphic Card,20532,Zurich Insurance (Risk Room),403,2,8

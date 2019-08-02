@@ -1,0 +1,12 @@
+Commodity,Component,Supplier,Cost,SPR,CPR
+1 TB,30001,Western Digital,3140,6,5
+1 TB,30002,Seagate,3900,5,6
+1 TB,30003,Toshiba,3700,4,5
+1TB,30004,HP,4000,4,6
+1 TB,30005,Samsung,3800,6,9
+2 TB,30006,Western Digital,6400,7,7
+2 TB,30007,Seagate,5200,4,6
+2 TB,30008,Toshiba,6000,3,4
+2 TB,30009,HP,7800,6,8
+2 TB,30010,Samsung,7500,7,8
+500 GB,30011,Seagate,1500,6,7
