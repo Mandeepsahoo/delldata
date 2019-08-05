@@ -152,3 +152,33 @@ Radeon Pro WX 4100,20014,Video BIOS,5,1400,6,6
 32 GB,60017,Board,1,10000,6,6
 32 GB,60017,Clock,1,4000,6,6
 32 GB,60017,Mode Register,1,5000,6,8
+LED Low,70001,Panel,1,1000,6,7
+LED Low,70001,Tube,1,600,6,7
+LED Low,70001,Power Supply Unit,1,500,6,7
+LED High,70002,Panel,1,1000,6,8
+LED High,70002,Tube,1,1000,6,6
+LED High,70002,Power Supply Unit,1,400,6,7
+OLED Low,70003,Panel,1,3000,5,7
+OLED Low,70003,Tube,1,2500,5,6
+OLED Low,70003,Power Supply Unit,1,1500,5,7
+OLED High,70004,Panel,1,4000,6,8
+OLED High,70004,Tube,1,3000,5,6
+OLED High,70004,Power Supply Unit,1,2000,6,7
+AMOLED Low,70005,Panel,1,6000,7,6
+AMOLED Low,70005,Tube,1,4000,5,6
+AMOLED Low,70005,Power Supply Unit,1,1000,6,7
+AMOLED High,70006,Panel,1,7000,7,7
+AMOLED High,70006,Tube,1,4000,5,7
+AMOLED High,70006,Power Supply Unit,1,3000,6,7
+Retina Low,70007,Panel,1,10000,6,6
+Retina Low,70007,Tube,1,6000,6,6
+Retina Low,70007,Power Supply Unit,1,3000,6,5
+Retina High,70008,Panel,1,11000,7,7
+Retina High,70008,Tube,1,7000,5,7
+Retina High,70008,Power Supply Unit,1,4000,6,6
+LCD Low,70009,Panel,1,1000,5,8
+LCD Low,70009,Tube,1,600,5,7
+LCD Low,70009,Power Supply Unit,1,200,6,7
+LCD High,70010,Panel,1,1000,8,8
+LCD High,70010,Tube,1,600,7,7
+LCD High,70010,Power Supply Unit,1,500,8,6
